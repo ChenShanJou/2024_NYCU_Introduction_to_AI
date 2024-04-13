@@ -1,1 +1,1 @@
-# 2024_NYCU_Introduction_to_AI
+# Introduction_to_AI_Final_Project
