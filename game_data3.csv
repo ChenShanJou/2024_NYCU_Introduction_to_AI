@@ -1,0 +1,3295 @@
+details,result
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 4, 助攻數: 8 - 獲得金錢: 10456 - 經驗值: 14665, 等级: 15 - 小兵擊殺數: 198, 野怪擊殺數: 0 關鍵事件:
+- 在 388 秒時，(Singed (TOP)) 被 (Rumble (TOP)) 擊殺
+- 在 418 秒時，(Singed (TOP)) 助攻 (Karthus (JUNGLE)) 擊殺了 (Lillia (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Karthus (JUNGLE)
+終場表現: - 擊殺數: 6, 死亡數: 5, 助攻數: 10 - 獲得金錢: 12951 - 經驗值: 16530, 等级: 17 - 小兵擊殺數: 25, 野怪擊殺數: 213 關鍵事件:
+- 在 373 秒時，(Karthus (JUNGLE)) 被 (Rumble (TOP)) 擊殺
+- 在 388 秒時，(Karthus (JUNGLE)) 助攻 (Rumble (TOP)) 擊殺了 (Singed (TOP))
+- 在 418 秒時，(Karthus (JUNGLE)) 擊殺了 (Lillia (JUNGLE))
+- 在 514 秒時，(Karthus (JUNGLE)) 擊殺了 小龍
+- 在 518 秒時，(Karthus (JUNGLE)) 被 (Syndra (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Corki (MIDDLE)
+終場表現: - 擊殺數: 10, 死亡數: 3, 助攻數: 6 - 獲得金錢: 15429 - 經驗值: 17241, 等级: 17 - 小兵擊殺數: 246, 野怪擊殺數: 12 關鍵事件:
+- 在 315 秒時，(Corki (MIDDLE)) 被 (Syndra (MIDDLE)) 擊殺
+- 在 374 秒時，(Corki (MIDDLE)) 擊殺了 (Syndra (MIDDLE))
+- 在 414 秒時，(Corki (MIDDLE)) 擊殺了 (Rumble (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kalista (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 5, 助攻數: 4 - 獲得金錢: 12565 - 經驗值: 12077, 等级: 14 - 小兵擊殺數: 190, 野怪擊殺數: 16 關鍵事件:
+- 在 514 秒時，(Kalista (BOTTOM)) 被 (Sivir (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Milio (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 3, 助攻數: 17 - 獲得金錢: 7670 - 經驗值: 11344, 等级: 13 - 小兵擊殺數: 31, 野怪擊殺數: 0 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Rumble (TOP)
+終場表現: - 擊殺數: 7, 死亡數: 3, 助攻數: 5 - 獲得金錢: 11680 - 經驗值: 14153, 等级: 15 - 小兵擊殺數: 203, 野怪擊殺數: 12 關鍵事件:
+- 在 373 秒時，(Rumble (TOP)) 擊殺了 (Karthus (JUNGLE))
+- 在 388 秒時，(Rumble (TOP)) 擊殺了 (Singed (TOP))
+- 在 414 秒時，(Rumble (TOP)) 被 (Corki (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lillia (JUNGLE)
+終場表現: - 擊殺數: 1, 死亡數: 8, 助攻數: 10 - 獲得金錢: 9950 - 經驗值: 12496, 等级: 14 - 小兵擊殺數: 43, 野怪擊殺數: 141 關鍵事件:
+- 在 373 秒時，(Lillia (JUNGLE)) 助攻 (Rumble (TOP)) 擊殺了 (Karthus (JUNGLE))
+- 在 388 秒時，(Lillia (JUNGLE)) 助攻 (Rumble (TOP)) 擊殺了 (Singed (TOP))
+- 在 418 秒時，(Lillia (JUNGLE)) 被 (Karthus (JUNGLE)) 擊殺
+- 在 514 秒時，(Lillia (JUNGLE)) 助攻 (Sivir (BOTTOM)) 擊殺了 (Kalista (BOTTOM))
+- 在 518 秒時，(Lillia (JUNGLE)) 助攻 (Syndra (MIDDLE)) 擊殺了 (Karthus (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Syndra (MIDDLE)
+終場表現: - 擊殺數: 8, 死亡數: 5, 助攻數: 2 - 獲得金錢: 11178 - 經驗值: 13423, 等级: 15 - 小兵擊殺數: 199, 野怪擊殺數: 0 關鍵事件:
+- 在 315 秒時，(Syndra (MIDDLE)) 擊殺了 (Corki (MIDDLE))
+- 在 374 秒時，(Syndra (MIDDLE)) 被 (Corki (MIDDLE)) 擊殺
+- 在 514 秒時，(Syndra (MIDDLE)) 助攻 (Sivir (BOTTOM)) 擊殺了 (Kalista (BOTTOM))
+- 在 518 秒時，(Syndra (MIDDLE)) 擊殺了 (Karthus (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Sivir (BOTTOM)
+終場表現: - 擊殺數: 3, 死亡數: 4, 助攻數: 6 - 獲得金錢: 11948 - 經驗值: 11542, 等级: 14 - 小兵擊殺數: 226, 野怪擊殺數: 8 關鍵事件:
+- 在 514 秒時，(Sivir (BOTTOM)) 擊殺了 (Kalista (BOTTOM))
+- 在 518 秒時，(Sivir (BOTTOM)) 助攻 (Syndra (MIDDLE)) 擊殺了 (Karthus (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Braum (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 4, 助攻數: 11 - 獲得金錢: 7071 - 經驗值: 9102, 等级: 12 - 小兵擊殺數: 28, 野怪擊殺數: 0 關鍵事件:
+- 在 514 秒時，(Braum (UTILITY)) 助攻 (Sivir (BOTTOM)) 擊殺了 (Kalista (BOTTOM))
+- 在 518 秒時，(Braum (UTILITY)) 助攻 (Syndra (MIDDLE)) 擊殺了 (Karthus (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 3, 死亡數: 1, 助攻數: 12 - 獲得金錢: 10706 - 經驗值: 15062, 等级: 16 - 小兵擊殺數: 179, 野怪擊殺數: 0 關鍵事件:
+- 在 438 秒時，(Singed (TOP)) 被 (Olaf (TOP)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: MasterYi (JUNGLE)
+終場表現: - 擊殺數: 12, 死亡數: 2, 助攻數: 7 - 獲得金錢: 14634 - 經驗值: 16012, 等级: 16 - 小兵擊殺數: 25, 野怪擊殺數: 195 關鍵事件:
+- 在 399 秒時，(MasterYi (JUNGLE)) 助攻 (Thresh (UTILITY)) 擊殺了 (AurelionSol (MIDDLE))
+- 在 423 秒時，(MasterYi (JUNGLE)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Viego (JUNGLE))
+- 在 436 秒時，(MasterYi (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+- 在 441 秒時，(MasterYi (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 494 秒時，(MasterYi (JUNGLE)) 擊殺了 小龍
+",Win
+"比賽模式: CLASSIC
+使用英雄: Malphite (MIDDLE)
+終場表現: - 擊殺數: 0, 死亡數: 7, 助攻數: 9 - 獲得金錢: 9145 - 經驗值: 12223, 等级: 14 - 小兵擊殺數: 179, 野怪擊殺數: 4 關鍵事件:
+- 在 388 秒時，(Malphite (MIDDLE)) 被 (Zeri (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kaisa (BOTTOM)
+終場表現: - 擊殺數: 9, 死亡數: 3, 助攻數: 7 - 獲得金錢: 12449 - 經驗值: 11472, 等级: 14 - 小兵擊殺數: 208, 野怪擊殺數: 8 關鍵事件:
+- 在 399 秒時，(Kaisa (BOTTOM)) 助攻 (Thresh (UTILITY)) 擊殺了 (AurelionSol (MIDDLE))
+- 在 423 秒時，(Kaisa (BOTTOM)) 擊殺了 (Viego (JUNGLE))
+- 在 441 秒時，(Kaisa (BOTTOM)) 助攻 (MasterYi (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Thresh (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 3, 助攻數: 15 - 獲得金錢: 7760 - 經驗值: 11254, 等级: 13 - 小兵擊殺數: 35, 野怪擊殺數: 0 關鍵事件:
+- 在 399 秒時，(Thresh (UTILITY)) 擊殺了 (AurelionSol (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Olaf (TOP)
+終場表現: - 擊殺數: 3, 死亡數: 6, 助攻數: 1 - 獲得金錢: 9626 - 經驗值: 12405, 等级: 14 - 小兵擊殺數: 190, 野怪擊殺數: 0 關鍵事件:
+- 在 438 秒時，(Olaf (TOP)) 擊殺了 (Singed (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Viego (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 6, 助攻數: 2 - 獲得金錢: 8562 - 經驗值: 9828, 等级: 12 - 小兵擊殺數: 12, 野怪擊殺數: 139 關鍵事件:
+- 在 388 秒時，(Viego (JUNGLE)) 助攻 (Zeri (BOTTOM)) 擊殺了 (Malphite (MIDDLE))
+- 在 423 秒時，(Viego (JUNGLE)) 被 (Kaisa (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: AurelionSol (MIDDLE)
+終場表現: - 擊殺數: 6, 死亡數: 6, 助攻數: 7 - 獲得金錢: 10793 - 經驗值: 12308, 等级: 14 - 小兵擊殺數: 172, 野怪擊殺數: 2 關鍵事件:
+- 在 388 秒時，(AurelionSol (MIDDLE)) 助攻 (Zeri (BOTTOM)) 擊殺了 (Malphite (MIDDLE))
+- 在 399 秒時，(AurelionSol (MIDDLE)) 被 (Thresh (UTILITY)) 擊殺
+- 在 438 秒時，(AurelionSol (MIDDLE)) 助攻 (Olaf (TOP)) 擊殺了 (Singed (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zeri (BOTTOM)
+終場表現: - 擊殺數: 3, 死亡數: 5, 助攻數: 7 - 獲得金錢: 10512 - 經驗值: 9764, 等级: 12 - 小兵擊殺數: 246, 野怪擊殺數: 8 關鍵事件:
+- 在 388 秒時，(Zeri (BOTTOM)) 擊殺了 (Malphite (MIDDLE))
+- 在 436 秒時，(Zeri (BOTTOM)) 被 (MasterYi (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yuumi (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 3, 助攻數: 11 - 獲得金錢: 5925 - 經驗值: 9557, 等级: 12 - 小兵擊殺數: 5, 野怪擊殺數: 0 關鍵事件:
+- 在 388 秒時，(Yuumi (UTILITY)) 助攻 (Zeri (BOTTOM)) 擊殺了 (Malphite (MIDDLE))
+- 在 441 秒時，(Yuumi (UTILITY)) 被 (MasterYi (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Malphite (TOP)
+終場表現: - 擊殺數: 5, 死亡數: 3, 助攻數: 2 - 獲得金錢: 7865 - 經驗值: 11149, 等级: 13 - 小兵擊殺數: 156, 野怪擊殺數: 0 關鍵事件:
+- 在 358 秒時，(Malphite (TOP)) 被 (Belveth (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Viego (JUNGLE)
+終場表現: - 擊殺數: 5, 死亡數: 3, 助攻數: 3 - 獲得金錢: 8334 - 經驗值: 7749, 等级: 11 - 小兵擊殺數: 23, 野怪擊殺數: 99 關鍵事件:
+- 在 452 秒時，(Viego (JUNGLE)) 被 (Yasuo (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Swain (MIDDLE)
+終場表現: - 擊殺數: 1, 死亡數: 6, 助攻數: 4 - 獲得金錢: 5766 - 經驗值: 7869, 等级: 11 - 小兵擊殺數: 108, 野怪擊殺數: 0 關鍵事件:
+- 在 382 秒時，(Swain (MIDDLE)) 被 (Belveth (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Samira (BOTTOM)
+終場表現: - 擊殺數: 6, 死亡數: 7, 助攻數: 5 - 獲得金錢: 9077 - 經驗值: 8013, 等级: 11 - 小兵擊殺數: 163, 野怪擊殺數: 0 關鍵事件:
+- 在 174 秒時，(Samira (BOTTOM)) 擊殺了 (Sivir (BOTTOM))
+- 在 174 秒時，(Samira (BOTTOM)) 被 (Blitzcrank (UTILITY)) 擊殺
+- 在 228 秒時，(Samira (BOTTOM)) 擊殺了 (Blitzcrank (UTILITY))
+- 在 408 秒時，(Samira (BOTTOM)) 擊殺了 (Blitzcrank (UTILITY))
+- 在 417 秒時，(Samira (BOTTOM)) 擊殺了 (Sivir (BOTTOM))
+- 在 538 秒時，(Samira (BOTTOM)) 擊殺了 (Sivir (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Rakan (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 5, 助攻數: 14 - 獲得金錢: 5799 - 經驗值: 6802, 等级: 10 - 小兵擊殺數: 31, 野怪擊殺數: 0 關鍵事件:
+- 在 174 秒時，(Rakan (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Sivir (BOTTOM))
+- 在 228 秒時，(Rakan (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Blitzcrank (UTILITY))
+- 在 233 秒時，(Rakan (UTILITY)) 被 (Belveth (JUNGLE)) 擊殺
+- 在 408 秒時，(Rakan (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Blitzcrank (UTILITY))
+- 在 410 秒時，(Rakan (UTILITY)) 被 (Sivir (BOTTOM)) 擊殺
+- 在 538 秒時，(Rakan (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Sivir (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 4, 助攻數: 5 - 獲得金錢: 7543 - 經驗值: 10168, 等级: 13 - 小兵擊殺數: 146, 野怪擊殺數: 2 關鍵事件:
+- 在 358 秒時，(Singed (TOP)) 助攻 (Belveth (JUNGLE)) 擊殺了 (Malphite (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Belveth (JUNGLE)
+終場表現: - 擊殺數: 12, 死亡數: 1, 助攻數: 6 - 獲得金錢: 11758 - 經驗值: 12708, 等级: 14 - 小兵擊殺數: 23, 野怪擊殺數: 143 關鍵事件:
+- 在 233 秒時，(Belveth (JUNGLE)) 擊殺了 (Rakan (UTILITY))
+- 在 358 秒時，(Belveth (JUNGLE)) 擊殺了 (Malphite (TOP))
+- 在 382 秒時，(Belveth (JUNGLE)) 擊殺了 (Swain (MIDDLE))
+- 在 452 秒時，(Belveth (JUNGLE)) 助攻 (Yasuo (MIDDLE)) 擊殺了 (Viego (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Yasuo (MIDDLE)
+終場表現: - 擊殺數: 4, 死亡數: 3, 助攻數: 8 - 獲得金錢: 10058 - 經驗值: 11494, 等级: 14 - 小兵擊殺數: 163, 野怪擊殺數: 10 關鍵事件:
+- 在 382 秒時，(Yasuo (MIDDLE)) 助攻 (Belveth (JUNGLE)) 擊殺了 (Swain (MIDDLE))
+- 在 452 秒時，(Yasuo (MIDDLE)) 擊殺了 (Viego (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Sivir (BOTTOM)
+終場表現: - 擊殺數: 4, 死亡數: 4, 助攻數: 9 - 獲得金錢: 9794 - 經驗值: 10641, 等级: 13 - 小兵擊殺數: 165, 野怪擊殺數: 0 關鍵事件:
+- 在 174 秒時，(Sivir (BOTTOM)) 被 (Samira (BOTTOM)) 擊殺
+- 在 174 秒時，(Sivir (BOTTOM)) 助攻 (Blitzcrank (UTILITY)) 擊殺了 (Samira (BOTTOM))
+- 在 233 秒時，(Sivir (BOTTOM)) 助攻 (Belveth (JUNGLE)) 擊殺了 (Rakan (UTILITY))
+- 在 410 秒時，(Sivir (BOTTOM)) 擊殺了 (Rakan (UTILITY))
+- 在 417 秒時，(Sivir (BOTTOM)) 被 (Samira (BOTTOM)) 擊殺
+- 在 538 秒時，(Sivir (BOTTOM)) 被 (Samira (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Blitzcrank (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 5, 助攻數: 8 - 獲得金錢: 6269 - 經驗值: 7141, 等级: 10 - 小兵擊殺數: 30, 野怪擊殺數: 0 關鍵事件:
+- 在 174 秒時，(Blitzcrank (UTILITY)) 擊殺了 (Samira (BOTTOM))
+- 在 228 秒時，(Blitzcrank (UTILITY)) 被 (Samira (BOTTOM)) 擊殺
+- 在 233 秒時，(Blitzcrank (UTILITY)) 助攻 (Belveth (JUNGLE)) 擊殺了 (Rakan (UTILITY))
+- 在 408 秒時，(Blitzcrank (UTILITY)) 被 (Samira (BOTTOM)) 擊殺
+- 在 410 秒時，(Blitzcrank (UTILITY)) 助攻 (Sivir (BOTTOM)) 擊殺了 (Rakan (UTILITY))
+- 在 452 秒時，(Blitzcrank (UTILITY)) 助攻 (Yasuo (MIDDLE)) 擊殺了 (Viego (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Shaco (UTILITY)
+終場表現: - 擊殺數: 5, 死亡數: 4, 助攻數: 7 - 獲得金錢: 7690 - 經驗值: 7885, 等级: 11 - 小兵擊殺數: 30, 野怪擊殺數: 0 關鍵事件:
+- 在 203 秒時，(Shaco (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (RekSai (JUNGLE))
+- 在 210 秒時，(Shaco (UTILITY)) 擊殺了 (Draven (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Udyr (JUNGLE)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 9 - 獲得金錢: 7095 - 經驗值: 7886, 等级: 11 - 小兵擊殺數: 16, 野怪擊殺數: 82 關鍵事件:
+- 在 497 秒時，(Udyr (JUNGLE)) 擊殺了 小龍
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zed (MIDDLE)
+終場表現: - 擊殺數: 4, 死亡數: 8, 助攻數: 6 - 獲得金錢: 8509 - 經驗值: 10078, 等级: 13 - 小兵擊殺數: 150, 野怪擊殺數: 0 關鍵事件:
+- 在 220 秒時，(Zed (MIDDLE)) 擊殺了 (Soraka (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Corki (BOTTOM)
+終場表現: - 擊殺數: 8, 死亡數: 7, 助攻數: 9 - 獲得金錢: 10521 - 經驗值: 9118, 等级: 12 - 小兵擊殺數: 137, 野怪擊殺數: 4 關鍵事件:
+- 在 203 秒時，(Corki (BOTTOM)) 擊殺了 (RekSai (JUNGLE))
+- 在 206 秒時，(Corki (BOTTOM)) 被 (Draven (BOTTOM)) 擊殺
+- 在 210 秒時，(Corki (BOTTOM)) 助攻 (Shaco (UTILITY)) 擊殺了 (Draven (BOTTOM))
+- 在 220 秒時，(Corki (BOTTOM)) 助攻 (Zed (MIDDLE)) 擊殺了 (Soraka (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Vayne (TOP)
+終場表現: - 擊殺數: 0, 死亡數: 6, 助攻數: 2 - 獲得金錢: 5800 - 經驗值: 8998, 等级: 12 - 小兵擊殺數: 123, 野怪擊殺數: 0 關鍵事件:
+- 在 531 秒時，(Vayne (TOP)) 被 (DrMundo (TOP)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Kassadin (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 3, 助攻數: 13 - 獲得金錢: 12982 - 經驗值: 14242, 等级: 15 - 小兵擊殺數: 177, 野怪擊殺數: 0 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Soraka (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 5, 助攻數: 20 - 獲得金錢: 6626 - 經驗值: 7586, 等级: 11 - 小兵擊殺數: 17, 野怪擊殺數: 0 關鍵事件:
+- 在 220 秒時，(Soraka (UTILITY)) 被 (Zed (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: DrMundo (TOP)
+終場表現: - 擊殺數: 5, 死亡數: 2, 助攻數: 6 - 獲得金錢: 10978 - 經驗值: 13576, 等级: 15 - 小兵擊殺數: 186, 野怪擊殺數: 4 關鍵事件:
+- 在 531 秒時，(DrMundo (TOP)) 擊殺了 (Vayne (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: RekSai (JUNGLE)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 9 - 獲得金錢: 8675 - 經驗值: 9224, 等级: 12 - 小兵擊殺數: 13, 野怪擊殺數: 88 關鍵事件:
+- 在 203 秒時，(RekSai (JUNGLE)) 被 (Corki (BOTTOM)) 擊殺
+- 在 206 秒時，(RekSai (JUNGLE)) 助攻 (Draven (BOTTOM)) 擊殺了 (Corki (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Draven (BOTTOM)
+終場表現: - 擊殺數: 17, 死亡數: 3, 助攻數: 3 - 獲得金錢: 14071 - 經驗值: 11130, 等级: 13 - 小兵擊殺數: 141, 野怪擊殺數: 18 關鍵事件:
+- 在 206 秒時，(Draven (BOTTOM)) 擊殺了 (Corki (BOTTOM))
+- 在 210 秒時，(Draven (BOTTOM)) 被 (Shaco (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 11, 助攻數: 18 - 獲得金錢: 10123 - 經驗值: 15873, 等级: 16 - 小兵擊殺數: 126, 野怪擊殺數: 4 關鍵事件:
+- 在 212 秒時，(Skarner (TOP)) 被 (Rengar (JUNGLE)) 擊殺
+- 在 504 秒時，(Skarner (TOP)) 擊殺了 (Zed (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Corki (BOTTOM)
+終場表現: - 擊殺數: 24, 死亡數: 7, 助攻數: 4 - 獲得金錢: 21444 - 經驗值: 17414, 等级: 17 - 小兵擊殺數: 228, 野怪擊殺數: 4 關鍵事件:
+- 在 145 秒時，(Corki (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+- 在 249 秒時，(Corki (BOTTOM)) 助攻 (Diana (JUNGLE)) 擊殺了 (Lucian (BOTTOM))
+- 在 266 秒時，(Corki (BOTTOM)) 擊殺了 (Yuumi (UTILITY))
+- 在 440 秒時，(Corki (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+- 在 443 秒時，(Corki (BOTTOM)) 被 (Yuumi (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Tryndamere (MIDDLE)
+終場表現: - 擊殺數: 9, 死亡數: 3, 助攻數: 2 - 獲得金錢: 16834 - 經驗值: 20017, 等级: 18 - 小兵擊殺數: 255, 野怪擊殺數: 34 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Diana (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 6, 助攻數: 11 - 獲得金錢: 12243 - 經驗值: 17328, 等级: 17 - 小兵擊殺數: 27, 野怪擊殺數: 188 關鍵事件:
+- 在 249 秒時，(Diana (JUNGLE)) 擊殺了 (Lucian (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nautilus (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 9, 助攻數: 27 - 獲得金錢: 9521 - 經驗值: 13419, 等级: 15 - 小兵擊殺數: 28, 野怪擊殺數: 0 關鍵事件:
+- 在 145 秒時，(Nautilus (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+- 在 249 秒時，(Nautilus (UTILITY)) 助攻 (Diana (JUNGLE)) 擊殺了 (Lucian (BOTTOM))
+- 在 266 秒時，(Nautilus (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (Yuumi (UTILITY))
+- 在 271 秒時，(Nautilus (UTILITY)) 被 (Yuumi (UTILITY)) 擊殺
+- 在 440 秒時，(Nautilus (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Zed (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 10, 助攻數: 15 - 獲得金錢: 11147 - 經驗值: 14416, 等级: 15 - 小兵擊殺數: 183, 野怪擊殺數: 0 關鍵事件:
+- 在 212 秒時，(Zed (TOP)) 助攻 (Rengar (JUNGLE)) 擊殺了 (Skarner (TOP))
+- 在 504 秒時，(Zed (TOP)) 被 (Skarner (TOP)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Rengar (JUNGLE)
+終場表現: - 擊殺數: 9, 死亡數: 10, 助攻數: 12 - 獲得金錢: 14077 - 經驗值: 15976, 等级: 16 - 小兵擊殺數: 89, 野怪擊殺數: 125 關鍵事件:
+- 在 212 秒時，(Rengar (JUNGLE)) 擊殺了 (Skarner (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lux (MIDDLE)
+終場表現: - 擊殺數: 16, 死亡數: 5, 助攻數: 11 - 獲得金錢: 17211 - 經驗值: 19167, 等级: 18 - 小兵擊殺數: 263, 野怪擊殺數: 0 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lucian (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 8, 助攻數: 8 - 獲得金錢: 13343 - 經驗值: 13104, 等级: 15 - 小兵擊殺數: 216, 野怪擊殺數: 4 關鍵事件:
+- 在 145 秒時，(Lucian (BOTTOM)) 被 (Corki (BOTTOM)) 擊殺
+- 在 249 秒時，(Lucian (BOTTOM)) 被 (Diana (JUNGLE)) 擊殺
+- 在 440 秒時，(Lucian (BOTTOM)) 被 (Corki (BOTTOM)) 擊殺
+- 在 443 秒時，(Lucian (BOTTOM)) 助攻 (Yuumi (UTILITY)) 擊殺了 (Corki (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yuumi (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 5, 助攻數: 18 - 獲得金錢: 7879 - 經驗值: 12664, 等级: 14 - 小兵擊殺數: 19, 野怪擊殺數: 0 關鍵事件:
+- 在 266 秒時，(Yuumi (UTILITY)) 被 (Corki (BOTTOM)) 擊殺
+- 在 271 秒時，(Yuumi (UTILITY)) 擊殺了 (Nautilus (UTILITY))
+- 在 443 秒時，(Yuumi (UTILITY)) 擊殺了 (Corki (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yuumi (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 7, 助攻數: 10 - 獲得金錢: 5845 - 經驗值: 7062, 等级: 10 - 小兵擊殺數: 4, 野怪擊殺數: 0 關鍵事件:
+- 在 230 秒時，(Yuumi (UTILITY)) 被 (Sivir (BOTTOM)) 擊殺
+- 在 340 秒時，(Yuumi (UTILITY)) 助攻 (Warwick (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 391 秒時，(Yuumi (UTILITY)) 助攻 (Warwick (JUNGLE)) 擊殺了 (Milio (UTILITY))
+- 在 515 秒時，(Yuumi (UTILITY)) 助攻 (Zeri (BOTTOM)) 擊殺了 (Sivir (BOTTOM))
+- 在 516 秒時，(Yuumi (UTILITY)) 助攻 (Zeri (BOTTOM)) 擊殺了 (Milio (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zeri (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 10, 助攻數: 3 - 獲得金錢: 9494 - 經驗值: 8055, 等级: 11 - 小兵擊殺數: 160, 野怪擊殺數: 1 關鍵事件:
+- 在 251 秒時，(Zeri (BOTTOM)) 被 (Khazix (JUNGLE)) 擊殺
+- 在 340 秒時，(Zeri (BOTTOM)) 助攻 (Warwick (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 342 秒時，(Zeri (BOTTOM)) 被 (Milio (UTILITY)) 擊殺
+- 在 515 秒時，(Zeri (BOTTOM)) 擊殺了 (Sivir (BOTTOM))
+- 在 516 秒時，(Zeri (BOTTOM)) 擊殺了 (Milio (UTILITY))
+- 在 539 秒時，(Zeri (BOTTOM)) 被 (Khazix (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Warwick (JUNGLE)
+終場表現: - 擊殺數: 6, 死亡數: 6, 助攻數: 2 - 獲得金錢: 8557 - 經驗值: 7488, 等级: 11 - 小兵擊殺數: 9, 野怪擊殺數: 92 關鍵事件:
+- 在 340 秒時，(Warwick (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 391 秒時，(Warwick (JUNGLE)) 擊殺了 (Milio (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 5, 助攻數: 3 - 獲得金錢: 7530 - 經驗值: 10460, 等级: 13 - 小兵擊殺數: 149, 野怪擊殺數: 2 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zoe (MIDDLE)
+終場表現: - 擊殺數: 1, 死亡數: 6, 助攻數: 4 - 獲得金錢: 7195 - 經驗值: 9210, 等级: 12 - 小兵擊殺數: 136, 野怪擊殺數: 0 關鍵事件:
+- 在 391 秒時，(Zoe (MIDDLE)) 助攻 (Warwick (JUNGLE)) 擊殺了 (Milio (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Sett (TOP)
+終場表現: - 擊殺數: 7, 死亡數: 2, 助攻數: 5 - 獲得金錢: 10434 - 經驗值: 12329, 等级: 14 - 小兵擊殺數: 161, 野怪擊殺數: 4 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Khazix (JUNGLE)
+終場表現: - 擊殺數: 9, 死亡數: 3, 助攻數: 8 - 獲得金錢: 11315 - 經驗值: 12179, 等级: 14 - 小兵擊殺數: 14, 野怪擊殺數: 140 關鍵事件:
+- 在 251 秒時，(Khazix (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+- 在 340 秒時，(Khazix (JUNGLE)) 被 (Warwick (JUNGLE)) 擊殺
+- 在 342 秒時，(Khazix (JUNGLE)) 助攻 (Milio (UTILITY)) 擊殺了 (Zeri (BOTTOM))
+- 在 522 秒時，(Khazix (JUNGLE)) 擊殺了 小龍
+- 在 539 秒時，(Khazix (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Syndra (MIDDLE)
+終場表現: - 擊殺數: 13, 死亡數: 1, 助攻數: 11 - 獲得金錢: 14446 - 經驗值: 14436, 等级: 15 - 小兵擊殺數: 175, 野怪擊殺數: 0 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Sivir (BOTTOM)
+終場表現: - 擊殺數: 3, 死亡數: 4, 助攻數: 14 - 獲得金錢: 10982 - 經驗值: 9440, 等级: 12 - 小兵擊殺數: 185, 野怪擊殺數: 0 關鍵事件:
+- 在 230 秒時，(Sivir (BOTTOM)) 擊殺了 (Yuumi (UTILITY))
+- 在 251 秒時，(Sivir (BOTTOM)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+- 在 342 秒時，(Sivir (BOTTOM)) 助攻 (Milio (UTILITY)) 擊殺了 (Zeri (BOTTOM))
+- 在 515 秒時，(Sivir (BOTTOM)) 被 (Zeri (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Milio (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 17 - 獲得金錢: 7005 - 經驗值: 8556, 等级: 11 - 小兵擊殺數: 20, 野怪擊殺數: 0 關鍵事件:
+- 在 230 秒時，(Milio (UTILITY)) 助攻 (Sivir (BOTTOM)) 擊殺了 (Yuumi (UTILITY))
+- 在 251 秒時，(Milio (UTILITY)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+- 在 342 秒時，(Milio (UTILITY)) 擊殺了 (Zeri (BOTTOM))
+- 在 391 秒時，(Milio (UTILITY)) 被 (Warwick (JUNGLE)) 擊殺
+- 在 516 秒時，(Milio (UTILITY)) 被 (Zeri (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 5, 死亡數: 8, 助攻數: 6 - 獲得金錢: 11014 - 經驗值: 13509, 等级: 15 - 小兵擊殺數: 208, 野怪擊殺數: 4 關鍵事件:
+- 在 229 秒時，(Singed (TOP)) 被 (Vayne (TOP)) 擊殺
+- 在 232 秒時，(Singed (TOP)) 擊殺了 (Vayne (TOP))
+- 在 297 秒時，(Singed (TOP)) 被 (Vayne (TOP)) 擊殺
+- 在 490 秒時，(Singed (TOP)) 助攻 (Milio (UTILITY)) 擊殺了 (LeeSin (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: RekSai (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 10, 助攻數: 7 - 獲得金錢: 8950 - 經驗值: 9544, 等级: 12 - 小兵擊殺數: 11, 野怪擊殺數: 103 關鍵事件:
+- 在 182 秒時，(RekSai (JUNGLE)) 擊殺了 (LeeSin (JUNGLE))
+- 在 235 秒時，(RekSai (JUNGLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 487 秒時，(RekSai (JUNGLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 490 秒時，(RekSai (JUNGLE)) 助攻 (Milio (UTILITY)) 擊殺了 (LeeSin (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Hwei (MIDDLE)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 12 - 獲得金錢: 10941 - 經驗值: 13873, 等级: 15 - 小兵擊殺數: 204, 野怪擊殺數: 4 關鍵事件:
+- 在 173 秒時，(Hwei (MIDDLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 258 秒時，(Hwei (MIDDLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 490 秒時，(Hwei (MIDDLE)) 助攻 (Milio (UTILITY)) 擊殺了 (LeeSin (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jinx (BOTTOM)
+終場表現: - 擊殺數: 6, 死亡數: 5, 助攻數: 8 - 獲得金錢: 10978 - 經驗值: 11227, 等级: 13 - 小兵擊殺數: 191, 野怪擊殺數: 2 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Milio (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 3, 助攻數: 13 - 獲得金錢: 7434 - 經驗值: 9136, 等级: 12 - 小兵擊殺數: 20, 野怪擊殺數: 0 關鍵事件:
+- 在 490 秒時，(Milio (UTILITY)) 擊殺了 (LeeSin (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Vayne (TOP)
+終場表現: - 擊殺數: 5, 死亡數: 5, 助攻數: 5 - 獲得金錢: 13061 - 經驗值: 14810, 等级: 16 - 小兵擊殺數: 204, 野怪擊殺數: 25 關鍵事件:
+- 在 229 秒時，(Vayne (TOP)) 擊殺了 (Singed (TOP))
+- 在 232 秒時，(Vayne (TOP)) 被 (Singed (TOP)) 擊殺
+- 在 235 秒時，(Vayne (TOP)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (RekSai (JUNGLE))
+- 在 297 秒時，(Vayne (TOP)) 擊殺了 (Singed (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: LeeSin (JUNGLE)
+終場表現: - 擊殺數: 10, 死亡數: 5, 助攻數: 12 - 獲得金錢: 13445 - 經驗值: 15279, 等级: 16 - 小兵擊殺數: 15, 野怪擊殺數: 177 關鍵事件:
+- 在 173 秒時，(LeeSin (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 182 秒時，(LeeSin (JUNGLE)) 被 (RekSai (JUNGLE)) 擊殺
+- 在 235 秒時，(LeeSin (JUNGLE)) 擊殺了 (RekSai (JUNGLE))
+- 在 258 秒時，(LeeSin (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 487 秒時，(LeeSin (JUNGLE)) 擊殺了 (RekSai (JUNGLE))
+- 在 490 秒時，(LeeSin (JUNGLE)) 被 (Milio (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Lissandra (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 3, 助攻數: 10 - 獲得金錢: 11575 - 經驗值: 13881, 等级: 15 - 小兵擊殺數: 178, 野怪擊殺數: 0 關鍵事件:
+- 在 173 秒時，(Lissandra (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 258 秒時，(Lissandra (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 487 秒時，(Lissandra (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (RekSai (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ashe (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 4, 助攻數: 6 - 獲得金錢: 12575 - 經驗值: 14242, 等级: 15 - 小兵擊殺數: 214, 野怪擊殺數: 4 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Lulu (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 1, 助攻數: 16 - 獲得金錢: 8808 - 經驗值: 12106, 等级: 14 - 小兵擊殺數: 18, 野怪擊殺數: 0 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: DrMundo (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 2, 助攻數: 3 - 獲得金錢: 7721 - 經驗值: 8592, 等级: 12 - 小兵擊殺數: 143, 野怪擊殺數: 0 關鍵事件:
+- 在 205 秒時，(DrMundo (TOP)) 被 (Camille (UTILITY)) 擊殺
+- 在 209 秒時，(DrMundo (TOP)) 擊殺了 (Camille (UTILITY))
+- 在 346 秒時，(DrMundo (TOP)) 助攻 (Viego (JUNGLE)) 擊殺了 (Singed (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Viego (JUNGLE)
+終場表現: - 擊殺數: 8, 死亡數: 1, 助攻數: 3 - 獲得金錢: 8422 - 經驗值: 6533, 等级: 10 - 小兵擊殺數: 22, 野怪擊殺數: 90 關鍵事件:
+- 在 238 秒時，(Viego (JUNGLE)) 擊殺了 (Draven (BOTTOM))
+- 在 246 秒時，(Viego (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 253 秒時，(Viego (JUNGLE)) 助攻 (Nilah (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 346 秒時，(Viego (JUNGLE)) 擊殺了 (Singed (TOP))
+- 在 419 秒時，(Viego (JUNGLE)) 擊殺了 (Sylas (MIDDLE))
+- 在 422 秒時，(Viego (JUNGLE)) 助攻 (Lux (MIDDLE)) 擊殺了 (Draven (BOTTOM))
+- 在 430 秒時，(Viego (JUNGLE)) 助攻 (Lux (MIDDLE)) 擊殺了 (Camille (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Lux (MIDDLE)
+終場表現: - 擊殺數: 9, 死亡數: 1, 助攻數: 6 - 獲得金錢: 7120 - 經驗值: 7533, 等级: 11 - 小兵擊殺數: 92, 野怪擊殺數: 0 關鍵事件:
+- 在 162 秒時，(Lux (MIDDLE)) 擊殺了 (Sylas (MIDDLE))
+- 在 319 秒時，(Lux (MIDDLE)) 擊殺了 (Sylas (MIDDLE))
+- 在 332 秒時，(Lux (MIDDLE)) 被 (Khazix (JUNGLE)) 擊殺
+- 在 422 秒時，(Lux (MIDDLE)) 擊殺了 (Draven (BOTTOM))
+- 在 430 秒時，(Lux (MIDDLE)) 擊殺了 (Camille (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nilah (BOTTOM)
+終場表現: - 擊殺數: 5, 死亡數: 2, 助攻數: 4 - 獲得金錢: 7434 - 經驗值: 6951, 等级: 10 - 小兵擊殺數: 132, 野怪擊殺數: 0 關鍵事件:
+- 在 157 秒時，(Nilah (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 157 秒時，(Nilah (BOTTOM)) 被 (Draven (BOTTOM)) 擊殺
+- 在 238 秒時，(Nilah (BOTTOM)) 助攻 (Viego (JUNGLE)) 擊殺了 (Draven (BOTTOM))
+- 在 246 秒時，(Nilah (BOTTOM)) 助攻 (Viego (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 253 秒時，(Nilah (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 414 秒時，(Nilah (BOTTOM)) 被 (Khazix (JUNGLE)) 擊殺
+- 在 419 秒時，(Nilah (BOTTOM)) 助攻 (Viego (JUNGLE)) 擊殺了 (Sylas (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Braum (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 2, 助攻數: 9 - 獲得金錢: 4554 - 經驗值: 5903, 等级: 9 - 小兵擊殺數: 24, 野怪擊殺數: 0 關鍵事件:
+- 在 156 秒時，(Braum (UTILITY)) 被 (Camille (UTILITY)) 擊殺
+- 在 157 秒時，(Braum (UTILITY)) 助攻 (Nilah (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 238 秒時，(Braum (UTILITY)) 助攻 (Viego (JUNGLE)) 擊殺了 (Draven (BOTTOM))
+- 在 246 秒時，(Braum (UTILITY)) 助攻 (Viego (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 253 秒時，(Braum (UTILITY)) 助攻 (Nilah (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 416 秒時，(Braum (UTILITY)) 被 (Sylas (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 4, 助攻數: 1 - 獲得金錢: 4968 - 經驗值: 6380, 等级: 10 - 小兵擊殺數: 105, 野怪擊殺數: 0 關鍵事件:
+- 在 205 秒時，(Singed (TOP)) 助攻 (Camille (UTILITY)) 擊殺了 (DrMundo (TOP))
+- 在 346 秒時，(Singed (TOP)) 被 (Viego (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Khazix (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 4, 助攻數: 2 - 獲得金錢: 6893 - 經驗值: 5728, 等级: 9 - 小兵擊殺數: 6, 野怪擊殺數: 75 關鍵事件:
+- 在 246 秒時，(Khazix (JUNGLE)) 被 (Viego (JUNGLE)) 擊殺
+- 在 332 秒時，(Khazix (JUNGLE)) 擊殺了 (Lux (MIDDLE))
+- 在 414 秒時，(Khazix (JUNGLE)) 擊殺了 (Nilah (BOTTOM))
+- 在 416 秒時，(Khazix (JUNGLE)) 助攻 (Sylas (MIDDLE)) 擊殺了 (Braum (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Camille (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 4 - 獲得金錢: 4448 - 經驗值: 3247, 等级: 7 - 小兵擊殺數: 11, 野怪擊殺數: 4 關鍵事件:
+- 在 156 秒時，(Camille (UTILITY)) 擊殺了 (Braum (UTILITY))
+- 在 157 秒時，(Camille (UTILITY)) 被 (Nilah (BOTTOM)) 擊殺
+- 在 157 秒時，(Camille (UTILITY)) 助攻 (Draven (BOTTOM)) 擊殺了 (Nilah (BOTTOM))
+- 在 205 秒時，(Camille (UTILITY)) 擊殺了 (DrMundo (TOP))
+- 在 209 秒時，(Camille (UTILITY)) 被 (DrMundo (TOP)) 擊殺
+- 在 253 秒時，(Camille (UTILITY)) 被 (Nilah (BOTTOM)) 擊殺
+- 在 414 秒時，(Camille (UTILITY)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Nilah (BOTTOM))
+- 在 416 秒時，(Camille (UTILITY)) 助攻 (Sylas (MIDDLE)) 擊殺了 (Braum (UTILITY))
+- 在 430 秒時，(Camille (UTILITY)) 被 (Lux (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Draven (BOTTOM)
+終場表現: - 擊殺數: 1, 死亡數: 4, 助攻數: 2 - 獲得金錢: 4777 - 經驗值: 4987, 等级: 8 - 小兵擊殺數: 85, 野怪擊殺數: 0 關鍵事件:
+- 在 156 秒時，(Draven (BOTTOM)) 助攻 (Camille (UTILITY)) 擊殺了 (Braum (UTILITY))
+- 在 157 秒時，(Draven (BOTTOM)) 擊殺了 (Nilah (BOTTOM))
+- 在 238 秒時，(Draven (BOTTOM)) 被 (Viego (JUNGLE)) 擊殺
+- 在 414 秒時，(Draven (BOTTOM)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Nilah (BOTTOM))
+- 在 422 秒時，(Draven (BOTTOM)) 被 (Lux (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Sylas (MIDDLE)
+終場表現: - 擊殺數: 1, 死亡數: 7, 助攻數: 2 - 獲得金錢: 4763 - 經驗值: 5915, 等级: 9 - 小兵擊殺數: 86, 野怪擊殺數: 0 關鍵事件:
+- 在 162 秒時，(Sylas (MIDDLE)) 被 (Lux (MIDDLE)) 擊殺
+- 在 319 秒時，(Sylas (MIDDLE)) 被 (Lux (MIDDLE)) 擊殺
+- 在 332 秒時，(Sylas (MIDDLE)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Lux (MIDDLE))
+- 在 414 秒時，(Sylas (MIDDLE)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Nilah (BOTTOM))
+- 在 416 秒時，(Sylas (MIDDLE)) 擊殺了 (Braum (UTILITY))
+- 在 419 秒時，(Sylas (MIDDLE)) 被 (Viego (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: TwistedFate (TOP)
+終場表現: - 擊殺數: 4, 死亡數: 9, 助攻數: 1 - 獲得金錢: 11248 - 經驗值: 13999, 等级: 15 - 小兵擊殺數: 185, 野怪擊殺數: 16 關鍵事件:
+- 在 201 秒時，(TwistedFate (TOP)) 被 (Malphite (TOP)) 擊殺
+- 在 386 秒時，(TwistedFate (TOP)) 被 (Malphite (TOP)) 擊殺
+- 在 486 秒時，(TwistedFate (TOP)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Malphite (TOP))
+- 在 502 秒時，(TwistedFate (TOP)) 助攻 (Katarina (MIDDLE)) 擊殺了 (Graves (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: LeeSin (JUNGLE)
+終場表現: - 擊殺數: 7, 死亡數: 4, 助攻數: 5 - 獲得金錢: 10721 - 經驗值: 12807, 等级: 14 - 小兵擊殺數: 11, 野怪擊殺數: 133 關鍵事件:
+- 在 181 秒時，(LeeSin (JUNGLE)) 擊殺了 (Karma (UTILITY))
+- 在 341 秒時，(LeeSin (JUNGLE)) 助攻 (Katarina (MIDDLE)) 擊殺了 (Graves (JUNGLE))
+- 在 448 秒時，(LeeSin (JUNGLE)) 擊殺了 小龍
+- 在 486 秒時，(LeeSin (JUNGLE)) 擊殺了 (Malphite (TOP))
+- 在 502 秒時，(LeeSin (JUNGLE)) 助攻 (Katarina (MIDDLE)) 擊殺了 (Graves (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Katarina (MIDDLE)
+終場表現: - 擊殺數: 8, 死亡數: 10, 助攻數: 2 - 獲得金錢: 12229 - 經驗值: 13858, 等级: 15 - 小兵擊殺數: 182, 野怪擊殺數: 0 關鍵事件:
+- 在 204 秒時，(Katarina (MIDDLE)) 被 (Vladimir (MIDDLE)) 擊殺
+- 在 341 秒時，(Katarina (MIDDLE)) 擊殺了 (Graves (JUNGLE))
+- 在 439 秒時，(Katarina (MIDDLE)) 擊殺了 (Vladimir (MIDDLE))
+- 在 440 秒時，(Katarina (MIDDLE)) 被 (Vladimir (MIDDLE)) 擊殺
+- 在 502 秒時，(Katarina (MIDDLE)) 擊殺了 (Graves (JUNGLE))
+- 在 538 秒時，(Katarina (MIDDLE)) 被 (Vladimir (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jinx (BOTTOM)
+終場表現: - 擊殺數: 8, 死亡數: 5, 助攻數: 8 - 獲得金錢: 12651 - 經驗值: 12065, 等级: 14 - 小兵擊殺數: 194, 野怪擊殺數: 20 關鍵事件:
+- 在 181 秒時，(Jinx (BOTTOM)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Karma (UTILITY))
+- 在 401 秒時，(Jinx (BOTTOM)) 擊殺了 (Karma (UTILITY))
+- 在 532 秒時，(Jinx (BOTTOM)) 助攻 (Xerath (UTILITY)) 擊殺了 (Corki (BOTTOM))
+- 在 538 秒時，(Jinx (BOTTOM)) 助攻 (Xerath (UTILITY)) 擊殺了 (Karma (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Xerath (UTILITY)
+終場表現: - 擊殺數: 5, 死亡數: 5, 助攻數: 12 - 獲得金錢: 9639 - 經驗值: 10232, 等级: 13 - 小兵擊殺數: 50, 野怪擊殺數: 0 關鍵事件:
+- 在 181 秒時，(Xerath (UTILITY)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Karma (UTILITY))
+- 在 401 秒時，(Xerath (UTILITY)) 助攻 (Jinx (BOTTOM)) 擊殺了 (Karma (UTILITY))
+- 在 532 秒時，(Xerath (UTILITY)) 擊殺了 (Corki (BOTTOM))
+- 在 538 秒時，(Xerath (UTILITY)) 擊殺了 (Karma (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Malphite (TOP)
+終場表現: - 擊殺數: 8, 死亡數: 5, 助攻數: 6 - 獲得金錢: 11029 - 經驗值: 17485, 等级: 17 - 小兵擊殺數: 181, 野怪擊殺數: 0 關鍵事件:
+- 在 201 秒時，(Malphite (TOP)) 擊殺了 (TwistedFate (TOP))
+- 在 386 秒時，(Malphite (TOP)) 擊殺了 (TwistedFate (TOP))
+- 在 486 秒時，(Malphite (TOP)) 被 (LeeSin (JUNGLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Graves (JUNGLE)
+終場表現: - 擊殺數: 6, 死亡數: 8, 助攻數: 4 - 獲得金錢: 11803 - 經驗值: 13961, 等级: 15 - 小兵擊殺數: 35, 野怪擊殺數: 125 關鍵事件:
+- 在 201 秒時，(Graves (JUNGLE)) 助攻 (Malphite (TOP)) 擊殺了 (TwistedFate (TOP))
+- 在 341 秒時，(Graves (JUNGLE)) 被 (Katarina (MIDDLE)) 擊殺
+- 在 439 秒時，(Graves (JUNGLE)) 助攻 (Katarina (MIDDLE)) 擊殺了 (Vladimir (MIDDLE))
+- 在 440 秒時，(Graves (JUNGLE)) 助攻 (Vladimir (MIDDLE)) 擊殺了 (Katarina (MIDDLE))
+- 在 502 秒時，(Graves (JUNGLE)) 被 (Katarina (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Vladimir (MIDDLE)
+終場表現: - 擊殺數: 13, 死亡數: 2, 助攻數: 3 - 獲得金錢: 16321 - 經驗值: 18332, 等级: 17 - 小兵擊殺數: 222, 野怪擊殺數: 13 關鍵事件:
+- 在 204 秒時，(Vladimir (MIDDLE)) 擊殺了 (Katarina (MIDDLE))
+- 在 439 秒時，(Vladimir (MIDDLE)) 被 (Katarina (MIDDLE)) 擊殺
+- 在 440 秒時，(Vladimir (MIDDLE)) 擊殺了 (Katarina (MIDDLE))
+- 在 538 秒時，(Vladimir (MIDDLE)) 擊殺了 (Katarina (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Corki (BOTTOM)
+終場表現: - 擊殺數: 6, 死亡數: 10, 助攻數: 3 - 獲得金錢: 12277 - 經驗值: 12420, 等级: 14 - 小兵擊殺數: 193, 野怪擊殺數: 0 關鍵事件:
+- 在 532 秒時，(Corki (BOTTOM)) 被 (Xerath (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Karma (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 8, 助攻數: 11 - 獲得金錢: 8080 - 經驗值: 11142, 等级: 13 - 小兵擊殺數: 41, 野怪擊殺數: 0 關鍵事件:
+- 在 181 秒時，(Karma (UTILITY)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 401 秒時，(Karma (UTILITY)) 被 (Jinx (BOTTOM)) 擊殺
+- 在 538 秒時，(Karma (UTILITY)) 被 (Xerath (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Mordekaiser (TOP)
+終場表現: - 擊殺數: 8, 死亡數: 5, 助攻數: 9 - 獲得金錢: 13910 - 經驗值: 16282, 等级: 16 - 小兵擊殺數: 186, 野怪擊殺數: 0 關鍵事件:
+- 在 45 秒時，(Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 198 秒時，(Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 415 秒時，(Mordekaiser (TOP)) 被 (Singed (TOP)) 擊殺
+- 在 514 秒時，(Mordekaiser (TOP)) 擊殺了 (Singed (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: MasterYi (JUNGLE)
+終場表現: - 擊殺數: 20, 死亡數: 7, 助攻數: 11 - 獲得金錢: 15937 - 經驗值: 14316, 等级: 15 - 小兵擊殺數: 19, 野怪擊殺數: 120 關鍵事件:
+- 在 45 秒時，(MasterYi (JUNGLE)) 助攻 (Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 194 秒時，(MasterYi (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 198 秒時，(MasterYi (JUNGLE)) 被 (Singed (TOP)) 擊殺
+- 在 198 秒時，(MasterYi (JUNGLE)) 助攻 (Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 381 秒時，(MasterYi (JUNGLE)) 助攻 (Samira (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 384 秒時，(MasterYi (JUNGLE)) 被 (Lulu (UTILITY)) 擊殺
+- 在 385 秒時，(MasterYi (JUNGLE)) 助攻 (Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 429 秒時，(MasterYi (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 519 秒時，(MasterYi (JUNGLE)) 擊殺了 (Graves (JUNGLE))
+- 在 531 秒時，(MasterYi (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ahri (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 7, 助攻數: 17 - 獲得金錢: 12154 - 經驗值: 14626, 等级: 15 - 小兵擊殺數: 148, 野怪擊殺數: 0 關鍵事件:
+- 在 45 秒時，(Ahri (MIDDLE)) 助攻 (Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 191 秒時，(Ahri (MIDDLE)) 被 (Singed (TOP)) 擊殺
+- 在 198 秒時，(Ahri (MIDDLE)) 助攻 (Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 355 秒時，(Ahri (MIDDLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 368 秒時，(Ahri (MIDDLE)) 被 (Graves (JUNGLE)) 擊殺
+- 在 428 秒時，(Ahri (MIDDLE)) 被 (Hwei (MIDDLE)) 擊殺
+- 在 429 秒時，(Ahri (MIDDLE)) 助攻 (MasterYi (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 519 秒時，(Ahri (MIDDLE)) 助攻 (MasterYi (JUNGLE)) 擊殺了 (Graves (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Samira (BOTTOM)
+終場表現: - 擊殺數: 14, 死亡數: 5, 助攻數: 7 - 獲得金錢: 16656 - 經驗值: 14457, 等级: 15 - 小兵擊殺數: 184, 野怪擊殺數: 45 關鍵事件:
+- 在 218 秒時，(Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 222 秒時，(Samira (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 381 秒時，(Samira (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 385 秒時，(Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nautilus (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 5, 助攻數: 21 - 獲得金錢: 8458 - 經驗值: 10538, 等级: 13 - 小兵擊殺數: 44, 野怪擊殺數: 0 關鍵事件:
+- 在 45 秒時，(Nautilus (UTILITY)) 助攻 (Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 218 秒時，(Nautilus (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 222 秒時，(Nautilus (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 381 秒時，(Nautilus (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 385 秒時，(Nautilus (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 11, 死亡數: 8, 助攻數: 10 - 獲得金錢: 13503 - 經驗值: 13595, 等级: 15 - 小兵擊殺數: 170, 野怪擊殺數: 0 關鍵事件:
+- 在 191 秒時，(Singed (TOP)) 擊殺了 (Ahri (MIDDLE))
+- 在 198 秒時，(Singed (TOP)) 擊殺了 (MasterYi (JUNGLE))
+- 在 415 秒時，(Singed (TOP)) 擊殺了 (Mordekaiser (TOP))
+- 在 514 秒時，(Singed (TOP)) 被 (Mordekaiser (TOP)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Graves (JUNGLE)
+終場表現: - 擊殺數: 9, 死亡數: 12, 助攻數: 15 - 獲得金錢: 12866 - 經驗值: 12423, 等级: 14 - 小兵擊殺數: 26, 野怪擊殺數: 117 關鍵事件:
+- 在 45 秒時，(Graves (JUNGLE)) 被 (Mordekaiser (TOP)) 擊殺
+- 在 191 秒時，(Graves (JUNGLE)) 助攻 (Singed (TOP)) 擊殺了 (Ahri (MIDDLE))
+- 在 198 秒時，(Graves (JUNGLE)) 助攻 (Singed (TOP)) 擊殺了 (MasterYi (JUNGLE))
+- 在 198 秒時，(Graves (JUNGLE)) 被 (Mordekaiser (TOP)) 擊殺
+- 在 368 秒時，(Graves (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 428 秒時，(Graves (JUNGLE)) 助攻 (Hwei (MIDDLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 519 秒時，(Graves (JUNGLE)) 被 (MasterYi (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Hwei (MIDDLE)
+終場表現: - 擊殺數: 3, 死亡數: 12, 助攻數: 16 - 獲得金錢: 9442 - 經驗值: 11617, 等级: 14 - 小兵擊殺數: 149, 野怪擊殺數: 4 關鍵事件:
+- 在 191 秒時，(Hwei (MIDDLE)) 助攻 (Singed (TOP)) 擊殺了 (Ahri (MIDDLE))
+- 在 194 秒時，(Hwei (MIDDLE)) 被 (MasterYi (JUNGLE)) 擊殺
+- 在 198 秒時，(Hwei (MIDDLE)) 助攻 (Singed (TOP)) 擊殺了 (MasterYi (JUNGLE))
+- 在 355 秒時，(Hwei (MIDDLE)) 被 (Ahri (MIDDLE)) 擊殺
+- 在 368 秒時，(Hwei (MIDDLE)) 助攻 (Graves (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 428 秒時，(Hwei (MIDDLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 429 秒時，(Hwei (MIDDLE)) 被 (MasterYi (JUNGLE)) 擊殺
+- 在 531 秒時，(Hwei (MIDDLE)) 被 (MasterYi (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jinx (BOTTOM)
+終場表現: - 擊殺數: 4, 死亡數: 9, 助攻數: 12 - 獲得金錢: 10639 - 經驗值: 11364, 等级: 13 - 小兵擊殺數: 161, 野怪擊殺數: 9 關鍵事件:
+- 在 222 秒時，(Jinx (BOTTOM)) 被 (Samira (BOTTOM)) 擊殺
+- 在 381 秒時，(Jinx (BOTTOM)) 被 (Samira (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lulu (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 9, 助攻數: 14 - 獲得金錢: 7077 - 經驗值: 9087, 等级: 12 - 小兵擊殺數: 24, 野怪擊殺數: 0 關鍵事件:
+- 在 218 秒時，(Lulu (UTILITY)) 被 (Samira (BOTTOM)) 擊殺
+- 在 384 秒時，(Lulu (UTILITY)) 擊殺了 (MasterYi (JUNGLE))
+- 在 385 秒時，(Lulu (UTILITY)) 被 (Samira (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Singed (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 7, 助攻數: 10 - 獲得金錢: 10996 - 經驗值: 12553, 等级: 14 - 小兵擊殺數: 159, 野怪擊殺數: 0 關鍵事件:
+- 在 264 秒時，(Singed (BOTTOM)) 擊殺了 (Nami (UTILITY))
+- 在 269 秒時，(Singed (BOTTOM)) 擊殺了 (Ezreal (BOTTOM))
+- 在 269 秒時，(Singed (BOTTOM)) 被 (Ezreal (BOTTOM)) 擊殺
+- 在 478 秒時，(Singed (BOTTOM)) 被 (Ezreal (BOTTOM)) 擊殺
+- 在 478 秒時，(Singed (BOTTOM)) 擊殺了 (Ezreal (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Senna (UTILITY)
+終場表現: - 擊殺數: 6, 死亡數: 5, 助攻數: 15 - 獲得金錢: 10673 - 經驗值: 10579, 等级: 13 - 小兵擊殺數: 24, 野怪擊殺數: 0 關鍵事件:
+- 在 153 秒時，(Senna (UTILITY)) 被 (Nami (UTILITY)) 擊殺
+- 在 264 秒時，(Senna (UTILITY)) 助攻 (Singed (BOTTOM)) 擊殺了 (Nami (UTILITY))
+- 在 269 秒時，(Senna (UTILITY)) 助攻 (Singed (BOTTOM)) 擊殺了 (Ezreal (BOTTOM))
+- 在 478 秒時，(Senna (UTILITY)) 助攻 (Singed (BOTTOM)) 擊殺了 (Ezreal (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Vi (JUNGLE)
+終場表現: - 擊殺數: 13, 死亡數: 2, 助攻數: 3 - 獲得金錢: 14358 - 經驗值: 15186, 等级: 16 - 小兵擊殺數: 29, 野怪擊殺數: 182 關鍵事件:
+- 在 236 秒時，(Vi (JUNGLE)) 助攻 (Skarner (TOP)) 擊殺了 (Ornn (TOP))
+- 在 384 秒時，(Vi (JUNGLE)) 擊殺了 (Nidalee (JUNGLE))
+- 在 390 秒時，(Vi (JUNGLE)) 擊殺了 (Zed (MIDDLE))
+- 在 405 秒時，(Vi (JUNGLE)) 擊殺了 (Ornn (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ahri (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 6, 助攻數: 10 - 獲得金錢: 11572 - 經驗值: 14198, 等级: 15 - 小兵擊殺數: 167, 野怪擊殺數: 0 關鍵事件:
+- 在 226 秒時，(Ahri (MIDDLE)) 被 (Nidalee (JUNGLE)) 擊殺
+- 在 384 秒時，(Ahri (MIDDLE)) 助攻 (Vi (JUNGLE)) 擊殺了 (Nidalee (JUNGLE))
+- 在 389 秒時，(Ahri (MIDDLE)) 被 (Zed (MIDDLE)) 擊殺
+- 在 390 秒時，(Ahri (MIDDLE)) 助攻 (Vi (JUNGLE)) 擊殺了 (Zed (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 4, 死亡數: 2, 助攻數: 10 - 獲得金錢: 10449 - 經驗值: 15028, 等级: 16 - 小兵擊殺數: 172, 野怪擊殺數: 8 關鍵事件:
+- 在 236 秒時，(Skarner (TOP)) 擊殺了 (Ornn (TOP))
+- 在 405 秒時，(Skarner (TOP)) 助攻 (Vi (JUNGLE)) 擊殺了 (Ornn (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nidalee (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 9, 助攻數: 7 - 獲得金錢: 9149 - 經驗值: 11027, 等级: 13 - 小兵擊殺數: 34, 野怪擊殺數: 112 關鍵事件:
+- 在 226 秒時，(Nidalee (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 384 秒時，(Nidalee (JUNGLE)) 被 (Vi (JUNGLE)) 擊殺
+- 在 389 秒時，(Nidalee (JUNGLE)) 助攻 (Zed (MIDDLE)) 擊殺了 (Ahri (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zed (MIDDLE)
+終場表現: - 擊殺數: 11, 死亡數: 8, 助攻數: 3 - 獲得金錢: 13914 - 經驗值: 14548, 等级: 15 - 小兵擊殺數: 202, 野怪擊殺數: 0 關鍵事件:
+- 在 226 秒時，(Zed (MIDDLE)) 助攻 (Nidalee (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 389 秒時，(Zed (MIDDLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 390 秒時，(Zed (MIDDLE)) 被 (Vi (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ornn (TOP)
+終場表現: - 擊殺數: 0, 死亡數: 6, 助攻數: 5 - 獲得金錢: 7540 - 經驗值: 12033, 等级: 14 - 小兵擊殺數: 160, 野怪擊殺數: 0 關鍵事件:
+- 在 236 秒時，(Ornn (TOP)) 被 (Skarner (TOP)) 擊殺
+- 在 405 秒時，(Ornn (TOP)) 被 (Vi (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ezreal (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 9, 助攻數: 5 - 獲得金錢: 10613 - 經驗值: 9766, 等级: 12 - 小兵擊殺數: 151, 野怪擊殺數: 0 關鍵事件:
+- 在 153 秒時，(Ezreal (BOTTOM)) 助攻 (Nami (UTILITY)) 擊殺了 (Senna (UTILITY))
+- 在 269 秒時，(Ezreal (BOTTOM)) 被 (Singed (BOTTOM)) 擊殺
+- 在 269 秒時，(Ezreal (BOTTOM)) 擊殺了 (Singed (BOTTOM))
+- 在 478 秒時，(Ezreal (BOTTOM)) 擊殺了 (Singed (BOTTOM))
+- 在 478 秒時，(Ezreal (BOTTOM)) 被 (Singed (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Nami (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 5, 助攻數: 11 - 獲得金錢: 6524 - 經驗值: 9156, 等级: 12 - 小兵擊殺數: 19, 野怪擊殺數: 0 關鍵事件:
+- 在 153 秒時，(Nami (UTILITY)) 擊殺了 (Senna (UTILITY))
+- 在 264 秒時，(Nami (UTILITY)) 被 (Singed (BOTTOM)) 擊殺
+- 在 269 秒時，(Nami (UTILITY)) 助攻 (Ezreal (BOTTOM)) 擊殺了 (Singed (BOTTOM))
+- 在 478 秒時，(Nami (UTILITY)) 助攻 (Ezreal (BOTTOM)) 擊殺了 (Singed (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 8, 助攻數: 13 - 獲得金錢: 8854 - 經驗值: 13955, 等级: 15 - 小兵擊殺數: 120, 野怪擊殺數: 0 關鍵事件:
+- 在 353 秒時，(Skarner (TOP)) 被 (Yorick (TOP)) 擊殺
+- 在 475 秒時，(Skarner (TOP)) 被 (Yorick (TOP)) 擊殺
+- 在 522 秒時，(Skarner (TOP)) 被 (Yorick (TOP)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ekko (JUNGLE)
+終場表現: - 擊殺數: 14, 死亡數: 5, 助攻數: 6 - 獲得金錢: 17843 - 經驗值: 17333, 等级: 17 - 小兵擊殺數: 62, 野怪擊殺數: 165 關鍵事件:
+- 在 99 秒時，(Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 182 秒時，(Ekko (JUNGLE)) 助攻 (Soraka (UTILITY)) 擊殺了 (Volibear (JUNGLE))
+- 在 345 秒時，(Ekko (JUNGLE)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Varus (BOTTOM))
+- 在 351 秒時，(Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 352 秒時，(Ekko (JUNGLE)) 被 (Yuumi (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Soraka (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 4, 助攻數: 31 - 獲得金錢: 9692 - 經驗值: 11794, 等级: 14 - 小兵擊殺數: 24, 野怪擊殺數: 0 關鍵事件:
+- 在 99 秒時，(Soraka (UTILITY)) 助攻 (Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 182 秒時，(Soraka (UTILITY)) 擊殺了 (Volibear (JUNGLE))
+- 在 241 秒時，(Soraka (UTILITY)) 擊殺了 (Varus (BOTTOM))
+- 在 255 秒時，(Soraka (UTILITY)) 被 (Yuumi (UTILITY)) 擊殺
+- 在 345 秒時，(Soraka (UTILITY)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Varus (BOTTOM))
+- 在 351 秒時，(Soraka (UTILITY)) 助攻 (Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kaisa (BOTTOM)
+終場表現: - 擊殺數: 23, 死亡數: 5, 助攻數: 12 - 獲得金錢: 18491 - 經驗值: 14950, 等级: 16 - 小兵擊殺數: 204, 野怪擊殺數: 26 關鍵事件:
+- 在 99 秒時，(Kaisa (BOTTOM)) 助攻 (Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 238 秒時，(Kaisa (BOTTOM)) 被 (Varus (BOTTOM)) 擊殺
+- 在 241 秒時，(Kaisa (BOTTOM)) 助攻 (Soraka (UTILITY)) 擊殺了 (Varus (BOTTOM))
+- 在 345 秒時，(Kaisa (BOTTOM)) 擊殺了 (Varus (BOTTOM))
+- 在 351 秒時，(Kaisa (BOTTOM)) 助攻 (Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Diana (MIDDLE)
+終場表現: - 擊殺數: 3, 死亡數: 7, 助攻數: 15 - 獲得金錢: 10728 - 經驗值: 14579, 等级: 15 - 小兵擊殺數: 171, 野怪擊殺數: 2 關鍵事件:
+- 在 99 秒時，(Diana (MIDDLE)) 助攻 (Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 379 秒時，(Diana (MIDDLE)) 被 (Vex (MIDDLE)) 擊殺
+- 在 471 秒時，(Diana (MIDDLE)) 被 (Vex (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Yuumi (UTILITY)
+終場表現: - 擊殺數: 4, 死亡數: 7, 助攻數: 14 - 獲得金錢: 9439 - 經驗值: 11230, 等级: 13 - 小兵擊殺數: 8, 野怪擊殺數: 0 關鍵事件:
+- 在 99 秒時，(Yuumi (UTILITY)) 被 (Ekko (JUNGLE)) 擊殺
+- 在 238 秒時，(Yuumi (UTILITY)) 助攻 (Varus (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 255 秒時，(Yuumi (UTILITY)) 擊殺了 (Soraka (UTILITY))
+- 在 351 秒時，(Yuumi (UTILITY)) 被 (Ekko (JUNGLE)) 擊殺
+- 在 352 秒時，(Yuumi (UTILITY)) 擊殺了 (Ekko (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Volibear (JUNGLE)
+終場表現: - 擊殺數: 2, 死亡數: 10, 助攻數: 11 - 獲得金錢: 10073 - 經驗值: 13534, 等级: 15 - 小兵擊殺數: 32, 野怪擊殺數: 123 關鍵事件:
+- 在 182 秒時，(Volibear (JUNGLE)) 被 (Soraka (UTILITY)) 擊殺
+- 在 353 秒時，(Volibear (JUNGLE)) 助攻 (Yorick (TOP)) 擊殺了 (Skarner (TOP))
+- 在 471 秒時，(Volibear (JUNGLE)) 助攻 (Vex (MIDDLE)) 擊殺了 (Diana (MIDDLE))
+- 在 522 秒時，(Volibear (JUNGLE)) 助攻 (Yorick (TOP)) 擊殺了 (Skarner (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Vex (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 9, 助攻數: 7 - 獲得金錢: 11023 - 經驗值: 12741, 等级: 14 - 小兵擊殺數: 171, 野怪擊殺數: 0 關鍵事件:
+- 在 379 秒時，(Vex (MIDDLE)) 擊殺了 (Diana (MIDDLE))
+- 在 471 秒時，(Vex (MIDDLE)) 擊殺了 (Diana (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Varus (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 10, 助攻數: 9 - 獲得金錢: 13012 - 經驗值: 11275, 等级: 13 - 小兵擊殺數: 176, 野怪擊殺數: 0 關鍵事件:
+- 在 238 秒時，(Varus (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 241 秒時，(Varus (BOTTOM)) 被 (Soraka (UTILITY)) 擊殺
+- 在 255 秒時，(Varus (BOTTOM)) 助攻 (Yuumi (UTILITY)) 擊殺了 (Soraka (UTILITY))
+- 在 345 秒時，(Varus (BOTTOM)) 被 (Kaisa (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yorick (TOP)
+終場表現: - 擊殺數: 9, 死亡數: 8, 助攻數: 3 - 獲得金錢: 17157 - 經驗值: 16675, 等级: 17 - 小兵擊殺數: 230, 野怪擊殺數: 8 關鍵事件:
+- 在 353 秒時，(Yorick (TOP)) 擊殺了 (Skarner (TOP))
+- 在 475 秒時，(Yorick (TOP)) 擊殺了 (Skarner (TOP))
+- 在 522 秒時，(Yorick (TOP)) 擊殺了 (Skarner (TOP))
+- 在 533 秒時，(Yorick (TOP)) 擊毀了一座TOWER_BUILDING
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ivern (JUNGLE)
+終場表現: - 擊殺數: 1, 死亡數: 1, 助攻數: 21 - 獲得金錢: 9425 - 經驗值: 12778, 等级: 14 - 小兵擊殺數: 10, 野怪擊殺數: 114 關鍵事件:
+- 在 142 秒時，(Ivern (JUNGLE)) 助攻 (MasterYi (MIDDLE)) 擊殺了 (Kayn (JUNGLE))
+- 在 231 秒時，(Ivern (JUNGLE)) 助攻 (MasterYi (MIDDLE)) 擊殺了 (Kayn (JUNGLE))
+- 在 382 秒時，(Ivern (JUNGLE)) 助攻 (MasterYi (MIDDLE)) 擊殺了 (Orianna (MIDDLE))
+- 在 503 秒時，(Ivern (JUNGLE)) 助攻 (MasterYi (MIDDLE)) 擊殺了 (Kayn (JUNGLE))
+- 在 507 秒時，(Ivern (JUNGLE)) 助攻 (MasterYi (MIDDLE)) 擊殺了 (Orianna (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kaisa (BOTTOM)
+終場表現: - 擊殺數: 21, 死亡數: 4, 助攻數: 5 - 獲得金錢: 14541 - 經驗值: 12652, 等级: 14 - 小兵擊殺數: 178, 野怪擊殺數: 22 關鍵事件:
+- 在 166 秒時，(Kaisa (BOTTOM)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 394 秒時，(Kaisa (BOTTOM)) 擊殺了 (Blitzcrank (UTILITY))
+- 在 424 秒時，(Kaisa (BOTTOM)) 擊殺了 (Ashe (BOTTOM))
+- 在 436 秒時，(Kaisa (BOTTOM)) 被 (Blitzcrank (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: MasterYi (MIDDLE)
+終場表現: - 擊殺數: 15, 死亡數: 5, 助攻數: 6 - 獲得金錢: 13555 - 經驗值: 12301, 等级: 14 - 小兵擊殺數: 130, 野怪擊殺數: 8 關鍵事件:
+- 在 142 秒時，(MasterYi (MIDDLE)) 擊殺了 (Kayn (JUNGLE))
+- 在 231 秒時，(MasterYi (MIDDLE)) 擊殺了 (Kayn (JUNGLE))
+- 在 382 秒時，(MasterYi (MIDDLE)) 擊殺了 (Orianna (MIDDLE))
+- 在 503 秒時，(MasterYi (MIDDLE)) 擊殺了 (Kayn (JUNGLE))
+- 在 507 秒時，(MasterYi (MIDDLE)) 擊殺了 (Orianna (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Soraka (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 5, 助攻數: 25 - 獲得金錢: 8701 - 經驗值: 10407, 等级: 13 - 小兵擊殺數: 18, 野怪擊殺數: 0 關鍵事件:
+- 在 394 秒時，(Soraka (UTILITY)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Blitzcrank (UTILITY))
+- 在 415 秒時，(Soraka (UTILITY)) 被 (Ashe (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 4, 死亡數: 2, 助攻數: 12 - 獲得金錢: 8862 - 經驗值: 13283, 等级: 15 - 小兵擊殺數: 134, 野怪擊殺數: 4 關鍵事件:
+- 在 142 秒時，(Skarner (TOP)) 助攻 (MasterYi (MIDDLE)) 擊殺了 (Kayn (JUNGLE))
+- 在 428 秒時，(Skarner (TOP)) 被 (Nasus (TOP)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nasus (TOP)
+終場表現: - 擊殺數: 3, 死亡數: 6, 助攻數: 1 - 獲得金錢: 10899 - 經驗值: 12480, 等级: 14 - 小兵擊殺數: 192, 野怪擊殺數: 0 關鍵事件:
+- 在 428 秒時，(Nasus (TOP)) 擊殺了 (Skarner (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Kayn (JUNGLE)
+終場表現: - 擊殺數: 1, 死亡數: 10, 助攻數: 5 - 獲得金錢: 8083 - 經驗值: 8883, 等级: 12 - 小兵擊殺數: 49, 野怪擊殺數: 80 關鍵事件:
+- 在 142 秒時，(Kayn (JUNGLE)) 被 (MasterYi (MIDDLE)) 擊殺
+- 在 231 秒時，(Kayn (JUNGLE)) 被 (MasterYi (MIDDLE)) 擊殺
+- 在 428 秒時，(Kayn (JUNGLE)) 助攻 (Nasus (TOP)) 擊殺了 (Skarner (TOP))
+- 在 503 秒時，(Kayn (JUNGLE)) 被 (MasterYi (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Orianna (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 10, 助攻數: 0 - 獲得金錢: 10971 - 經驗值: 10556, 等级: 13 - 小兵擊殺數: 147, 野怪擊殺數: 0 關鍵事件:
+- 在 382 秒時，(Orianna (MIDDLE)) 被 (MasterYi (MIDDLE)) 擊殺
+- 在 507 秒時，(Orianna (MIDDLE)) 被 (MasterYi (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ashe (BOTTOM)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 4 - 獲得金錢: 7961 - 經驗值: 8481, 等级: 11 - 小兵擊殺數: 144, 野怪擊殺數: 4 關鍵事件:
+- 在 166 秒時，(Ashe (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 415 秒時，(Ashe (BOTTOM)) 擊殺了 (Soraka (UTILITY))
+- 在 424 秒時，(Ashe (BOTTOM)) 被 (Kaisa (BOTTOM)) 擊殺
+- 在 436 秒時，(Ashe (BOTTOM)) 助攻 (Blitzcrank (UTILITY)) 擊殺了 (Kaisa (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Blitzcrank (UTILITY)
+終場表現: - 擊殺數: 3, 死亡數: 10, 助攻數: 5 - 獲得金錢: 6832 - 經驗值: 7033, 等级: 10 - 小兵擊殺數: 26, 野怪擊殺數: 0 關鍵事件:
+- 在 166 秒時，(Blitzcrank (UTILITY)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 394 秒時，(Blitzcrank (UTILITY)) 被 (Kaisa (BOTTOM)) 擊殺
+- 在 436 秒時，(Blitzcrank (UTILITY)) 擊殺了 (Kaisa (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Garen (TOP)
+終場表現: - 擊殺數: 8, 死亡數: 1, 助攻數: 0 - 獲得金錢: 8602 - 經驗值: 9285, 等级: 12 - 小兵擊殺數: 135, 野怪擊殺數: 4 關鍵事件:
+- 在 59 秒時，(Garen (TOP)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 193 秒時，(Garen (TOP)) 擊殺了 (Amumu (TOP))
+- 在 273 秒時，(Garen (TOP)) 擊殺了 (Amumu (TOP))
+- 在 347 秒時，(Garen (TOP)) 擊殺了 (Amumu (TOP))
+- 在 402 秒時，(Garen (TOP)) 擊殺了 (Amumu (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: LeeSin (JUNGLE)
+終場表現: - 擊殺數: 8, 死亡數: 1, 助攻數: 4 - 獲得金錢: 7099 - 經驗值: 6575, 等级: 10 - 小兵擊殺數: 2, 野怪擊殺數: 91 關鍵事件:
+- 在 50 秒時，(LeeSin (JUNGLE)) 被 (Amumu (TOP)) 擊殺
+- 在 240 秒時，(LeeSin (JUNGLE)) 擊殺了 (Yone (MIDDLE))
+- 在 249 秒時，(LeeSin (JUNGLE)) 擊殺了 (Karthus (JUNGLE))
+- 在 336 秒時，(LeeSin (JUNGLE)) 助攻 (Ahri (MIDDLE)) 擊殺了 (Karthus (JUNGLE))
+- 在 427 秒時，(LeeSin (JUNGLE)) 擊殺了 (Karthus (JUNGLE))
+- 在 510 秒時，(LeeSin (JUNGLE)) 擊殺了 (Amumu (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ahri (MIDDLE)
+終場表現: - 擊殺數: 2, 死亡數: 1, 助攻數: 8 - 獲得金錢: 6559 - 經驗值: 7783, 等级: 11 - 小兵擊殺數: 110, 野怪擊殺數: 0 關鍵事件:
+- 在 240 秒時，(Ahri (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Yone (MIDDLE))
+- 在 249 秒時，(Ahri (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Karthus (JUNGLE))
+- 在 336 秒時，(Ahri (MIDDLE)) 擊殺了 (Karthus (JUNGLE))
+- 在 510 秒時，(Ahri (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Amumu (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Caitlyn (BOTTOM)
+終場表現: - 擊殺數: 4, 死亡數: 3, 助攻數: 6 - 獲得金錢: 7216 - 經驗值: 5555, 等级: 9 - 小兵擊殺數: 99, 野怪擊殺數: 0 關鍵事件:
+- 在 442 秒時，(Caitlyn (BOTTOM)) 擊殺了 (Ashe (BOTTOM))
+- 在 470 秒時，(Caitlyn (BOTTOM)) 擊殺了 (Karthus (JUNGLE))
+- 在 488 秒時，(Caitlyn (BOTTOM)) 助攻 (Lux (UTILITY)) 擊殺了 (Shaco (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Lux (UTILITY)
+終場表現: - 擊殺數: 6, 死亡數: 4, 助攻數: 3 - 獲得金錢: 6025 - 經驗值: 5197, 等级: 9 - 小兵擊殺數: 25, 野怪擊殺數: 0 關鍵事件:
+- 在 336 秒時，(Lux (UTILITY)) 助攻 (Ahri (MIDDLE)) 擊殺了 (Karthus (JUNGLE))
+- 在 442 秒時，(Lux (UTILITY)) 助攻 (Caitlyn (BOTTOM)) 擊殺了 (Ashe (BOTTOM))
+- 在 470 秒時，(Lux (UTILITY)) 助攻 (Caitlyn (BOTTOM)) 擊殺了 (Karthus (JUNGLE))
+- 在 488 秒時，(Lux (UTILITY)) 擊殺了 (Shaco (UTILITY))
+- 在 515 秒時，(Lux (UTILITY)) 被 (Yone (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Amumu (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 9, 助攻數: 1 - 獲得金錢: 4511 - 經驗值: 5158, 等级: 9 - 小兵擊殺數: 64, 野怪擊殺數: 3 關鍵事件:
+- 在 50 秒時，(Amumu (TOP)) 擊殺了 (LeeSin (JUNGLE))
+- 在 59 秒時，(Amumu (TOP)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Garen (TOP))
+- 在 193 秒時，(Amumu (TOP)) 被 (Garen (TOP)) 擊殺
+- 在 273 秒時，(Amumu (TOP)) 被 (Garen (TOP)) 擊殺
+- 在 347 秒時，(Amumu (TOP)) 被 (Garen (TOP)) 擊殺
+- 在 402 秒時，(Amumu (TOP)) 被 (Garen (TOP)) 擊殺
+- 在 510 秒時，(Amumu (TOP)) 被 (LeeSin (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Karthus (JUNGLE)
+終場表現: - 擊殺數: 0, 死亡數: 6, 助攻數: 7 - 獲得金錢: 5209 - 經驗值: 5560, 等级: 9 - 小兵擊殺數: 13, 野怪擊殺數: 81 關鍵事件:
+- 在 50 秒時，(Karthus (JUNGLE)) 助攻 (Amumu (TOP)) 擊殺了 (LeeSin (JUNGLE))
+- 在 59 秒時，(Karthus (JUNGLE)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Garen (TOP))
+- 在 249 秒時，(Karthus (JUNGLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 336 秒時，(Karthus (JUNGLE)) 被 (Ahri (MIDDLE)) 擊殺
+- 在 427 秒時，(Karthus (JUNGLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 470 秒時，(Karthus (JUNGLE)) 被 (Caitlyn (BOTTOM)) 擊殺
+- 在 515 秒時，(Karthus (JUNGLE)) 助攻 (Yone (MIDDLE)) 擊殺了 (Lux (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Shaco (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 4, 助攻數: 2 - 獲得金錢: 3878 - 經驗值: 3968, 等级: 7 - 小兵擊殺數: 18, 野怪擊殺數: 0 關鍵事件:
+- 在 488 秒時，(Shaco (UTILITY)) 被 (Lux (UTILITY)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ashe (BOTTOM)
+終場表現: - 擊殺數: 5, 死亡數: 5, 助攻數: 1 - 獲得金錢: 5948 - 經驗值: 5023, 等级: 8 - 小兵擊殺數: 103, 野怪擊殺數: 0 關鍵事件:
+- 在 59 秒時，(Ashe (BOTTOM)) 擊殺了 (Garen (TOP))
+- 在 442 秒時，(Ashe (BOTTOM)) 被 (Caitlyn (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yone (MIDDLE)
+終場表現: - 擊殺數: 3, 死亡數: 4, 助攻數: 2 - 獲得金錢: 5604 - 經驗值: 6688, 等级: 10 - 小兵擊殺數: 103, 野怪擊殺數: 0 關鍵事件:
+- 在 50 秒時，(Yone (MIDDLE)) 助攻 (Amumu (TOP)) 擊殺了 (LeeSin (JUNGLE))
+- 在 59 秒時，(Yone (MIDDLE)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Garen (TOP))
+- 在 240 秒時，(Yone (MIDDLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 515 秒時，(Yone (MIDDLE)) 擊殺了 (Lux (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Gnar (TOP)
+終場表現: - 擊殺數: 7, 死亡數: 10, 助攻數: 13 - 獲得金錢: 14398 - 經驗值: 18201, 等级: 17 - 小兵擊殺數: 193, 野怪擊殺數: 4 關鍵事件:
+- 在 92 秒時，(Gnar (TOP)) 擊殺了 (Skarner (TOP))
+- 在 250 秒時，(Gnar (TOP)) 被 (Skarner (TOP)) 擊殺
+- 在 266 秒時，(Gnar (TOP)) 助攻 (Zac (JUNGLE)) 擊殺了 (Skarner (TOP))
+- 在 359 秒時，(Gnar (TOP)) 被 (Skarner (TOP)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zac (JUNGLE)
+終場表現: - 擊殺數: 11, 死亡數: 6, 助攻數: 21 - 獲得金錢: 16673 - 經驗值: 18718, 等级: 18 - 小兵擊殺數: 83, 野怪擊殺數: 121 關鍵事件:
+- 在 266 秒時，(Zac (JUNGLE)) 擊殺了 (Skarner (TOP))
+- 在 377 秒時，(Zac (JUNGLE)) 擊殺了 (TwistedFate (MIDDLE))
+- 在 381 秒時，(Zac (JUNGLE)) 擊殺了 (Nidalee (JUNGLE))
+- 在 454 秒時，(Zac (JUNGLE)) 擊殺了 (TwistedFate (MIDDLE))
+- 在 499 秒時，(Zac (JUNGLE)) 助攻 (Orianna (MIDDLE)) 擊殺了 (Varus (BOTTOM))
+- 在 529 秒時，(Zac (JUNGLE)) 助攻 (Tristana (BOTTOM)) 擊殺了 (TwistedFate (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Tristana (BOTTOM)
+終場表現: - 擊殺數: 17, 死亡數: 8, 助攻數: 7 - 獲得金錢: 17861 - 經驗值: 18197, 等级: 17 - 小兵擊殺數: 209, 野怪擊殺數: 24 關鍵事件:
+- 在 475 秒時，(Tristana (BOTTOM)) 被 (Veigar (UTILITY)) 擊殺
+- 在 529 秒時，(Tristana (BOTTOM)) 擊殺了 (TwistedFate (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Orianna (MIDDLE)
+終場表現: - 擊殺數: 16, 死亡數: 13, 助攻數: 21 - 獲得金錢: 18351 - 經驗值: 20056, 等级: 18 - 小兵擊殺數: 260, 野怪擊殺數: 4 關鍵事件:
+- 在 191 秒時，(Orianna (MIDDLE)) 被 (Nidalee (JUNGLE)) 擊殺
+- 在 377 秒時，(Orianna (MIDDLE)) 助攻 (Zac (JUNGLE)) 擊殺了 (TwistedFate (MIDDLE))
+- 在 381 秒時，(Orianna (MIDDLE)) 助攻 (Zac (JUNGLE)) 擊殺了 (Nidalee (JUNGLE))
+- 在 410 秒時，(Orianna (MIDDLE)) 被 (TwistedFate (MIDDLE)) 擊殺
+- 在 454 秒時，(Orianna (MIDDLE)) 助攻 (Zac (JUNGLE)) 擊殺了 (TwistedFate (MIDDLE))
+- 在 499 秒時，(Orianna (MIDDLE)) 擊殺了 (Varus (BOTTOM))
+- 在 529 秒時，(Orianna (MIDDLE)) 助攻 (Tristana (BOTTOM)) 擊殺了 (TwistedFate (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yuumi (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 2, 助攻數: 31 - 獲得金錢: 11089 - 經驗值: 17123, 等级: 17 - 小兵擊殺數: 20, 野怪擊殺數: 0 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 9, 死亡數: 10, 助攻數: 14 - 獲得金錢: 16640 - 經驗值: 19827, 等级: 18 - 小兵擊殺數: 216, 野怪擊殺數: 0 關鍵事件:
+- 在 92 秒時，(Skarner (TOP)) 被 (Gnar (TOP)) 擊殺
+- 在 250 秒時，(Skarner (TOP)) 擊殺了 (Gnar (TOP))
+- 在 266 秒時，(Skarner (TOP)) 被 (Zac (JUNGLE)) 擊殺
+- 在 359 秒時，(Skarner (TOP)) 擊殺了 (Gnar (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nidalee (JUNGLE)
+終場表現: - 擊殺數: 13, 死亡數: 7, 助攻數: 9 - 獲得金錢: 17883 - 經驗值: 18895, 等级: 18 - 小兵擊殺數: 29, 野怪擊殺數: 216 關鍵事件:
+- 在 191 秒時，(Nidalee (JUNGLE)) 擊殺了 (Orianna (MIDDLE))
+- 在 381 秒時，(Nidalee (JUNGLE)) 被 (Zac (JUNGLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Veigar (UTILITY)
+終場表現: - 擊殺數: 4, 死亡數: 15, 助攻數: 7 - 獲得金錢: 12597 - 經驗值: 15773, 等级: 16 - 小兵擊殺數: 114, 野怪擊殺數: 12 關鍵事件:
+- 在 475 秒時，(Veigar (UTILITY)) 擊殺了 (Tristana (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Varus (BOTTOM)
+終場表現: - 擊殺數: 8, 死亡數: 10, 助攻數: 12 - 獲得金錢: 18577 - 經驗值: 16802, 等级: 17 - 小兵擊殺數: 224, 野怪擊殺數: 12 關鍵事件:
+- 在 475 秒時，(Varus (BOTTOM)) 助攻 (Veigar (UTILITY)) 擊殺了 (Tristana (BOTTOM))
+- 在 499 秒時，(Varus (BOTTOM)) 被 (Orianna (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: TwistedFate (MIDDLE)
+終場表現: - 擊殺數: 5, 死亡數: 12, 助攻數: 19 - 獲得金錢: 14983 - 經驗值: 20722, 等级: 18 - 小兵擊殺數: 201, 野怪擊殺數: 12 關鍵事件:
+- 在 191 秒時，(TwistedFate (MIDDLE)) 助攻 (Nidalee (JUNGLE)) 擊殺了 (Orianna (MIDDLE))
+- 在 377 秒時，(TwistedFate (MIDDLE)) 被 (Zac (JUNGLE)) 擊殺
+- 在 410 秒時，(TwistedFate (MIDDLE)) 擊殺了 (Orianna (MIDDLE))
+- 在 454 秒時，(TwistedFate (MIDDLE)) 被 (Zac (JUNGLE)) 擊殺
+- 在 529 秒時，(TwistedFate (MIDDLE)) 被 (Tristana (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 5, 助攻數: 4 - 獲得金錢: 8429 - 經驗值: 10167, 等级: 13 - 小兵擊殺數: 166, 野怪擊殺數: 0 關鍵事件:
+- 在 172 秒時，(Singed (TOP)) 擊殺了 (MonkeyKing (TOP))
+- 在 380 秒時，(Singed (TOP)) 被 (Nunu (JUNGLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Graves (JUNGLE)
+終場表現: - 擊殺數: 9, 死亡數: 3, 助攻數: 7 - 獲得金錢: 11220 - 經驗值: 10633, 等级: 13 - 小兵擊殺數: 22, 野怪擊殺數: 132 關鍵事件:
+- 在 215 秒時，(Graves (JUNGLE)) 助攻 (Leblanc (MIDDLE)) 擊殺了 (Xerath (UTILITY))
+- 在 226 秒時，(Graves (JUNGLE)) 助攻 (Leblanc (MIDDLE)) 擊殺了 (Ashe (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Leblanc (MIDDLE)
+終場表現: - 擊殺數: 6, 死亡數: 0, 助攻數: 9 - 獲得金錢: 11082 - 經驗值: 10939, 等级: 13 - 小兵擊殺數: 158, 野怪擊殺數: 0 關鍵事件:
+- 在 215 秒時，(Leblanc (MIDDLE)) 擊殺了 (Xerath (UTILITY))
+- 在 226 秒時，(Leblanc (MIDDLE)) 擊殺了 (Ashe (BOTTOM))
+- 在 514 秒時，(Leblanc (MIDDLE)) 擊殺了 (Ashe (BOTTOM))
+- 在 525 秒時，(Leblanc (MIDDLE)) 助攻 (Twitch (BOTTOM)) 擊殺了 (Nunu (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Twitch (BOTTOM)
+終場表現: - 擊殺數: 12, 死亡數: 4, 助攻數: 7 - 獲得金錢: 11604 - 經驗值: 9337, 等级: 12 - 小兵擊殺數: 127, 野怪擊殺數: 0 關鍵事件:
+- 在 302 秒時，(Twitch (BOTTOM)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 348 秒時，(Twitch (BOTTOM)) 擊殺了 (Xerath (UTILITY))
+- 在 349 秒時，(Twitch (BOTTOM)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 358 秒時，(Twitch (BOTTOM)) 擊殺了 (Ashe (BOTTOM))
+- 在 409 秒時，(Twitch (BOTTOM)) 擊殺了 (Ashe (BOTTOM))
+- 在 439 秒時，(Twitch (BOTTOM)) 擊殺了 (Xerath (UTILITY))
+- 在 514 秒時，(Twitch (BOTTOM)) 助攻 (Leblanc (MIDDLE)) 擊殺了 (Ashe (BOTTOM))
+- 在 525 秒時，(Twitch (BOTTOM)) 擊殺了 (Nunu (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Thresh (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 4, 助攻數: 20 - 獲得金錢: 7244 - 經驗值: 8176, 等级: 11 - 小兵擊殺數: 31, 野怪擊殺數: 0 關鍵事件:
+- 在 215 秒時，(Thresh (UTILITY)) 助攻 (Leblanc (MIDDLE)) 擊殺了 (Xerath (UTILITY))
+- 在 224 秒時，(Thresh (UTILITY)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 226 秒時，(Thresh (UTILITY)) 助攻 (Leblanc (MIDDLE)) 擊殺了 (Ashe (BOTTOM))
+- 在 307 秒時，(Thresh (UTILITY)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 348 秒時，(Thresh (UTILITY)) 助攻 (Twitch (BOTTOM)) 擊殺了 (Xerath (UTILITY))
+- 在 355 秒時，(Thresh (UTILITY)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 409 秒時，(Thresh (UTILITY)) 助攻 (Twitch (BOTTOM)) 擊殺了 (Ashe (BOTTOM))
+- 在 514 秒時，(Thresh (UTILITY)) 助攻 (Leblanc (MIDDLE)) 擊殺了 (Ashe (BOTTOM))
+- 在 524 秒時，(Thresh (UTILITY)) 被 (Nunu (JUNGLE)) 擊殺
+- 在 525 秒時，(Thresh (UTILITY)) 助攻 (Twitch (BOTTOM)) 擊殺了 (Nunu (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: MonkeyKing (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 4, 助攻數: 5 - 獲得金錢: 7187 - 經驗值: 9960, 等级: 13 - 小兵擊殺數: 135, 野怪擊殺數: 0 關鍵事件:
+- 在 172 秒時，(MonkeyKing (TOP)) 被 (Singed (TOP)) 擊殺
+- 在 380 秒時，(MonkeyKing (TOP)) 助攻 (Nunu (JUNGLE)) 擊殺了 (Singed (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Nunu (JUNGLE)
+終場表現: - 擊殺數: 5, 死亡數: 5, 助攻數: 3 - 獲得金錢: 8647 - 經驗值: 8103, 等级: 11 - 小兵擊殺數: 14, 野怪擊殺數: 114 關鍵事件:
+- 在 380 秒時，(Nunu (JUNGLE)) 擊殺了 (Singed (TOP))
+- 在 524 秒時，(Nunu (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+- 在 525 秒時，(Nunu (JUNGLE)) 被 (Twitch (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Galio (MIDDLE)
+終場表現: - 擊殺數: 2, 死亡數: 4, 助攻數: 4 - 獲得金錢: 7644 - 經驗值: 9347, 等级: 12 - 小兵擊殺數: 137, 野怪擊殺數: 0 關鍵事件:
+- 在 524 秒時，(Galio (MIDDLE)) 助攻 (Nunu (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ashe (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 8, 助攻數: 3 - 獲得金錢: 9350 - 經驗值: 8276, 等级: 11 - 小兵擊殺數: 156, 野怪擊殺數: 0 關鍵事件:
+- 在 224 秒時，(Ashe (BOTTOM)) 擊殺了 (Thresh (UTILITY))
+- 在 226 秒時，(Ashe (BOTTOM)) 被 (Leblanc (MIDDLE)) 擊殺
+- 在 302 秒時，(Ashe (BOTTOM)) 擊殺了 (Twitch (BOTTOM))
+- 在 307 秒時，(Ashe (BOTTOM)) 擊殺了 (Thresh (UTILITY))
+- 在 349 秒時，(Ashe (BOTTOM)) 擊殺了 (Twitch (BOTTOM))
+- 在 355 秒時，(Ashe (BOTTOM)) 擊殺了 (Thresh (UTILITY))
+- 在 358 秒時，(Ashe (BOTTOM)) 被 (Twitch (BOTTOM)) 擊殺
+- 在 409 秒時，(Ashe (BOTTOM)) 被 (Twitch (BOTTOM)) 擊殺
+- 在 514 秒時，(Ashe (BOTTOM)) 被 (Leblanc (MIDDLE)) 擊殺
+- 在 524 秒時，(Ashe (BOTTOM)) 助攻 (Nunu (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Xerath (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 9, 助攻數: 6 - 獲得金錢: 6328 - 經驗值: 6093, 等级: 9 - 小兵擊殺數: 32, 野怪擊殺數: 1 關鍵事件:
+- 在 215 秒時，(Xerath (UTILITY)) 被 (Leblanc (MIDDLE)) 擊殺
+- 在 302 秒時，(Xerath (UTILITY)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Twitch (BOTTOM))
+- 在 307 秒時，(Xerath (UTILITY)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Thresh (UTILITY))
+- 在 348 秒時，(Xerath (UTILITY)) 被 (Twitch (BOTTOM)) 擊殺
+- 在 349 秒時，(Xerath (UTILITY)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Twitch (BOTTOM))
+- 在 355 秒時，(Xerath (UTILITY)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Thresh (UTILITY))
+- 在 439 秒時，(Xerath (UTILITY)) 被 (Twitch (BOTTOM)) 擊殺
+- 在 524 秒時，(Xerath (UTILITY)) 助攻 (Nunu (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+",Lose
+"比賽模式: ARAM
+使用英雄: Ahri ()
+終場表現: - 擊殺數: 6, 死亡數: 8, 助攻數: 19 - 獲得金錢: 8984 - 經驗值: 10950, 等级: 13 - 小兵擊殺數: 21, 野怪擊殺數: 0 關鍵事件:
+- 在 122 秒時，(Ahri ()) 助攻 (Corki ()) 擊殺了 (Kled ())
+- 在 124 秒時，(Ahri ()) 助攻 (Tristana ()) 擊殺了 (Jayce ())
+- 在 134 秒時，(Ahri ()) 助攻 (Tristana ()) 擊殺了 (Shen ())
+- 在 138 秒時，(Ahri ()) 助攻 (Corki ()) 擊殺了 (Taliyah ())
+- 在 152 秒時，(Ahri ()) 被 (Jayce ()) 擊殺
+- 在 154 秒時，(Ahri ()) 助攻 (Tristana ()) 擊殺了 (Jayce ())
+- 在 173 秒時，(Ahri ()) 助攻 (Corki ()) 擊殺了 (Kled ())
+- 在 183 秒時，(Ahri ()) 助攻 (Tristana ()) 擊殺了 (Jinx ())
+- 在 187 秒時，(Ahri ()) 助攻 (Warwick ()) 擊殺了 (Shen ())
+- 在 192 秒時，(Ahri ()) 助攻 (Tristana ()) 擊殺了 (Taliyah ())
+- 在 234 秒時，(Ahri ()) 助攻 (Warwick ()) 擊殺了 (Kled ())
+- 在 273 秒時，(Ahri ()) 被 (Kled ()) 擊殺
+- 在 277 秒時，(Ahri ()) 助攻 (Corki ()) 擊殺了 (Kled ())
+- 在 318 秒時，(Ahri ()) 助攻 (Warwick ()) 擊殺了 (Taliyah ())
+- 在 326 秒時，(Ahri ()) 擊殺了 (Shen ())
+- 在 328 秒時，(Ahri ()) 擊殺了 (Kled ())
+- 在 333 秒時，(Ahri ()) 擊殺了 (Jinx ())
+- 在 369 秒時，(Ahri ()) 擊殺了 (Jayce ())
+- 在 378 秒時，(Ahri ()) 被 (Taliyah ()) 擊殺
+- 在 408 秒時，(Ahri ()) 助攻 (Tristana ()) 擊殺了 (Kled ())
+- 在 469 秒時，(Ahri ()) 被 (Jinx ()) 擊殺
+- 在 503 秒時，(Ahri ()) 擊殺了 (Kled ())
+- 在 509 秒時，(Ahri ()) 助攻 (Tristana ()) 擊殺了 (Jinx ())
+- 在 522 秒時，(Ahri ()) 助攻 (Corki ()) 擊殺了 (Jayce ())
+- 在 524 秒時，(Ahri ()) 被 (Shen ()) 擊殺
+- 在 527 秒時，(Ahri ()) 助攻 (Corki ()) 擊殺了 (Shen ())
+",Lose
+"比賽模式: ARAM
+使用英雄: Warwick ()
+終場表現: - 擊殺數: 4, 死亡數: 11, 助攻數: 12 - 獲得金錢: 8026 - 經驗值: 9132, 等级: 12 - 小兵擊殺數: 8, 野怪擊殺數: 0 關鍵事件:
+- 在 121 秒時，(Warwick ()) 被 (Kled ()) 擊殺
+- 在 122 秒時，(Warwick ()) 助攻 (Corki ()) 擊殺了 (Kled ())
+- 在 154 秒時，(Warwick ()) 助攻 (Tristana ()) 擊殺了 (Jayce ())
+- 在 161 秒時，(Warwick ()) 被 (Shen ()) 擊殺
+- 在 173 秒時，(Warwick ()) 助攻 (Corki ()) 擊殺了 (Kled ())
+- 在 187 秒時，(Warwick ()) 擊殺了 (Shen ())
+- 在 192 秒時，(Warwick ()) 助攻 (Tristana ()) 擊殺了 (Taliyah ())
+- 在 234 秒時，(Warwick ()) 擊殺了 (Kled ())
+- 在 237 秒時，(Warwick ()) 被 (Shen ()) 擊殺
+- 在 277 秒時，(Warwick ()) 被 (Jayce ()) 擊殺
+- 在 318 秒時，(Warwick ()) 擊殺了 (Taliyah ())
+- 在 326 秒時，(Warwick ()) 助攻 (Ahri ()) 擊殺了 (Shen ())
+- 在 333 秒時，(Warwick ()) 助攻 (Ahri ()) 擊殺了 (Jinx ())
+- 在 347 秒時，(Warwick ()) 被 (Taliyah ()) 擊殺
+- 在 405 秒時，(Warwick ()) 擊殺了 (Taliyah ())
+- 在 407 秒時，(Warwick ()) 被 (Jayce ()) 擊殺
+- 在 464 秒時，(Warwick ()) 被 (Jayce ()) 擊殺
+- 在 493 秒時，(Warwick ()) 助攻 (Tristana ()) 擊殺了 (Taliyah ())
+- 在 503 秒時，(Warwick ()) 助攻 (Ahri ()) 擊殺了 (Kled ())
+- 在 515 秒時，(Warwick ()) 被 (Jayce ()) 擊殺
+- 在 527 秒時，(Warwick ()) 助攻 (Corki ()) 擊殺了 (Shen ())
+",Lose
+"比賽模式: ARAM
+使用英雄: Corki ()
+終場表現: - 擊殺數: 7, 死亡數: 8, 助攻數: 12 - 獲得金錢: 9950 - 經驗值: 9909, 等级: 12 - 小兵擊殺數: 34, 野怪擊殺數: 0 關鍵事件:
+- 在 122 秒時，(Corki ()) 擊殺了 (Kled ())
+- 在 124 秒時，(Corki ()) 助攻 (Tristana ()) 擊殺了 (Jayce ())
+- 在 128 秒時，(Corki ()) 助攻 (Tristana ()) 擊殺了 (Jinx ())
+- 在 134 秒時，(Corki ()) 助攻 (Tristana ()) 擊殺了 (Shen ())
+- 在 138 秒時，(Corki ()) 擊殺了 (Taliyah ())
+- 在 147 秒時，(Corki ()) 被 (Jayce ()) 擊殺
+- 在 173 秒時，(Corki ()) 擊殺了 (Kled ())
+- 在 182 秒時，(Corki ()) 被 (Jinx ()) 擊殺
+- 在 183 秒時，(Corki ()) 助攻 (Tristana ()) 擊殺了 (Jinx ())
+- 在 187 秒時，(Corki ()) 助攻 (Warwick ()) 擊殺了 (Shen ())
+- 在 232 秒時，(Corki ()) 被 (Jayce ()) 擊殺
+- 在 234 秒時，(Corki ()) 助攻 (Warwick ()) 擊殺了 (Kled ())
+- 在 277 秒時，(Corki ()) 擊殺了 (Kled ())
+- 在 320 秒時，(Corki ()) 被 (Kled ()) 擊殺
+- 在 326 秒時，(Corki ()) 助攻 (Ahri ()) 擊殺了 (Shen ())
+- 在 405 秒時，(Corki ()) 助攻 (Warwick ()) 擊殺了 (Taliyah ())
+- 在 485 秒時，(Corki ()) 被 (Shen ()) 擊殺
+- 在 493 秒時，(Corki ()) 助攻 (Tristana ()) 擊殺了 (Taliyah ())
+- 在 522 秒時，(Corki ()) 擊殺了 (Jayce ())
+- 在 527 秒時，(Corki ()) 擊殺了 (Shen ())
+- 在 534 秒時，(Corki ()) 被 (Taliyah ()) 擊殺
+",Lose
+"比賽模式: ARAM
+使用英雄: Tristana ()
+終場表現: - 擊殺數: 13, 死亡數: 6, 助攻數: 9 - 獲得金錢: 11002 - 經驗值: 11359, 等级: 13 - 小兵擊殺數: 49, 野怪擊殺數: 0 關鍵事件:
+- 在 122 秒時，(Tristana ()) 助攻 (Corki ()) 擊殺了 (Kled ())
+- 在 124 秒時，(Tristana ()) 擊殺了 (Jayce ())
+- 在 128 秒時，(Tristana ()) 擊殺了 (Jinx ())
+- 在 134 秒時，(Tristana ()) 擊殺了 (Shen ())
+- 在 138 秒時，(Tristana ()) 助攻 (Corki ()) 擊殺了 (Taliyah ())
+- 在 154 秒時，(Tristana ()) 擊殺了 (Jayce ())
+- 在 155 秒時，(Tristana ()) 被 (Shen ()) 擊殺
+- 在 183 秒時，(Tristana ()) 擊殺了 (Jinx ())
+- 在 187 秒時，(Tristana ()) 助攻 (Warwick ()) 擊殺了 (Shen ())
+- 在 192 秒時，(Tristana ()) 擊殺了 (Taliyah ())
+- 在 234 秒時，(Tristana ()) 助攻 (Warwick ()) 擊殺了 (Kled ())
+- 在 277 秒時，(Tristana ()) 助攻 (Corki ()) 擊殺了 (Kled ())
+- 在 325 秒時，(Tristana ()) 被 (Kled ()) 擊殺
+- 在 326 秒時，(Tristana ()) 助攻 (Ahri ()) 擊殺了 (Shen ())
+- 在 328 秒時，(Tristana ()) 助攻 (Ahri ()) 擊殺了 (Kled ())
+- 在 408 秒時，(Tristana ()) 擊殺了 (Kled ())
+- 在 414 秒時，(Tristana ()) 被 (Jinx ()) 擊殺
+- 在 493 秒時，(Tristana ()) 擊殺了 (Taliyah ())
+- 在 509 秒時，(Tristana ()) 擊殺了 (Jinx ())
+- 在 510 秒時，(Tristana ()) 被 (Jayce ()) 擊殺
+- 在 522 秒時，(Tristana ()) 助攻 (Corki ()) 擊殺了 (Jayce ())
+",Lose
+"比賽模式: ARAM
+使用英雄: Senna ()
+終場表現: - 擊殺數: 1, 死亡數: 8, 助攻數: 25 - 獲得金錢: 7809 - 經驗值: 10494, 等级: 13 - 小兵擊殺數: 13, 野怪擊殺數: 0 關鍵事件:
+- 在 122 秒時，(Senna ()) 助攻 (Corki ()) 擊殺了 (Kled ())
+- 在 124 秒時，(Senna ()) 助攻 (Tristana ()) 擊殺了 (Jayce ())
+- 在 134 秒時，(Senna ()) 助攻 (Tristana ()) 擊殺了 (Shen ())
+- 在 138 秒時，(Senna ()) 助攻 (Corki ()) 擊殺了 (Taliyah ())
+- 在 154 秒時，(Senna ()) 助攻 (Tristana ()) 擊殺了 (Jayce ())
+- 在 173 秒時，(Senna ()) 助攻 (Corki ()) 擊殺了 (Kled ())
+- 在 175 秒時，(Senna ()) 被 (Shen ()) 擊殺
+- 在 187 秒時，(Senna ()) 助攻 (Warwick ()) 擊殺了 (Shen ())
+- 在 234 秒時，(Senna ()) 助攻 (Warwick ()) 擊殺了 (Kled ())
+- 在 265 秒時，(Senna ()) 被 (Taliyah ()) 擊殺
+- 在 277 秒時，(Senna ()) 助攻 (Corki ()) 擊殺了 (Kled ())
+- 在 321 秒時，(Senna ()) 被 (Kled ()) 擊殺
+- 在 328 秒時，(Senna ()) 助攻 (Ahri ()) 擊殺了 (Kled ())
+- 在 373 秒時，(Senna ()) 被 (Shen ()) 擊殺
+- 在 408 秒時，(Senna ()) 助攻 (Tristana ()) 擊殺了 (Kled ())
+- 在 433 秒時，(Senna ()) 被 (Jayce ()) 擊殺
+- 在 493 秒時，(Senna ()) 助攻 (Tristana ()) 擊殺了 (Taliyah ())
+- 在 522 秒時，(Senna ()) 助攻 (Corki ()) 擊殺了 (Jayce ())
+- 在 527 秒時，(Senna ()) 助攻 (Corki ()) 擊殺了 (Shen ())
+- 在 538 秒時，(Senna ()) 被 (Taliyah ()) 擊殺
+",Lose
+"比賽模式: ARAM
+使用英雄: Jayce ()
+終場表現: - 擊殺數: 14, 死亡數: 5, 助攻數: 16 - 獲得金錢: 11902 - 經驗值: 12241, 等级: 14 - 小兵擊殺數: 22, 野怪擊殺數: 0 關鍵事件:
+- 在 121 秒時，(Jayce ()) 助攻 (Kled ()) 擊殺了 (Warwick ())
+- 在 124 秒時，(Jayce ()) 被 (Tristana ()) 擊殺
+- 在 147 秒時，(Jayce ()) 擊殺了 (Corki ())
+- 在 152 秒時，(Jayce ()) 擊殺了 (Ahri ())
+- 在 154 秒時，(Jayce ()) 被 (Tristana ()) 擊殺
+- 在 161 秒時，(Jayce ()) 助攻 (Shen ()) 擊殺了 (Warwick ())
+- 在 232 秒時，(Jayce ()) 擊殺了 (Corki ())
+- 在 237 秒時，(Jayce ()) 助攻 (Shen ()) 擊殺了 (Warwick ())
+- 在 265 秒時，(Jayce ()) 助攻 (Taliyah ()) 擊殺了 (Senna ())
+- 在 277 秒時，(Jayce ()) 擊殺了 (Warwick ())
+- 在 321 秒時，(Jayce ()) 助攻 (Kled ()) 擊殺了 (Senna ())
+- 在 347 秒時，(Jayce ()) 助攻 (Taliyah ()) 擊殺了 (Warwick ())
+- 在 369 秒時，(Jayce ()) 被 (Ahri ()) 擊殺
+- 在 407 秒時，(Jayce ()) 擊殺了 (Warwick ())
+- 在 433 秒時，(Jayce ()) 擊殺了 (Senna ())
+- 在 464 秒時，(Jayce ()) 擊殺了 (Warwick ())
+- 在 510 秒時，(Jayce ()) 擊殺了 (Tristana ())
+- 在 515 秒時，(Jayce ()) 擊殺了 (Warwick ())
+- 在 522 秒時，(Jayce ()) 被 (Corki ()) 擊殺
+- 在 524 秒時，(Jayce ()) 助攻 (Shen ()) 擊殺了 (Ahri ())
+",Win
+"比賽模式: ARAM
+使用英雄: Kled ()
+終場表現: - 擊殺數: 7, 死亡數: 9, 助攻數: 14 - 獲得金錢: 9852 - 經驗值: 11791, 等级: 14 - 小兵擊殺數: 14, 野怪擊殺數: 0 關鍵事件:
+- 在 121 秒時，(Kled ()) 擊殺了 (Warwick ())
+- 在 122 秒時，(Kled ()) 被 (Corki ()) 擊殺
+- 在 161 秒時，(Kled ()) 助攻 (Shen ()) 擊殺了 (Warwick ())
+- 在 173 秒時，(Kled ()) 被 (Corki ()) 擊殺
+- 在 175 秒時，(Kled ()) 助攻 (Shen ()) 擊殺了 (Senna ())
+- 在 182 秒時，(Kled ()) 助攻 (Jinx ()) 擊殺了 (Corki ())
+- 在 232 秒時，(Kled ()) 助攻 (Jayce ()) 擊殺了 (Corki ())
+- 在 234 秒時，(Kled ()) 被 (Warwick ()) 擊殺
+- 在 237 秒時，(Kled ()) 助攻 (Shen ()) 擊殺了 (Warwick ())
+- 在 265 秒時，(Kled ()) 助攻 (Taliyah ()) 擊殺了 (Senna ())
+- 在 273 秒時，(Kled ()) 擊殺了 (Ahri ())
+- 在 277 秒時，(Kled ()) 被 (Corki ()) 擊殺
+- 在 320 秒時，(Kled ()) 擊殺了 (Corki ())
+- 在 321 秒時，(Kled ()) 擊殺了 (Senna ())
+- 在 325 秒時，(Kled ()) 擊殺了 (Tristana ())
+- 在 328 秒時，(Kled ()) 被 (Ahri ()) 擊殺
+- 在 378 秒時，(Kled ()) 助攻 (Taliyah ()) 擊殺了 (Ahri ())
+- 在 407 秒時，(Kled ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 408 秒時，(Kled ()) 被 (Tristana ()) 擊殺
+- 在 464 秒時，(Kled ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 485 秒時，(Kled ()) 助攻 (Shen ()) 擊殺了 (Corki ())
+- 在 503 秒時，(Kled ()) 被 (Ahri ()) 擊殺
+- 在 515 秒時，(Kled ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 524 秒時，(Kled ()) 助攻 (Shen ()) 擊殺了 (Ahri ())
+- 在 538 秒時，(Kled ()) 助攻 (Taliyah ()) 擊殺了 (Senna ())
+",Win
+"比賽模式: ARAM
+使用英雄: Jinx ()
+終場表現: - 擊殺數: 6, 死亡數: 5, 助攻數: 22 - 獲得金錢: 9912 - 經驗值: 12323, 等级: 14 - 小兵擊殺數: 28, 野怪擊殺數: 0 關鍵事件:
+- 在 121 秒時，(Jinx ()) 助攻 (Kled ()) 擊殺了 (Warwick ())
+- 在 128 秒時，(Jinx ()) 被 (Tristana ()) 擊殺
+- 在 161 秒時，(Jinx ()) 助攻 (Shen ()) 擊殺了 (Warwick ())
+- 在 175 秒時，(Jinx ()) 助攻 (Shen ()) 擊殺了 (Senna ())
+- 在 182 秒時，(Jinx ()) 擊殺了 (Corki ())
+- 在 183 秒時，(Jinx ()) 被 (Tristana ()) 擊殺
+- 在 232 秒時，(Jinx ()) 助攻 (Jayce ()) 擊殺了 (Corki ())
+- 在 237 秒時，(Jinx ()) 助攻 (Shen ()) 擊殺了 (Warwick ())
+- 在 265 秒時，(Jinx ()) 助攻 (Taliyah ()) 擊殺了 (Senna ())
+- 在 273 秒時，(Jinx ()) 助攻 (Kled ()) 擊殺了 (Ahri ())
+- 在 277 秒時，(Jinx ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 333 秒時，(Jinx ()) 被 (Ahri ()) 擊殺
+- 在 347 秒時，(Jinx ()) 助攻 (Taliyah ()) 擊殺了 (Warwick ())
+- 在 373 秒時，(Jinx ()) 助攻 (Shen ()) 擊殺了 (Senna ())
+- 在 378 秒時，(Jinx ()) 助攻 (Taliyah ()) 擊殺了 (Ahri ())
+- 在 407 秒時，(Jinx ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 414 秒時，(Jinx ()) 擊殺了 (Tristana ())
+- 在 433 秒時，(Jinx ()) 助攻 (Jayce ()) 擊殺了 (Senna ())
+- 在 464 秒時，(Jinx ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 469 秒時，(Jinx ()) 擊殺了 (Ahri ())
+- 在 509 秒時，(Jinx ()) 被 (Tristana ()) 擊殺
+- 在 510 秒時，(Jinx ()) 助攻 (Jayce ()) 擊殺了 (Tristana ())
+- 在 515 秒時，(Jinx ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 524 秒時，(Jinx ()) 助攻 (Shen ()) 擊殺了 (Ahri ())
+",Win
+"比賽模式: ARAM
+使用英雄: Shen ()
+終場表現: - 擊殺數: 9, 死亡數: 5, 助攻數: 20 - 獲得金錢: 10364 - 經驗值: 12326, 等级: 14 - 小兵擊殺數: 26, 野怪擊殺數: 0 關鍵事件:
+- 在 134 秒時，(Shen ()) 被 (Tristana ()) 擊殺
+- 在 147 秒時，(Shen ()) 助攻 (Jayce ()) 擊殺了 (Corki ())
+- 在 155 秒時，(Shen ()) 擊殺了 (Tristana ())
+- 在 161 秒時，(Shen ()) 擊殺了 (Warwick ())
+- 在 175 秒時，(Shen ()) 擊殺了 (Senna ())
+- 在 182 秒時，(Shen ()) 助攻 (Jinx ()) 擊殺了 (Corki ())
+- 在 187 秒時，(Shen ()) 被 (Warwick ()) 擊殺
+- 在 232 秒時，(Shen ()) 助攻 (Jayce ()) 擊殺了 (Corki ())
+- 在 237 秒時，(Shen ()) 擊殺了 (Warwick ())
+- 在 265 秒時，(Shen ()) 助攻 (Taliyah ()) 擊殺了 (Senna ())
+- 在 277 秒時，(Shen ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 320 秒時，(Shen ()) 助攻 (Kled ()) 擊殺了 (Corki ())
+- 在 321 秒時，(Shen ()) 助攻 (Kled ()) 擊殺了 (Senna ())
+- 在 325 秒時，(Shen ()) 助攻 (Kled ()) 擊殺了 (Tristana ())
+- 在 326 秒時，(Shen ()) 被 (Ahri ()) 擊殺
+- 在 373 秒時，(Shen ()) 擊殺了 (Senna ())
+- 在 407 秒時，(Shen ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 414 秒時，(Shen ()) 助攻 (Jinx ()) 擊殺了 (Tristana ())
+- 在 464 秒時，(Shen ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 485 秒時，(Shen ()) 擊殺了 (Corki ())
+- 在 510 秒時，(Shen ()) 助攻 (Jayce ()) 擊殺了 (Tristana ())
+- 在 515 秒時，(Shen ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 524 秒時，(Shen ()) 擊殺了 (Ahri ())
+- 在 527 秒時，(Shen ()) 被 (Corki ()) 擊殺
+- 在 534 秒時，(Shen ()) 助攻 (Taliyah ()) 擊殺了 (Corki ())
+- 在 538 秒時，(Shen ()) 助攻 (Taliyah ()) 擊殺了 (Senna ())
+",Win
+"比賽模式: ARAM
+使用英雄: Taliyah ()
+終場表現: - 擊殺數: 5, 死亡數: 7, 助攻數: 19 - 獲得金錢: 10541 - 經驗值: 11863, 等级: 14 - 小兵擊殺數: 48, 野怪擊殺數: 0 關鍵事件:
+- 在 121 秒時，(Taliyah ()) 助攻 (Kled ()) 擊殺了 (Warwick ())
+- 在 138 秒時，(Taliyah ()) 被 (Corki ()) 擊殺
+- 在 147 秒時，(Taliyah ()) 助攻 (Jayce ()) 擊殺了 (Corki ())
+- 在 182 秒時，(Taliyah ()) 助攻 (Jinx ()) 擊殺了 (Corki ())
+- 在 192 秒時，(Taliyah ()) 被 (Tristana ()) 擊殺
+- 在 265 秒時，(Taliyah ()) 擊殺了 (Senna ())
+- 在 277 秒時，(Taliyah ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 318 秒時，(Taliyah ()) 被 (Warwick ()) 擊殺
+- 在 320 秒時，(Taliyah ()) 助攻 (Kled ()) 擊殺了 (Corki ())
+- 在 321 秒時，(Taliyah ()) 助攻 (Kled ()) 擊殺了 (Senna ())
+- 在 347 秒時，(Taliyah ()) 擊殺了 (Warwick ())
+- 在 373 秒時，(Taliyah ()) 助攻 (Shen ()) 擊殺了 (Senna ())
+- 在 378 秒時，(Taliyah ()) 擊殺了 (Ahri ())
+- 在 405 秒時，(Taliyah ()) 被 (Warwick ()) 擊殺
+- 在 407 秒時，(Taliyah ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 464 秒時，(Taliyah ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 485 秒時，(Taliyah ()) 助攻 (Shen ()) 擊殺了 (Corki ())
+- 在 493 秒時，(Taliyah ()) 被 (Tristana ()) 擊殺
+- 在 515 秒時，(Taliyah ()) 助攻 (Jayce ()) 擊殺了 (Warwick ())
+- 在 534 秒時，(Taliyah ()) 擊殺了 (Corki ())
+- 在 538 秒時，(Taliyah ()) 擊殺了 (Senna ())
+",Win
+"比賽模式: ARAM
+使用英雄: Jhin ()
+終場表現: - 擊殺數: 10, 死亡數: 8, 助攻數: 24 - 獲得金錢: 16323 - 經驗值: 21373, 等级: 18 - 小兵擊殺數: 87, 野怪擊殺數: 0 關鍵事件:
+- 在 65 秒時，(Jhin ()) 助攻 (LeeSin ()) 擊殺了 (Zilean ())
+- 在 71 秒時，(Jhin ()) 助攻 (Ekko ()) 擊殺了 (Braum ())
+- 在 77 秒時，(Jhin ()) 擊殺了 (Akshan ())
+- 在 100 秒時，(Jhin ()) 擊殺了 (Riven ())
+- 在 246 秒時，(Jhin ()) 助攻 (LeeSin ()) 擊殺了 (Akshan ())
+- 在 252 秒時，(Jhin ()) 助攻 (LeeSin ()) 擊殺了 (Riven ())
+- 在 260 秒時，(Jhin ()) 助攻 (LeeSin ()) 擊殺了 (Braum ())
+- 在 275 秒時，(Jhin ()) 被 (Akshan ()) 擊殺
+- 在 399 秒時，(Jhin ()) 擊殺了 (Akshan ())
+- 在 401 秒時，(Jhin ()) 助攻 (LeeSin ()) 擊殺了 (Zilean ())
+- 在 406 秒時，(Jhin ()) 助攻 (Ekko ()) 擊殺了 (Braum ())
+- 在 412 秒時，(Jhin ()) 助攻 (LeeSin ()) 擊殺了 (Riven ())
+- 在 476 秒時，(Jhin ()) 被 (Riven ()) 擊殺
+- 在 509 秒時，(Jhin ()) 助攻 (LeeSin ()) 擊殺了 (Akshan ())
+- 在 513 秒時，(Jhin ()) 助攻 (LeeSin ()) 擊殺了 (Braum ())
+- 在 527 秒時，(Jhin ()) 助攻 (LeeSin ()) 擊殺了 (Zilean ())
+",Lose
+"比賽模式: ARAM
+使用英雄: Neeko ()
+終場表現: - 擊殺數: 2, 死亡數: 13, 助攻數: 25 - 獲得金錢: 11930 - 經驗值: 18303, 等级: 17 - 小兵擊殺數: 33, 野怪擊殺數: 0 關鍵事件:
+- 在 65 秒時，(Neeko ()) 助攻 (LeeSin ()) 擊殺了 (Zilean ())
+- 在 71 秒時，(Neeko ()) 助攻 (Ekko ()) 擊殺了 (Braum ())
+- 在 77 秒時，(Neeko ()) 助攻 (Jhin ()) 擊殺了 (Akshan ())
+- 在 242 秒時，(Neeko ()) 助攻 (LeeSin ()) 擊殺了 (Zilean ())
+- 在 244 秒時，(Neeko ()) 助攻 (Ekko ()) 擊殺了 (Sivir ())
+- 在 246 秒時，(Neeko ()) 助攻 (LeeSin ()) 擊殺了 (Akshan ())
+- 在 252 秒時，(Neeko ()) 助攻 (LeeSin ()) 擊殺了 (Riven ())
+- 在 260 秒時，(Neeko ()) 助攻 (LeeSin ()) 擊殺了 (Braum ())
+- 在 263 秒時，(Neeko ()) 被 (Akshan ()) 擊殺
+- 在 395 秒時，(Neeko ()) 被 (Braum ()) 擊殺
+- 在 399 秒時，(Neeko ()) 助攻 (Jhin ()) 擊殺了 (Akshan ())
+- 在 406 秒時，(Neeko ()) 助攻 (Ekko ()) 擊殺了 (Braum ())
+- 在 483 秒時，(Neeko ()) 被 (Riven ()) 擊殺
+- 在 513 秒時，(Neeko ()) 助攻 (LeeSin ()) 擊殺了 (Braum ())
+- 在 537 秒時，(Neeko ()) 擊毀了一座TOWER_BUILDING
+",Lose
+"比賽模式: ARAM
+使用英雄: Seraphine ()
+終場表現: - 擊殺數: 0, 死亡數: 10, 助攻數: 45 - 獲得金錢: 13142 - 經驗值: 23100, 等级: 18 - 小兵擊殺數: 42, 野怪擊殺數: 0 關鍵事件:
+- 在 43 秒時，(Seraphine ()) 被 (Zilean ()) 擊殺
+- 在 65 秒時，(Seraphine ()) 助攻 (LeeSin ()) 擊殺了 (Zilean ())
+- 在 71 秒時，(Seraphine ()) 助攻 (Ekko ()) 擊殺了 (Braum ())
+- 在 77 秒時，(Seraphine ()) 助攻 (Jhin ()) 擊殺了 (Akshan ())
+- 在 243 秒時，(Seraphine ()) 被 (Akshan ()) 擊殺
+- 在 246 秒時，(Seraphine ()) 助攻 (LeeSin ()) 擊殺了 (Akshan ())
+- 在 252 秒時，(Seraphine ()) 助攻 (LeeSin ()) 擊殺了 (Riven ())
+- 在 260 秒時，(Seraphine ()) 助攻 (LeeSin ()) 擊殺了 (Braum ())
+- 在 324 秒時，(Seraphine ()) 被 (Zilean ()) 擊殺
+- 在 406 秒時，(Seraphine ()) 助攻 (Ekko ()) 擊殺了 (Braum ())
+- 在 412 秒時，(Seraphine ()) 助攻 (LeeSin ()) 擊殺了 (Riven ())
+- 在 431 秒時，(Seraphine ()) 被 (Akshan ()) 擊殺
+- 在 486 秒時，(Seraphine ()) 助攻 (Ekko ()) 擊殺了 (Zilean ())
+- 在 509 秒時，(Seraphine ()) 助攻 (LeeSin ()) 擊殺了 (Akshan ())
+- 在 513 秒時，(Seraphine ()) 助攻 (LeeSin ()) 擊殺了 (Braum ())
+- 在 527 秒時，(Seraphine ()) 助攻 (LeeSin ()) 擊殺了 (Zilean ())
+- 在 528 秒時，(Seraphine ()) 助攻 (Ekko ()) 擊殺了 (Riven ())
+",Lose
+"比賽模式: ARAM
+使用英雄: Ekko ()
+終場表現: - 擊殺數: 22, 死亡數: 13, 助攻數: 18 - 獲得金錢: 16950 - 經驗值: 21760, 等级: 18 - 小兵擊殺數: 52, 野怪擊殺數: 0 關鍵事件:
+- 在 71 秒時，(Ekko ()) 擊殺了 (Braum ())
+- 在 71 秒時，(Ekko ()) 被 (Akshan ()) 擊殺
+- 在 100 秒時，(Ekko ()) 助攻 (Jhin ()) 擊殺了 (Riven ())
+- 在 103 秒時，(Ekko ()) 被 (Braum ()) 擊殺
+- 在 244 秒時，(Ekko ()) 擊殺了 (Sivir ())
+- 在 252 秒時，(Ekko ()) 助攻 (LeeSin ()) 擊殺了 (Riven ())
+- 在 255 秒時，(Ekko ()) 被 (Riven ()) 擊殺
+- 在 260 秒時，(Ekko ()) 助攻 (LeeSin ()) 擊殺了 (Braum ())
+- 在 399 秒時，(Ekko ()) 助攻 (Jhin ()) 擊殺了 (Akshan ())
+- 在 406 秒時，(Ekko ()) 擊殺了 (Braum ())
+- 在 426 秒時，(Ekko ()) 被 (Akshan ()) 擊殺
+- 在 484 秒時，(Ekko ()) 被 (Akshan ()) 擊殺
+- 在 486 秒時，(Ekko ()) 擊殺了 (Zilean ())
+- 在 513 秒時，(Ekko ()) 助攻 (LeeSin ()) 擊殺了 (Braum ())
+- 在 528 秒時，(Ekko ()) 擊殺了 (Riven ())
+",Lose
+"比賽模式: ARAM
+使用英雄: LeeSin ()
+終場表現: - 擊殺數: 15, 死亡數: 13, 助攻數: 22 - 獲得金錢: 16945 - 經驗值: 21417, 等级: 18 - 小兵擊殺數: 62, 野怪擊殺數: 0 關鍵事件:
+- 在 65 秒時，(LeeSin ()) 擊殺了 (Zilean ())
+- 在 71 秒時，(LeeSin ()) 助攻 (Ekko ()) 擊殺了 (Braum ())
+- 在 77 秒時，(LeeSin ()) 助攻 (Jhin ()) 擊殺了 (Akshan ())
+- 在 209 秒時，(LeeSin ()) 被 (Akshan ()) 擊殺
+- 在 242 秒時，(LeeSin ()) 擊殺了 (Zilean ())
+- 在 246 秒時，(LeeSin ()) 擊殺了 (Akshan ())
+- 在 252 秒時，(LeeSin ()) 擊殺了 (Riven ())
+- 在 260 秒時，(LeeSin ()) 擊殺了 (Braum ())
+- 在 267 秒時，(LeeSin ()) 被 (Zilean ()) 擊殺
+- 在 401 秒時，(LeeSin ()) 擊殺了 (Zilean ())
+- 在 406 秒時，(LeeSin ()) 助攻 (Ekko ()) 擊殺了 (Braum ())
+- 在 412 秒時，(LeeSin ()) 擊殺了 (Riven ())
+- 在 414 秒時，(LeeSin ()) 被 (Sivir ()) 擊殺
+- 在 471 秒時，(LeeSin ()) 擊殺了 (Sivir ())
+- 在 473 秒時，(LeeSin ()) 被 (Zilean ()) 擊殺
+- 在 486 秒時，(LeeSin ()) 助攻 (Ekko ()) 擊殺了 (Zilean ())
+- 在 509 秒時，(LeeSin ()) 擊殺了 (Akshan ())
+- 在 513 秒時，(LeeSin ()) 擊殺了 (Braum ())
+- 在 527 秒時，(LeeSin ()) 擊殺了 (Zilean ())
+- 在 528 秒時，(LeeSin ()) 助攻 (Ekko ()) 擊殺了 (Riven ())
+",Lose
+"比賽模式: ARAM
+使用英雄: Sivir ()
+終場表現: - 擊殺數: 11, 死亡數: 9, 助攻數: 38 - 獲得金錢: 18193 - 經驗值: 23886, 等级: 18 - 小兵擊殺數: 143, 野怪擊殺數: 0 關鍵事件:
+- 在 43 秒時，(Sivir ()) 助攻 (Zilean ()) 擊殺了 (Seraphine ())
+- 在 71 秒時，(Sivir ()) 助攻 (Akshan ()) 擊殺了 (Ekko ())
+- 在 103 秒時，(Sivir ()) 助攻 (Braum ()) 擊殺了 (Ekko ())
+- 在 209 秒時，(Sivir ()) 助攻 (Akshan ()) 擊殺了 (LeeSin ())
+- 在 243 秒時，(Sivir ()) 助攻 (Akshan ()) 擊殺了 (Seraphine ())
+- 在 244 秒時，(Sivir ()) 被 (Ekko ()) 擊殺
+- 在 255 秒時，(Sivir ()) 助攻 (Riven ()) 擊殺了 (Ekko ())
+- 在 267 秒時，(Sivir ()) 助攻 (Zilean ()) 擊殺了 (LeeSin ())
+- 在 275 秒時，(Sivir ()) 助攻 (Akshan ()) 擊殺了 (Jhin ())
+- 在 324 秒時，(Sivir ()) 助攻 (Zilean ()) 擊殺了 (Seraphine ())
+- 在 395 秒時，(Sivir ()) 助攻 (Braum ()) 擊殺了 (Neeko ())
+- 在 414 秒時，(Sivir ()) 擊殺了 (LeeSin ())
+- 在 426 秒時，(Sivir ()) 助攻 (Akshan ()) 擊殺了 (Ekko ())
+- 在 431 秒時，(Sivir ()) 助攻 (Akshan ()) 擊殺了 (Seraphine ())
+- 在 471 秒時，(Sivir ()) 被 (LeeSin ()) 擊殺
+- 在 476 秒時，(Sivir ()) 助攻 (Riven ()) 擊殺了 (Jhin ())
+- 在 483 秒時，(Sivir ()) 助攻 (Riven ()) 擊殺了 (Neeko ())
+- 在 484 秒時，(Sivir ()) 助攻 (Akshan ()) 擊殺了 (Ekko ())
+",Win
+"比賽模式: ARAM
+使用英雄: Akshan ()
+終場表現: - 擊殺數: 24, 死亡數: 9, 助攻數: 13 - 獲得金錢: 19664 - 經驗值: 22357, 等级: 18 - 小兵擊殺數: 55, 野怪擊殺數: 0 關鍵事件:
+- 在 71 秒時，(Akshan ()) 擊殺了 (Ekko ())
+- 在 77 秒時，(Akshan ()) 被 (Jhin ()) 擊殺
+- 在 103 秒時，(Akshan ()) 助攻 (Braum ()) 擊殺了 (Ekko ())
+- 在 209 秒時，(Akshan ()) 擊殺了 (LeeSin ())
+- 在 243 秒時，(Akshan ()) 擊殺了 (Seraphine ())
+- 在 246 秒時，(Akshan ()) 被 (LeeSin ()) 擊殺
+- 在 263 秒時，(Akshan ()) 擊殺了 (Neeko ())
+- 在 267 秒時，(Akshan ()) 助攻 (Zilean ()) 擊殺了 (LeeSin ())
+- 在 275 秒時，(Akshan ()) 擊殺了 (Jhin ())
+- 在 395 秒時，(Akshan ()) 助攻 (Braum ()) 擊殺了 (Neeko ())
+- 在 399 秒時，(Akshan ()) 被 (Jhin ()) 擊殺
+- 在 426 秒時，(Akshan ()) 擊殺了 (Ekko ())
+- 在 431 秒時，(Akshan ()) 擊殺了 (Seraphine ())
+- 在 473 秒時，(Akshan ()) 助攻 (Zilean ()) 擊殺了 (LeeSin ())
+- 在 476 秒時，(Akshan ()) 助攻 (Riven ()) 擊殺了 (Jhin ())
+- 在 484 秒時，(Akshan ()) 擊殺了 (Ekko ())
+- 在 509 秒時，(Akshan ()) 被 (LeeSin ()) 擊殺
+",Win
+"比賽模式: ARAM
+使用英雄: Braum ()
+終場表現: - 擊殺數: 2, 死亡數: 8, 助攻數: 44 - 獲得金錢: 13489 - 經驗值: 23243, 等级: 18 - 小兵擊殺數: 10, 野怪擊殺數: 0 關鍵事件:
+- 在 43 秒時，(Braum ()) 助攻 (Zilean ()) 擊殺了 (Seraphine ())
+- 在 71 秒時，(Braum ()) 被 (Ekko ()) 擊殺
+- 在 71 秒時，(Braum ()) 助攻 (Akshan ()) 擊殺了 (Ekko ())
+- 在 103 秒時，(Braum ()) 擊殺了 (Ekko ())
+- 在 209 秒時，(Braum ()) 助攻 (Akshan ()) 擊殺了 (LeeSin ())
+- 在 243 秒時，(Braum ()) 助攻 (Akshan ()) 擊殺了 (Seraphine ())
+- 在 260 秒時，(Braum ()) 被 (LeeSin ()) 擊殺
+- 在 267 秒時，(Braum ()) 助攻 (Zilean ()) 擊殺了 (LeeSin ())
+- 在 324 秒時，(Braum ()) 助攻 (Zilean ()) 擊殺了 (Seraphine ())
+- 在 395 秒時，(Braum ()) 擊殺了 (Neeko ())
+- 在 406 秒時，(Braum ()) 被 (Ekko ()) 擊殺
+- 在 414 秒時，(Braum ()) 助攻 (Sivir ()) 擊殺了 (LeeSin ())
+- 在 483 秒時，(Braum ()) 助攻 (Riven ()) 擊殺了 (Neeko ())
+- 在 484 秒時，(Braum ()) 助攻 (Akshan ()) 擊殺了 (Ekko ())
+- 在 513 秒時，(Braum ()) 被 (LeeSin ()) 擊殺
+",Win
+"比賽模式: ARAM
+使用英雄: Riven ()
+終場表現: - 擊殺數: 15, 死亡數: 11, 助攻數: 21 - 獲得金錢: 16463 - 經驗值: 22004, 等级: 18 - 小兵擊殺數: 36, 野怪擊殺數: 0 關鍵事件:
+- 在 43 秒時，(Riven ()) 助攻 (Zilean ()) 擊殺了 (Seraphine ())
+- 在 71 秒時，(Riven ()) 助攻 (Akshan ()) 擊殺了 (Ekko ())
+- 在 100 秒時，(Riven ()) 被 (Jhin ()) 擊殺
+- 在 103 秒時，(Riven ()) 助攻 (Braum ()) 擊殺了 (Ekko ())
+- 在 209 秒時，(Riven ()) 助攻 (Akshan ()) 擊殺了 (LeeSin ())
+- 在 252 秒時，(Riven ()) 被 (LeeSin ()) 擊殺
+- 在 255 秒時，(Riven ()) 擊殺了 (Ekko ())
+- 在 267 秒時，(Riven ()) 助攻 (Zilean ()) 擊殺了 (LeeSin ())
+- 在 395 秒時，(Riven ()) 助攻 (Braum ()) 擊殺了 (Neeko ())
+- 在 412 秒時，(Riven ()) 被 (LeeSin ()) 擊殺
+- 在 414 秒時，(Riven ()) 助攻 (Sivir ()) 擊殺了 (LeeSin ())
+- 在 476 秒時，(Riven ()) 擊殺了 (Jhin ())
+- 在 483 秒時，(Riven ()) 擊殺了 (Neeko ())
+- 在 528 秒時，(Riven ()) 被 (Ekko ()) 擊殺
+",Win
+"比賽模式: ARAM
+使用英雄: Zilean ()
+終場表現: - 擊殺數: 5, 死亡數: 12, 助攻數: 38 - 獲得金錢: 14308 - 經驗值: 23602, 等级: 18 - 小兵擊殺數: 37, 野怪擊殺數: 0 關鍵事件:
+- 在 43 秒時，(Zilean ()) 擊殺了 (Seraphine ())
+- 在 65 秒時，(Zilean ()) 被 (LeeSin ()) 擊殺
+- 在 71 秒時，(Zilean ()) 助攻 (Akshan ()) 擊殺了 (Ekko ())
+- 在 103 秒時，(Zilean ()) 助攻 (Braum ()) 擊殺了 (Ekko ())
+- 在 209 秒時，(Zilean ()) 助攻 (Akshan ()) 擊殺了 (LeeSin ())
+- 在 242 秒時，(Zilean ()) 被 (LeeSin ()) 擊殺
+- 在 243 秒時，(Zilean ()) 助攻 (Akshan ()) 擊殺了 (Seraphine ())
+- 在 255 秒時，(Zilean ()) 助攻 (Riven ()) 擊殺了 (Ekko ())
+- 在 267 秒時，(Zilean ()) 擊殺了 (LeeSin ())
+- 在 275 秒時，(Zilean ()) 助攻 (Akshan ()) 擊殺了 (Jhin ())
+- 在 324 秒時，(Zilean ()) 擊殺了 (Seraphine ())
+- 在 395 秒時，(Zilean ()) 助攻 (Braum ()) 擊殺了 (Neeko ())
+- 在 401 秒時，(Zilean ()) 被 (LeeSin ()) 擊殺
+- 在 431 秒時，(Zilean ()) 助攻 (Akshan ()) 擊殺了 (Seraphine ())
+- 在 473 秒時，(Zilean ()) 擊殺了 (LeeSin ())
+- 在 483 秒時，(Zilean ()) 助攻 (Riven ()) 擊殺了 (Neeko ())
+- 在 484 秒時，(Zilean ()) 助攻 (Akshan ()) 擊殺了 (Ekko ())
+- 在 486 秒時，(Zilean ()) 被 (Ekko ()) 擊殺
+- 在 527 秒時，(Zilean ()) 被 (LeeSin ()) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 3, 助攻數: 0 - 獲得金錢: 5138 - 經驗值: 6438, 等级: 10 - 小兵擊殺數: 89, 野怪擊殺數: 0 關鍵事件:
+- 在 283 秒時，(Singed (TOP)) 擊殺了 (Gangplank (TOP))
+- 在 362 秒時，(Singed (TOP)) 被 (Gangplank (TOP)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Rumble (JUNGLE)
+終場表現: - 擊殺數: 1, 死亡數: 3, 助攻數: 2 - 獲得金錢: 4835 - 經驗值: 5224, 等级: 9 - 小兵擊殺數: 14, 野怪擊殺數: 68 關鍵事件:
+- 在 112 秒時，(Rumble (JUNGLE)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 250 秒時，(Rumble (JUNGLE)) 被 (Kindred (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yasuo (MIDDLE)
+終場表現: - 擊殺數: 2, 死亡數: 3, 助攻數: 2 - 獲得金錢: 7244 - 經驗值: 7950, 等级: 11 - 小兵擊殺數: 131, 野怪擊殺數: 0 關鍵事件:
+- 在 409 秒時，(Yasuo (MIDDLE)) 被 (Malphite (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lucian (BOTTOM)
+終場表現: - 擊殺數: 1, 死亡數: 6, 助攻數: 1 - 獲得金錢: 5307 - 經驗值: 5793, 等级: 9 - 小兵擊殺數: 98, 野怪擊殺數: 0 關鍵事件:
+- 在 140 秒時，(Lucian (BOTTOM)) 擊殺了 (Kindred (JUNGLE))
+- 在 140 秒時，(Lucian (BOTTOM)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 292 秒時，(Lucian (BOTTOM)) 被 (Kindred (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Camille (UTILITY)
+終場表現: - 擊殺數: 3, 死亡數: 9, 助攻數: 2 - 獲得金錢: 5890 - 經驗值: 3624, 等级: 7 - 小兵擊殺數: 27, 野怪擊殺數: 0 關鍵事件:
+- 在 117 秒時，(Camille (UTILITY)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 293 秒時，(Camille (UTILITY)) 被 (Ashe (BOTTOM)) 擊殺
+- 在 390 秒時，(Camille (UTILITY)) 被 (Thresh (UTILITY)) 擊殺
+- 在 507 秒時，(Camille (UTILITY)) 被 (Kindred (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Gangplank (TOP)
+終場表現: - 擊殺數: 4, 死亡數: 1, 助攻數: 0 - 獲得金錢: 7596 - 經驗值: 8313, 等级: 11 - 小兵擊殺數: 125, 野怪擊殺數: 0 關鍵事件:
+- 在 283 秒時，(Gangplank (TOP)) 被 (Singed (TOP)) 擊殺
+- 在 362 秒時，(Gangplank (TOP)) 擊殺了 (Singed (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ashe (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 2, 助攻數: 4 - 獲得金錢: 8309 - 經驗值: 7252, 等级: 10 - 小兵擊殺數: 119, 野怪擊殺數: 4 關鍵事件:
+- 在 112 秒時，(Ashe (BOTTOM)) 擊殺了 (Rumble (JUNGLE))
+- 在 117 秒時，(Ashe (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 140 秒時，(Ashe (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+- 在 292 秒時，(Ashe (BOTTOM)) 助攻 (Kindred (JUNGLE)) 擊殺了 (Lucian (BOTTOM))
+- 在 293 秒時，(Ashe (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 390 秒時，(Ashe (BOTTOM)) 助攻 (Thresh (UTILITY)) 擊殺了 (Camille (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Malphite (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 2, 助攻數: 3 - 獲得金錢: 7310 - 經驗值: 7625, 等级: 11 - 小兵擊殺數: 96, 野怪擊殺數: 0 關鍵事件:
+- 在 409 秒時，(Malphite (MIDDLE)) 擊殺了 (Yasuo (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kindred (JUNGLE)
+終場表現: - 擊殺數: 5, 死亡數: 2, 助攻數: 6 - 獲得金錢: 7117 - 經驗值: 6733, 等级: 10 - 小兵擊殺數: 9, 野怪擊殺數: 93 關鍵事件:
+- 在 112 秒時，(Kindred (JUNGLE)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Rumble (JUNGLE))
+- 在 117 秒時，(Kindred (JUNGLE)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 140 秒時，(Kindred (JUNGLE)) 被 (Lucian (BOTTOM)) 擊殺
+- 在 140 秒時，(Kindred (JUNGLE)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+- 在 250 秒時，(Kindred (JUNGLE)) 擊殺了 (Rumble (JUNGLE))
+- 在 292 秒時，(Kindred (JUNGLE)) 擊殺了 (Lucian (BOTTOM))
+- 在 293 秒時，(Kindred (JUNGLE)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 409 秒時，(Kindred (JUNGLE)) 助攻 (Malphite (MIDDLE)) 擊殺了 (Yasuo (MIDDLE))
+- 在 428 秒時，(Kindred (JUNGLE)) 擊殺了 小龍
+- 在 507 秒時，(Kindred (JUNGLE)) 擊殺了 (Camille (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Thresh (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 3, 助攻數: 9 - 獲得金錢: 5014 - 經驗值: 3455, 等级: 7 - 小兵擊殺數: 7, 野怪擊殺數: 4 關鍵事件:
+- 在 112 秒時，(Thresh (UTILITY)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Rumble (JUNGLE))
+- 在 117 秒時，(Thresh (UTILITY)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 293 秒時，(Thresh (UTILITY)) 助攻 (Ashe (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 390 秒時，(Thresh (UTILITY)) 擊殺了 (Camille (UTILITY))
+- 在 409 秒時，(Thresh (UTILITY)) 助攻 (Malphite (MIDDLE)) 擊殺了 (Yasuo (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: TwistedFate (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 5, 助攻數: 5 - 獲得金錢: 10740 - 經驗值: 12516, 等级: 14 - 小兵擊殺數: 183, 野怪擊殺數: 4 關鍵事件:
+- 在 451 秒時，(TwistedFate (TOP)) 被 (LeeSin (JUNGLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kindred (JUNGLE)
+終場表現: - 擊殺數: 7, 死亡數: 3, 助攻數: 13 - 獲得金錢: 11590 - 經驗值: 12857, 等级: 14 - 小兵擊殺數: 23, 野怪擊殺數: 140 關鍵事件:
+- 在 262 秒時，(Kindred (JUNGLE)) 擊殺了 (Pyke (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Leblanc (MIDDLE)
+終場表現: - 擊殺數: 12, 死亡數: 2, 助攻數: 11 - 獲得金錢: 13900 - 經驗值: 14906, 等级: 16 - 小兵擊殺數: 200, 野怪擊殺數: 0 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Corki (BOTTOM)
+終場表現: - 擊殺數: 10, 死亡數: 7, 助攻數: 11 - 獲得金錢: 12789 - 經驗值: 12339, 等级: 14 - 小兵擊殺數: 183, 野怪擊殺數: 0 關鍵事件:
+- 在 136 秒時，(Corki (BOTTOM)) 被 (Kaisa (BOTTOM)) 擊殺
+- 在 262 秒時，(Corki (BOTTOM)) 助攻 (Kindred (JUNGLE)) 擊殺了 (Pyke (UTILITY))
+- 在 351 秒時，(Corki (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 498 秒時，(Corki (BOTTOM)) 被 (Kaisa (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Leona (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 15 - 獲得金錢: 7829 - 經驗值: 8300, 等级: 11 - 小兵擊殺數: 25, 野怪擊殺數: 0 關鍵事件:
+- 在 171 秒時，(Leona (UTILITY)) 被 (Kaisa (BOTTOM)) 擊殺
+- 在 261 秒時，(Leona (UTILITY)) 被 (Pyke (UTILITY)) 擊殺
+- 在 262 秒時，(Leona (UTILITY)) 助攻 (Kindred (JUNGLE)) 擊殺了 (Pyke (UTILITY))
+- 在 351 秒時，(Leona (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 530 秒時，(Leona (UTILITY)) 擊殺了 (Pyke (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 3, 死亡數: 6, 助攻數: 3 - 獲得金錢: 8894 - 經驗值: 11587, 等级: 14 - 小兵擊殺數: 173, 野怪擊殺數: 0 關鍵事件:
+- 在 451 秒時，(Singed (TOP)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (TwistedFate (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: LeeSin (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 8, 助攻數: 7 - 獲得金錢: 9212 - 經驗值: 9579, 等级: 12 - 小兵擊殺數: 11, 野怪擊殺數: 113 關鍵事件:
+- 在 261 秒時，(LeeSin (JUNGLE)) 助攻 (Pyke (UTILITY)) 擊殺了 (Leona (UTILITY))
+- 在 451 秒時，(LeeSin (JUNGLE)) 擊殺了 (TwistedFate (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Syndra (MIDDLE)
+終場表現: - 擊殺數: 3, 死亡數: 3, 助攻數: 3 - 獲得金錢: 9070 - 經驗值: 10958, 等级: 13 - 小兵擊殺數: 170, 野怪擊殺數: 6 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Kaisa (BOTTOM)
+終場表現: - 擊殺數: 10, 死亡數: 7, 助攻數: 4 - 獲得金錢: 11784 - 經驗值: 11058, 等级: 13 - 小兵擊殺數: 170, 野怪擊殺數: 8 關鍵事件:
+- 在 136 秒時，(Kaisa (BOTTOM)) 擊殺了 (Corki (BOTTOM))
+- 在 171 秒時，(Kaisa (BOTTOM)) 擊殺了 (Leona (UTILITY))
+- 在 261 秒時，(Kaisa (BOTTOM)) 助攻 (Pyke (UTILITY)) 擊殺了 (Leona (UTILITY))
+- 在 351 秒時，(Kaisa (BOTTOM)) 被 (Corki (BOTTOM)) 擊殺
+- 在 498 秒時，(Kaisa (BOTTOM)) 擊殺了 (Corki (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Pyke (UTILITY)
+終場表現: - 擊殺數: 4, 死亡數: 9, 助攻數: 7 - 獲得金錢: 7294 - 經驗值: 7934, 等级: 11 - 小兵擊殺數: 33, 野怪擊殺數: 0 關鍵事件:
+- 在 136 秒時，(Pyke (UTILITY)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Corki (BOTTOM))
+- 在 171 秒時，(Pyke (UTILITY)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Leona (UTILITY))
+- 在 261 秒時，(Pyke (UTILITY)) 擊殺了 (Leona (UTILITY))
+- 在 262 秒時，(Pyke (UTILITY)) 被 (Kindred (JUNGLE)) 擊殺
+- 在 530 秒時，(Pyke (UTILITY)) 被 (Leona (UTILITY)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 5, 死亡數: 2, 助攻數: 5 - 獲得金錢: 11716 - 經驗值: 14522, 等级: 15 - 小兵擊殺數: 176, 野怪擊殺數: 2 關鍵事件:
+- 在 206 秒時，(Skarner (TOP)) 被 (Smolder (TOP)) 擊殺
+- 在 329 秒時，(Skarner (TOP)) 擊殺了 (Smolder (TOP))
+- 在 472 秒時，(Skarner (TOP)) 助攻 (Graves (JUNGLE)) 擊殺了 (Smolder (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Graves (JUNGLE)
+終場表現: - 擊殺數: 4, 死亡數: 1, 助攻數: 5 - 獲得金錢: 11447 - 經驗值: 13618, 等级: 15 - 小兵擊殺數: 34, 野怪擊殺數: 171 關鍵事件:
+- 在 329 秒時，(Graves (JUNGLE)) 助攻 (Skarner (TOP)) 擊殺了 (Smolder (TOP))
+- 在 472 秒時，(Graves (JUNGLE)) 擊殺了 (Smolder (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Galio (MIDDLE)
+終場表現: - 擊殺數: 2, 死亡數: 2, 助攻數: 8 - 獲得金錢: 9446 - 經驗值: 12006, 等级: 14 - 小兵擊殺數: 152, 野怪擊殺數: 6 關鍵事件:
+- 在 287 秒時，(Galio (MIDDLE)) 助攻 (Samira (BOTTOM)) 擊殺了 (Nidalee (JUNGLE))
+- 在 434 秒時，(Galio (MIDDLE)) 擊殺了 (Vex (MIDDLE))
+- 在 444 秒時，(Galio (MIDDLE)) 被 (Jhin (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Samira (BOTTOM)
+終場表現: - 擊殺數: 11, 死亡數: 5, 助攻數: 4 - 獲得金錢: 14432 - 經驗值: 11245, 等级: 13 - 小兵擊殺數: 200, 野怪擊殺數: 4 關鍵事件:
+- 在 244 秒時，(Samira (BOTTOM)) 擊殺了 (Jhin (BOTTOM))
+- 在 253 秒時，(Samira (BOTTOM)) 被 (Lulu (UTILITY)) 擊殺
+- 在 287 秒時，(Samira (BOTTOM)) 擊殺了 (Nidalee (JUNGLE))
+- 在 400 秒時，(Samira (BOTTOM)) 助攻 (Thresh (UTILITY)) 擊殺了 (Lulu (UTILITY))
+- 在 411 秒時，(Samira (BOTTOM)) 被 (Jhin (BOTTOM)) 擊殺
+- 在 434 秒時，(Samira (BOTTOM)) 助攻 (Galio (MIDDLE)) 擊殺了 (Vex (MIDDLE))
+- 在 529 秒時，(Samira (BOTTOM)) 擊殺了 (Nidalee (JUNGLE))
+- 在 532 秒時，(Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 535 秒時，(Samira (BOTTOM)) 擊殺了 (Jhin (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Thresh (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 5, 助攻數: 11 - 獲得金錢: 7892 - 經驗值: 8769, 等级: 12 - 小兵擊殺數: 25, 野怪擊殺數: 0 關鍵事件:
+- 在 244 秒時，(Thresh (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Jhin (BOTTOM))
+- 在 248 秒時，(Thresh (UTILITY)) 被 (Nidalee (JUNGLE)) 擊殺
+- 在 287 秒時，(Thresh (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Nidalee (JUNGLE))
+- 在 400 秒時，(Thresh (UTILITY)) 擊殺了 (Lulu (UTILITY))
+- 在 434 秒時，(Thresh (UTILITY)) 助攻 (Galio (MIDDLE)) 擊殺了 (Vex (MIDDLE))
+- 在 436 秒時，(Thresh (UTILITY)) 被 (Jhin (BOTTOM)) 擊殺
+- 在 525 秒時，(Thresh (UTILITY)) 被 (Nidalee (JUNGLE)) 擊殺
+- 在 529 秒時，(Thresh (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Nidalee (JUNGLE))
+- 在 532 秒時，(Thresh (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 535 秒時，(Thresh (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Jhin (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Smolder (TOP)
+終場表現: - 擊殺數: 3, 死亡數: 4, 助攻數: 5 - 獲得金錢: 9798 - 經驗值: 12498, 等级: 14 - 小兵擊殺數: 191, 野怪擊殺數: 0 關鍵事件:
+- 在 206 秒時，(Smolder (TOP)) 擊殺了 (Skarner (TOP))
+- 在 329 秒時，(Smolder (TOP)) 被 (Skarner (TOP)) 擊殺
+- 在 472 秒時，(Smolder (TOP)) 被 (Graves (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Nidalee (JUNGLE)
+終場表現: - 擊殺數: 4, 死亡數: 4, 助攻數: 3 - 獲得金錢: 9008 - 經驗值: 10052, 等级: 13 - 小兵擊殺數: 33, 野怪擊殺數: 111 關鍵事件:
+- 在 248 秒時，(Nidalee (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+- 在 253 秒時，(Nidalee (JUNGLE)) 助攻 (Lulu (UTILITY)) 擊殺了 (Samira (BOTTOM))
+- 在 287 秒時，(Nidalee (JUNGLE)) 被 (Samira (BOTTOM)) 擊殺
+- 在 409 秒時，(Nidalee (JUNGLE)) 擊殺了 小龍
+- 在 444 秒時，(Nidalee (JUNGLE)) 助攻 (Jhin (BOTTOM)) 擊殺了 (Galio (MIDDLE))
+- 在 525 秒時，(Nidalee (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+- 在 529 秒時，(Nidalee (JUNGLE)) 被 (Samira (BOTTOM)) 擊殺
+- 在 532 秒時，(Nidalee (JUNGLE)) 助攻 (Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 535 秒時，(Nidalee (JUNGLE)) 助攻 (Samira (BOTTOM)) 擊殺了 (Jhin (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Vex (MIDDLE)
+終場表現: - 擊殺數: 1, 死亡數: 5, 助攻數: 6 - 獲得金錢: 7988 - 經驗值: 10783, 等级: 13 - 小兵擊殺數: 178, 野怪擊殺數: 0 關鍵事件:
+- 在 411 秒時，(Vex (MIDDLE)) 助攻 (Jhin (BOTTOM)) 擊殺了 (Samira (BOTTOM))
+- 在 434 秒時，(Vex (MIDDLE)) 被 (Galio (MIDDLE)) 擊殺
+- 在 444 秒時，(Vex (MIDDLE)) 助攻 (Jhin (BOTTOM)) 擊殺了 (Galio (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jhin (BOTTOM)
+終場表現: - 擊殺數: 5, 死亡數: 6, 助攻數: 5 - 獲得金錢: 9260 - 經驗值: 8675, 等级: 12 - 小兵擊殺數: 161, 野怪擊殺數: 0 關鍵事件:
+- 在 244 秒時，(Jhin (BOTTOM)) 被 (Samira (BOTTOM)) 擊殺
+- 在 248 秒時，(Jhin (BOTTOM)) 助攻 (Nidalee (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+- 在 253 秒時，(Jhin (BOTTOM)) 助攻 (Lulu (UTILITY)) 擊殺了 (Samira (BOTTOM))
+- 在 411 秒時，(Jhin (BOTTOM)) 擊殺了 (Samira (BOTTOM))
+- 在 436 秒時，(Jhin (BOTTOM)) 擊殺了 (Thresh (UTILITY))
+- 在 444 秒時，(Jhin (BOTTOM)) 擊殺了 (Galio (MIDDLE))
+- 在 525 秒時，(Jhin (BOTTOM)) 助攻 (Nidalee (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+- 在 535 秒時，(Jhin (BOTTOM)) 被 (Samira (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lulu (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 4, 助攻數: 10 - 獲得金錢: 6462 - 經驗值: 8009, 等级: 11 - 小兵擊殺數: 17, 野怪擊殺數: 0 關鍵事件:
+- 在 248 秒時，(Lulu (UTILITY)) 助攻 (Nidalee (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+- 在 253 秒時，(Lulu (UTILITY)) 擊殺了 (Samira (BOTTOM))
+- 在 400 秒時，(Lulu (UTILITY)) 被 (Thresh (UTILITY)) 擊殺
+- 在 411 秒時，(Lulu (UTILITY)) 助攻 (Jhin (BOTTOM)) 擊殺了 (Samira (BOTTOM))
+- 在 525 秒時，(Lulu (UTILITY)) 助攻 (Nidalee (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+- 在 532 秒時，(Lulu (UTILITY)) 被 (Samira (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Gnar (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 0, 助攻數: 1 - 獲得金錢: 9780 - 經驗值: 10137, 等级: 13 - 小兵擊殺數: 170, 野怪擊殺數: 7 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Graves (JUNGLE)
+終場表現: - 擊殺數: 7, 死亡數: 1, 助攻數: 2 - 獲得金錢: 9199 - 經驗值: 8083, 等级: 11 - 小兵擊殺數: 17, 野怪擊殺數: 116 關鍵事件:
+- 在 208 秒時，(Graves (JUNGLE)) 擊殺了 (Viego (JUNGLE))
+- 在 304 秒時，(Graves (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+- 在 459 秒時，(Graves (JUNGLE)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Thresh (UTILITY))
+- 在 530 秒時，(Graves (JUNGLE)) 擊殺了 小龍
+",Win
+"比賽模式: CLASSIC
+使用英雄: Galio (MIDDLE)
+終場表現: - 擊殺數: 0, 死亡數: 3, 助攻數: 2 - 獲得金錢: 6981 - 經驗值: 9166, 等级: 12 - 小兵擊殺數: 141, 野怪擊殺數: 0 關鍵事件:
+- 在 97 秒時，(Galio (MIDDLE)) 被 (Fiora (TOP)) 擊殺
+- 在 208 秒時，(Galio (MIDDLE)) 助攻 (Graves (JUNGLE)) 擊殺了 (Viego (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kaisa (BOTTOM)
+終場表現: - 擊殺數: 5, 死亡數: 1, 助攻數: 3 - 獲得金錢: 8897 - 經驗值: 7691, 等级: 11 - 小兵擊殺數: 185, 野怪擊殺數: 0 關鍵事件:
+- 在 304 秒時，(Kaisa (BOTTOM)) 助攻 (Graves (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+- 在 459 秒時，(Kaisa (BOTTOM)) 擊殺了 (Thresh (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nami (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 1, 助攻數: 10 - 獲得金錢: 5831 - 經驗值: 7136, 等级: 10 - 小兵擊殺數: 25, 野怪擊殺數: 0 關鍵事件:
+- 在 304 秒時，(Nami (UTILITY)) 助攻 (Graves (JUNGLE)) 擊殺了 (Thresh (UTILITY))
+- 在 459 秒時，(Nami (UTILITY)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Thresh (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Fiora (TOP)
+終場表現: - 擊殺數: 3, 死亡數: 1, 助攻數: 0 - 獲得金錢: 6804 - 經驗值: 9604, 等级: 12 - 小兵擊殺數: 127, 野怪擊殺數: 0 關鍵事件:
+- 在 97 秒時，(Fiora (TOP)) 擊殺了 (Galio (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Viego (JUNGLE)
+終場表現: - 擊殺數: 0, 死亡數: 2, 助攻數: 1 - 獲得金錢: 5039 - 經驗值: 6366, 等级: 10 - 小兵擊殺數: 16, 野怪擊殺數: 85 關鍵事件:
+- 在 208 秒時，(Viego (JUNGLE)) 被 (Graves (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Veigar (MIDDLE)
+終場表現: - 擊殺數: 2, 死亡數: 1, 助攻數: 0 - 獲得金錢: 6221 - 經驗值: 8857, 等级: 12 - 小兵擊殺數: 127, 野怪擊殺數: 0 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jinx (BOTTOM)
+終場表現: - 擊殺數: 0, 死亡數: 4, 助攻數: 2 - 獲得金錢: 5114 - 經驗值: 5432, 等级: 9 - 小兵擊殺數: 115, 野怪擊殺數: 0 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Thresh (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 6, 助攻數: 1 - 獲得金錢: 4534 - 經驗值: 4877, 等级: 8 - 小兵擊殺數: 28, 野怪擊殺數: 0 關鍵事件:
+- 在 304 秒時，(Thresh (UTILITY)) 被 (Graves (JUNGLE)) 擊殺
+- 在 459 秒時，(Thresh (UTILITY)) 被 (Kaisa (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 7, 助攻數: 1 - 獲得金錢: 6774 - 經驗值: 9513, 等级: 12 - 小兵擊殺數: 140, 野怪擊殺數: 0 關鍵事件:
+- 在 68 秒時，(Skarner (TOP)) 被 (Taliyah (MIDDLE)) 擊殺
+- 在 222 秒時，(Skarner (TOP)) 助攻 (Syndra (MIDDLE)) 擊殺了 (Taliyah (MIDDLE))
+- 在 348 秒時，(Skarner (TOP)) 被 (Jinx (BOTTOM)) 擊殺
+- 在 426 秒時，(Skarner (TOP)) 擊殺了 (TwistedFate (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zyra (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 6, 助攻數: 4 - 獲得金錢: 7848 - 經驗值: 8038, 等级: 11 - 小兵擊殺數: 26, 野怪擊殺數: 95 關鍵事件:
+- 在 241 秒時，(Zyra (JUNGLE)) 助攻 (Lulu (UTILITY)) 擊殺了 (Nautilus (UTILITY))
+- 在 248 秒時，(Zyra (JUNGLE)) 擊殺了 (Jinx (BOTTOM))
+- 在 441 秒時，(Zyra (JUNGLE)) 被 (Taliyah (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Syndra (MIDDLE)
+終場表現: - 擊殺數: 3, 死亡數: 8, 助攻數: 2 - 獲得金錢: 7655 - 經驗值: 8997, 等级: 12 - 小兵擊殺數: 138, 野怪擊殺數: 4 關鍵事件:
+- 在 222 秒時，(Syndra (MIDDLE)) 擊殺了 (Taliyah (MIDDLE))
+- 在 337 秒時，(Syndra (MIDDLE)) 被 (Jinx (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Aphelios (BOTTOM)
+終場表現: - 擊殺數: 2, 死亡數: 7, 助攻數: 4 - 獲得金錢: 8543 - 經驗值: 8477, 等级: 11 - 小兵擊殺數: 176, 野怪擊殺數: 4 關鍵事件:
+- 在 238 秒時，(Aphelios (BOTTOM)) 被 (Nautilus (UTILITY)) 擊殺
+- 在 241 秒時，(Aphelios (BOTTOM)) 助攻 (Lulu (UTILITY)) 擊殺了 (Nautilus (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lulu (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 3, 助攻數: 5 - 獲得金錢: 6298 - 經驗值: 7139, 等级: 10 - 小兵擊殺數: 34, 野怪擊殺數: 0 關鍵事件:
+- 在 241 秒時，(Lulu (UTILITY)) 擊殺了 (Nautilus (UTILITY))
+- 在 248 秒時，(Lulu (UTILITY)) 助攻 (Zyra (JUNGLE)) 擊殺了 (Jinx (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: TwistedFate (TOP)
+終場表現: - 擊殺數: 5, 死亡數: 1, 助攻數: 6 - 獲得金錢: 12329 - 經驗值: 13944, 等级: 15 - 小兵擊殺數: 191, 野怪擊殺數: 8 關鍵事件:
+- 在 68 秒時，(TwistedFate (TOP)) 助攻 (Taliyah (MIDDLE)) 擊殺了 (Skarner (TOP))
+- 在 426 秒時，(TwistedFate (TOP)) 被 (Skarner (TOP)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Graves (JUNGLE)
+終場表現: - 擊殺數: 5, 死亡數: 0, 助攻數: 14 - 獲得金錢: 11754 - 經驗值: 12640, 等级: 14 - 小兵擊殺數: 25, 野怪擊殺數: 132 關鍵事件:
+- 在 68 秒時，(Graves (JUNGLE)) 助攻 (Taliyah (MIDDLE)) 擊殺了 (Skarner (TOP))
+- 在 441 秒時，(Graves (JUNGLE)) 助攻 (Taliyah (MIDDLE)) 擊殺了 (Zyra (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Taliyah (MIDDLE)
+終場表現: - 擊殺數: 9, 死亡數: 4, 助攻數: 9 - 獲得金錢: 11553 - 經驗值: 12114, 等级: 14 - 小兵擊殺數: 159, 野怪擊殺數: 8 關鍵事件:
+- 在 68 秒時，(Taliyah (MIDDLE)) 擊殺了 (Skarner (TOP))
+- 在 222 秒時，(Taliyah (MIDDLE)) 被 (Syndra (MIDDLE)) 擊殺
+- 在 337 秒時，(Taliyah (MIDDLE)) 助攻 (Jinx (BOTTOM)) 擊殺了 (Syndra (MIDDLE))
+- 在 348 秒時，(Taliyah (MIDDLE)) 助攻 (Jinx (BOTTOM)) 擊殺了 (Skarner (TOP))
+- 在 441 秒時，(Taliyah (MIDDLE)) 擊殺了 (Zyra (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Jinx (BOTTOM)
+終場表現: - 擊殺數: 11, 死亡數: 3, 助攻數: 10 - 獲得金錢: 12883 - 經驗值: 10954, 等级: 13 - 小兵擊殺數: 165, 野怪擊殺數: 16 關鍵事件:
+- 在 238 秒時，(Jinx (BOTTOM)) 助攻 (Nautilus (UTILITY)) 擊殺了 (Aphelios (BOTTOM))
+- 在 248 秒時，(Jinx (BOTTOM)) 被 (Zyra (JUNGLE)) 擊殺
+- 在 337 秒時，(Jinx (BOTTOM)) 擊殺了 (Syndra (MIDDLE))
+- 在 348 秒時，(Jinx (BOTTOM)) 擊殺了 (Skarner (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nautilus (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 3, 助攻數: 17 - 獲得金錢: 7198 - 經驗值: 8157, 等级: 11 - 小兵擊殺數: 27, 野怪擊殺數: 0 關鍵事件:
+- 在 238 秒時，(Nautilus (UTILITY)) 擊殺了 (Aphelios (BOTTOM))
+- 在 241 秒時，(Nautilus (UTILITY)) 被 (Lulu (UTILITY)) 擊殺
+- 在 337 秒時，(Nautilus (UTILITY)) 助攻 (Jinx (BOTTOM)) 擊殺了 (Syndra (MIDDLE))
+- 在 348 秒時，(Nautilus (UTILITY)) 助攻 (Jinx (BOTTOM)) 擊殺了 (Skarner (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Jax (TOP)
+終場表現: - 擊殺數: 7, 死亡數: 0, 助攻數: 9 - 獲得金錢: 15874 - 經驗值: 20435, 等级: 18 - 小兵擊殺數: 242, 野怪擊殺數: 16 關鍵事件:
+- 在 106 秒時，(Jax (TOP)) 助攻 (Graves (JUNGLE)) 擊殺了 (Gragas (TOP))
+- 在 377 秒時，(Jax (TOP)) 擊殺了 (MasterYi (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Graves (JUNGLE)
+終場表現: - 擊殺數: 8, 死亡數: 4, 助攻數: 5 - 獲得金錢: 14376 - 經驗值: 17524, 等级: 17 - 小兵擊殺數: 49, 野怪擊殺數: 178 關鍵事件:
+- 在 106 秒時，(Graves (JUNGLE)) 擊殺了 (Gragas (TOP))
+- 在 319 秒時，(Graves (JUNGLE)) 助攻 (Fizz (MIDDLE)) 擊殺了 (Neeko (MIDDLE))
+- 在 511 秒時，(Graves (JUNGLE)) 擊殺了 (MasterYi (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Fizz (MIDDLE)
+終場表現: - 擊殺數: 20, 死亡數: 5, 助攻數: 9 - 獲得金錢: 20296 - 經驗值: 23651, 等级: 18 - 小兵擊殺數: 261, 野怪擊殺數: 6 關鍵事件:
+- 在 106 秒時，(Fizz (MIDDLE)) 助攻 (Graves (JUNGLE)) 擊殺了 (Gragas (TOP))
+- 在 174 秒時，(Fizz (MIDDLE)) 被 (Neeko (MIDDLE)) 擊殺
+- 在 224 秒時，(Fizz (MIDDLE)) 擊殺了 (Neeko (MIDDLE))
+- 在 319 秒時，(Fizz (MIDDLE)) 擊殺了 (Neeko (MIDDLE))
+- 在 509 秒時，(Fizz (MIDDLE)) 擊殺了 (Neeko (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Draven (BOTTOM)
+終場表現: - 擊殺數: 5, 死亡數: 10, 助攻數: 10 - 獲得金錢: 14383 - 經驗值: 15167, 等级: 16 - 小兵擊殺數: 210, 野怪擊殺數: 10 關鍵事件:
+- 在 193 秒時，(Draven (BOTTOM)) 助攻 (Thresh (UTILITY)) 擊殺了 (Morgana (UTILITY))
+- 在 199 秒時，(Draven (BOTTOM)) 被 (Jinx (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Thresh (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 19 - 獲得金錢: 9858 - 經驗值: 14332, 等级: 15 - 小兵擊殺數: 34, 野怪擊殺數: 0 關鍵事件:
+- 在 193 秒時，(Thresh (UTILITY)) 擊殺了 (Morgana (UTILITY))
+- 在 228 秒時，(Thresh (UTILITY)) 擊殺了 (Jinx (BOTTOM))
+- 在 509 秒時，(Thresh (UTILITY)) 助攻 (Fizz (MIDDLE)) 擊殺了 (Neeko (MIDDLE))
+- 在 533 秒時，(Thresh (UTILITY)) 被 (Morgana (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Gragas (TOP)
+終場表現: - 擊殺數: 3, 死亡數: 9, 助攻數: 2 - 獲得金錢: 10817 - 經驗值: 14282, 等级: 15 - 小兵擊殺數: 204, 野怪擊殺數: 7 關鍵事件:
+- 在 106 秒時，(Gragas (TOP)) 被 (Graves (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: MasterYi (JUNGLE)
+終場表現: - 擊殺數: 7, 死亡數: 11, 助攻數: 5 - 獲得金錢: 12222 - 經驗值: 14130, 等级: 15 - 小兵擊殺數: 31, 野怪擊殺數: 137 關鍵事件:
+- 在 377 秒時，(MasterYi (JUNGLE)) 被 (Jax (TOP)) 擊殺
+- 在 511 秒時，(MasterYi (JUNGLE)) 被 (Graves (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Neeko (MIDDLE)
+終場表現: - 擊殺數: 5, 死亡數: 10, 助攻數: 4 - 獲得金錢: 14037 - 經驗值: 18175, 等级: 17 - 小兵擊殺數: 238, 野怪擊殺數: 1 關鍵事件:
+- 在 174 秒時，(Neeko (MIDDLE)) 擊殺了 (Fizz (MIDDLE))
+- 在 224 秒時，(Neeko (MIDDLE)) 被 (Fizz (MIDDLE)) 擊殺
+- 在 319 秒時，(Neeko (MIDDLE)) 被 (Fizz (MIDDLE)) 擊殺
+- 在 509 秒時，(Neeko (MIDDLE)) 被 (Fizz (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jinx (BOTTOM)
+終場表現: - 擊殺數: 4, 死亡數: 7, 助攻數: 11 - 獲得金錢: 13664 - 經驗值: 15378, 等级: 16 - 小兵擊殺數: 267, 野怪擊殺數: 28 關鍵事件:
+- 在 199 秒時，(Jinx (BOTTOM)) 擊殺了 (Draven (BOTTOM))
+- 在 228 秒時，(Jinx (BOTTOM)) 被 (Thresh (UTILITY)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Morgana (UTILITY)
+終場表現: - 擊殺數: 6, 死亡數: 5, 助攻數: 10 - 獲得金錢: 10198 - 經驗值: 12389, 等级: 14 - 小兵擊殺數: 55, 野怪擊殺數: 0 關鍵事件:
+- 在 193 秒時，(Morgana (UTILITY)) 被 (Thresh (UTILITY)) 擊殺
+- 在 199 秒時，(Morgana (UTILITY)) 助攻 (Jinx (BOTTOM)) 擊殺了 (Draven (BOTTOM))
+- 在 533 秒時，(Morgana (UTILITY)) 擊殺了 (Thresh (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Shaco (JUNGLE)
+終場表現: - 擊殺數: 11, 死亡數: 3, 助攻數: 7 - 獲得金錢: 14726 - 經驗值: 17948, 等级: 17 - 小兵擊殺數: 62, 野怪擊殺數: 154 關鍵事件:
+- 在 171 秒時，(Shaco (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 260 秒時，(Shaco (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+- 在 472 秒時，(Shaco (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 477 秒時，(Shaco (JUNGLE)) 擊殺了 (Tryndamere (TOP))
+- 在 481 秒時，(Shaco (JUNGLE)) 被 (Sejuani (JUNGLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Thresh (UTILITY)
+終場表現: - 擊殺數: 3, 死亡數: 4, 助攻數: 20 - 獲得金錢: 10308 - 經驗值: 13721, 等级: 15 - 小兵擊殺數: 29, 野怪擊殺數: 0 關鍵事件:
+- 在 260 秒時，(Thresh (UTILITY)) 助攻 (Shaco (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Diana (MIDDLE)
+終場表現: - 擊殺數: 8, 死亡數: 9, 助攻數: 10 - 獲得金錢: 15959 - 經驗值: 16150, 等级: 16 - 小兵擊殺數: 202, 野怪擊殺數: 8 關鍵事件:
+- 在 171 秒時，(Diana (MIDDLE)) 助攻 (Shaco (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 472 秒時，(Diana (MIDDLE)) 助攻 (Shaco (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 476 秒時，(Diana (MIDDLE)) 被 (Sejuani (JUNGLE)) 擊殺
+- 在 477 秒時，(Diana (MIDDLE)) 助攻 (Shaco (JUNGLE)) 擊殺了 (Tryndamere (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Draven (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 3, 助攻數: 11 - 獲得金錢: 15434 - 經驗值: 15393, 等级: 16 - 小兵擊殺數: 221, 野怪擊殺數: 28 關鍵事件:
+- 在 260 秒時，(Draven (BOTTOM)) 助攻 (Shaco (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Sett (TOP)
+終場表現: - 擊殺數: 3, 死亡數: 7, 助攻數: 14 - 獲得金錢: 12068 - 經驗值: 17859, 等级: 17 - 小兵擊殺數: 186, 野怪擊殺數: 4 關鍵事件:
+- 在 266 秒時，(Sett (TOP)) 被 (Tryndamere (TOP)) 擊殺
+- 在 472 秒時，(Sett (TOP)) 助攻 (Shaco (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 473 秒時，(Sett (TOP)) 被 (Tryndamere (TOP)) 擊殺
+- 在 477 秒時，(Sett (TOP)) 助攻 (Shaco (JUNGLE)) 擊殺了 (Tryndamere (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Tryndamere (TOP)
+終場表現: - 擊殺數: 7, 死亡數: 7, 助攻數: 7 - 獲得金錢: 12365 - 經驗值: 16224, 等级: 16 - 小兵擊殺數: 201, 野怪擊殺數: 10 關鍵事件:
+- 在 266 秒時，(Tryndamere (TOP)) 擊殺了 (Sett (TOP))
+- 在 473 秒時，(Tryndamere (TOP)) 擊殺了 (Sett (TOP))
+- 在 476 秒時，(Tryndamere (TOP)) 助攻 (Sejuani (JUNGLE)) 擊殺了 (Diana (MIDDLE))
+- 在 477 秒時，(Tryndamere (TOP)) 被 (Shaco (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Sejuani (JUNGLE)
+終場表現: - 擊殺數: 9, 死亡數: 5, 助攻數: 11 - 獲得金錢: 13638 - 經驗值: 14574, 等级: 15 - 小兵擊殺數: 26, 野怪擊殺數: 145 關鍵事件:
+- 在 473 秒時，(Sejuani (JUNGLE)) 助攻 (Tryndamere (TOP)) 擊殺了 (Sett (TOP))
+- 在 476 秒時，(Sejuani (JUNGLE)) 擊殺了 (Diana (MIDDLE))
+- 在 481 秒時，(Sejuani (JUNGLE)) 擊殺了 (Shaco (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ahri (MIDDLE)
+終場表現: - 擊殺數: 4, 死亡數: 9, 助攻數: 11 - 獲得金錢: 13270 - 經驗值: 17361, 等级: 17 - 小兵擊殺數: 249, 野怪擊殺數: 1 關鍵事件:
+- 在 171 秒時，(Ahri (MIDDLE)) 被 (Shaco (JUNGLE)) 擊殺
+- 在 472 秒時，(Ahri (MIDDLE)) 被 (Shaco (JUNGLE)) 擊殺
+- 在 473 秒時，(Ahri (MIDDLE)) 助攻 (Tryndamere (TOP)) 擊殺了 (Sett (TOP))
+- 在 476 秒時，(Ahri (MIDDLE)) 助攻 (Sejuani (JUNGLE)) 擊殺了 (Diana (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zeri (BOTTOM)
+終場表現: - 擊殺數: 6, 死亡數: 8, 助攻數: 9 - 獲得金錢: 14521 - 經驗值: 13616, 等级: 15 - 小兵擊殺數: 254, 野怪擊殺數: 12 關鍵事件:
+- 在 260 秒時，(Zeri (BOTTOM)) 被 (Shaco (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yuumi (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 3, 助攻數: 13 - 獲得金錢: 6970 - 經驗值: 12395, 等级: 14 - 小兵擊殺數: 8, 野怪擊殺數: 0 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Vayne (TOP)
+終場表現: - 擊殺數: 6, 死亡數: 10, 助攻數: 6 - 獲得金錢: 15043 - 經驗值: 20744, 等级: 18 - 小兵擊殺數: 217, 野怪擊殺數: 14 關鍵事件:
+- 在 198 秒時，(Vayne (TOP)) 被 (Ornn (TOP)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: MonkeyKing (JUNGLE)
+終場表現: - 擊殺數: 18, 死亡數: 8, 助攻數: 15 - 獲得金錢: 20851 - 經驗值: 23946, 等级: 18 - 小兵擊殺數: 59, 野怪擊殺數: 181 關鍵事件:
+- 在 505 秒時，(MonkeyKing (JUNGLE)) 助攻 (Varus (BOTTOM)) 擊殺了 (LeeSin (JUNGLE))
+- 在 510 秒時，(MonkeyKing (JUNGLE)) 擊殺了 (Lux (UTILITY))
+- 在 529 秒時，(MonkeyKing (JUNGLE)) 擊殺了 (Caitlyn (BOTTOM))
+- 在 538 秒時，(MonkeyKing (JUNGLE)) 助攻 (Varus (BOTTOM)) 擊殺了 (TwistedFate (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Orianna (MIDDLE)
+終場表現: - 擊殺數: 12, 死亡數: 5, 助攻數: 25 - 獲得金錢: 19643 - 經驗值: 25625, 等级: 18 - 小兵擊殺數: 281, 野怪擊殺數: 7 關鍵事件:
+- 在 338 秒時，(Orianna (MIDDLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 505 秒時，(Orianna (MIDDLE)) 助攻 (Varus (BOTTOM)) 擊殺了 (LeeSin (JUNGLE))
+- 在 510 秒時，(Orianna (MIDDLE)) 助攻 (MonkeyKing (JUNGLE)) 擊殺了 (Lux (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Varus (BOTTOM)
+終場表現: - 擊殺數: 20, 死亡數: 8, 助攻數: 19 - 獲得金錢: 23142 - 經驗值: 24102, 等级: 18 - 小兵擊殺數: 254, 野怪擊殺數: 18 關鍵事件:
+- 在 237 秒時，(Varus (BOTTOM)) 被 (Caitlyn (BOTTOM)) 擊殺
+- 在 505 秒時，(Varus (BOTTOM)) 擊殺了 (LeeSin (JUNGLE))
+- 在 510 秒時，(Varus (BOTTOM)) 助攻 (MonkeyKing (JUNGLE)) 擊殺了 (Lux (UTILITY))
+- 在 538 秒時，(Varus (BOTTOM)) 擊殺了 (TwistedFate (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ashe (UTILITY)
+終場表現: - 擊殺數: 3, 死亡數: 13, 助攻數: 25 - 獲得金錢: 12200 - 經驗值: 14264, 等级: 15 - 小兵擊殺數: 46, 野怪擊殺數: 1 關鍵事件:
+- 在 505 秒時，(Ashe (UTILITY)) 助攻 (Varus (BOTTOM)) 擊殺了 (LeeSin (JUNGLE))
+- 在 529 秒時，(Ashe (UTILITY)) 助攻 (MonkeyKing (JUNGLE)) 擊殺了 (Caitlyn (BOTTOM))
+- 在 533 秒時，(Ashe (UTILITY)) 被 (TwistedFate (MIDDLE)) 擊殺
+- 在 538 秒時，(Ashe (UTILITY)) 助攻 (Varus (BOTTOM)) 擊殺了 (TwistedFate (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ornn (TOP)
+終場表現: - 擊殺數: 7, 死亡數: 7, 助攻數: 11 - 獲得金錢: 13561 - 經驗值: 18941, 等级: 18 - 小兵擊殺數: 155, 野怪擊殺數: 0 關鍵事件:
+- 在 198 秒時，(Ornn (TOP)) 擊殺了 (Vayne (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: LeeSin (JUNGLE)
+終場表現: - 擊殺數: 11, 死亡數: 13, 助攻數: 6 - 獲得金錢: 16577 - 經驗值: 18613, 等级: 18 - 小兵擊殺數: 59, 野怪擊殺數: 177 關鍵事件:
+- 在 198 秒時，(LeeSin (JUNGLE)) 助攻 (Ornn (TOP)) 擊殺了 (Vayne (TOP))
+- 在 338 秒時，(LeeSin (JUNGLE)) 擊殺了 (Orianna (MIDDLE))
+- 在 505 秒時，(LeeSin (JUNGLE)) 被 (Varus (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: TwistedFate (MIDDLE)
+終場表現: - 擊殺數: 9, 死亡數: 11, 助攻數: 13 - 獲得金錢: 19689 - 經驗值: 21195, 等级: 18 - 小兵擊殺數: 267, 野怪擊殺數: 4 關鍵事件:
+- 在 338 秒時，(TwistedFate (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Orianna (MIDDLE))
+- 在 533 秒時，(TwistedFate (MIDDLE)) 擊殺了 (Ashe (UTILITY))
+- 在 538 秒時，(TwistedFate (MIDDLE)) 被 (Varus (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Caitlyn (BOTTOM)
+終場表現: - 擊殺數: 14, 死亡數: 16, 助攻數: 7 - 獲得金錢: 22700 - 經驗值: 22399, 等级: 18 - 小兵擊殺數: 289, 野怪擊殺數: 47 關鍵事件:
+- 在 237 秒時，(Caitlyn (BOTTOM)) 擊殺了 (Varus (BOTTOM))
+- 在 429 秒時，(Caitlyn (BOTTOM)) 擊殺了 小龍
+- 在 529 秒時，(Caitlyn (BOTTOM)) 被 (MonkeyKing (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lux (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 12, 助攻數: 22 - 獲得金錢: 12319 - 經驗值: 17064, 等级: 17 - 小兵擊殺數: 84, 野怪擊殺數: 0 關鍵事件:
+- 在 237 秒時，(Lux (UTILITY)) 助攻 (Caitlyn (BOTTOM)) 擊殺了 (Varus (BOTTOM))
+- 在 510 秒時，(Lux (UTILITY)) 被 (MonkeyKing (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Vayne (TOP)
+終場表現: - 擊殺數: 7, 死亡數: 6, 助攻數: 5 - 獲得金錢: 12157 - 經驗值: 14126, 等级: 15 - 小兵擊殺數: 173, 野怪擊殺數: 4 關鍵事件:
+- 在 403 秒時，(Vayne (TOP)) 擊殺了 (KSante (TOP))
+- 在 428 秒時，(Vayne (TOP)) 被 (Lissandra (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: JarvanIV (JUNGLE)
+終場表現: - 擊殺數: 13, 死亡數: 3, 助攻數: 9 - 獲得金錢: 13302 - 經驗值: 14392, 等级: 15 - 小兵擊殺數: 28, 野怪擊殺數: 128 關鍵事件:
+- 在 140 秒時，(JarvanIV (JUNGLE)) 助攻 (Vex (MIDDLE)) 擊殺了 (Skarner (JUNGLE))
+- 在 207 秒時，(JarvanIV (JUNGLE)) 擊殺了 (Skarner (JUNGLE))
+- 在 403 秒時，(JarvanIV (JUNGLE)) 助攻 (Vayne (TOP)) 擊殺了 (KSante (TOP))
+- 在 452 秒時，(JarvanIV (JUNGLE)) 擊殺了 (Skarner (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Vex (MIDDLE)
+終場表現: - 擊殺數: 5, 死亡數: 5, 助攻數: 7 - 獲得金錢: 9834 - 經驗值: 12290, 等级: 14 - 小兵擊殺數: 166, 野怪擊殺數: 0 關鍵事件:
+- 在 140 秒時，(Vex (MIDDLE)) 擊殺了 (Skarner (JUNGLE))
+- 在 403 秒時，(Vex (MIDDLE)) 助攻 (Vayne (TOP)) 擊殺了 (KSante (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kaisa (BOTTOM)
+終場表現: - 擊殺數: 10, 死亡數: 5, 助攻數: 9 - 獲得金錢: 11940 - 經驗值: 11847, 等级: 14 - 小兵擊殺數: 152, 野怪擊殺數: 27 關鍵事件:
+- 在 110 秒時，(Kaisa (BOTTOM)) 被 (Lucian (BOTTOM)) 擊殺
+- 在 235 秒時，(Kaisa (BOTTOM)) 助攻 (Shaco (UTILITY)) 擊殺了 (Lucian (BOTTOM))
+- 在 410 秒時，(Kaisa (BOTTOM)) 擊殺了 (Braum (UTILITY))
+- 在 417 秒時，(Kaisa (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Shaco (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 5, 助攻數: 18 - 獲得金錢: 8551 - 經驗值: 10304, 等级: 13 - 小兵擊殺數: 36, 野怪擊殺數: 4 關鍵事件:
+- 在 103 秒時，(Shaco (UTILITY)) 被 (Lucian (BOTTOM)) 擊殺
+- 在 235 秒時，(Shaco (UTILITY)) 擊殺了 (Lucian (BOTTOM))
+- 在 409 秒時，(Shaco (UTILITY)) 被 (Lucian (BOTTOM)) 擊殺
+- 在 410 秒時，(Shaco (UTILITY)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Braum (UTILITY))
+- 在 417 秒時，(Shaco (UTILITY)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+- 在 452 秒時，(Shaco (UTILITY)) 助攻 (JarvanIV (JUNGLE)) 擊殺了 (Skarner (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: KSante (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 7, 助攻數: 6 - 獲得金錢: 8046 - 經驗值: 11466, 等级: 14 - 小兵擊殺數: 122, 野怪擊殺數: 0 關鍵事件:
+- 在 403 秒時，(KSante (TOP)) 被 (Vayne (TOP)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Skarner (JUNGLE)
+終場表現: - 擊殺數: 5, 死亡數: 7, 助攻數: 7 - 獲得金錢: 9295 - 經驗值: 10897, 等级: 13 - 小兵擊殺數: 19, 野怪擊殺數: 104 關鍵事件:
+- 在 140 秒時，(Skarner (JUNGLE)) 被 (Vex (MIDDLE)) 擊殺
+- 在 207 秒時，(Skarner (JUNGLE)) 被 (JarvanIV (JUNGLE)) 擊殺
+- 在 428 秒時，(Skarner (JUNGLE)) 助攻 (Lissandra (MIDDLE)) 擊殺了 (Vayne (TOP))
+- 在 452 秒時，(Skarner (JUNGLE)) 被 (JarvanIV (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lissandra (MIDDLE)
+終場表現: - 擊殺數: 4, 死亡數: 7, 助攻數: 4 - 獲得金錢: 9300 - 經驗值: 11779, 等级: 14 - 小兵擊殺數: 169, 野怪擊殺數: 0 關鍵事件:
+- 在 428 秒時，(Lissandra (MIDDLE)) 擊殺了 (Vayne (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lucian (BOTTOM)
+終場表現: - 擊殺數: 13, 死亡數: 10, 助攻數: 3 - 獲得金錢: 12641 - 經驗值: 9985, 等级: 13 - 小兵擊殺數: 162, 野怪擊殺數: 0 關鍵事件:
+- 在 103 秒時，(Lucian (BOTTOM)) 擊殺了 (Shaco (UTILITY))
+- 在 110 秒時，(Lucian (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 235 秒時，(Lucian (BOTTOM)) 被 (Shaco (UTILITY)) 擊殺
+- 在 409 秒時，(Lucian (BOTTOM)) 擊殺了 (Shaco (UTILITY))
+- 在 417 秒時，(Lucian (BOTTOM)) 被 (Kaisa (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Braum (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 7, 助攻數: 13 - 獲得金錢: 6552 - 經驗值: 7986, 等级: 11 - 小兵擊殺數: 32, 野怪擊殺數: 0 關鍵事件:
+- 在 103 秒時，(Braum (UTILITY)) 助攻 (Lucian (BOTTOM)) 擊殺了 (Shaco (UTILITY))
+- 在 110 秒時，(Braum (UTILITY)) 助攻 (Lucian (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 409 秒時，(Braum (UTILITY)) 助攻 (Lucian (BOTTOM)) 擊殺了 (Shaco (UTILITY))
+- 在 410 秒時，(Braum (UTILITY)) 被 (Kaisa (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: TwistedFate (TOP)
+終場表現: - 擊殺數: 0, 死亡數: 6, 助攻數: 0 - 獲得金錢: 4379 - 經驗值: 5952, 等级: 9 - 小兵擊殺數: 94, 野怪擊殺數: 4 關鍵事件:
+- 在 248 秒時，(TwistedFate (TOP)) 被 (Rumble (TOP)) 擊殺
+- 在 400 秒時，(TwistedFate (TOP)) 被 (Khazix (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Hecarim (JUNGLE)
+終場表現: - 擊殺數: 0, 死亡數: 2, 助攻數: 3 - 獲得金錢: 4828 - 經驗值: 5469, 等级: 9 - 小兵擊殺數: 8, 野怪擊殺數: 92 關鍵事件:
+- 在 399 秒時，(Hecarim (JUNGLE)) 被 (Khazix (JUNGLE)) 擊殺
+- 在 495 秒時，(Hecarim (JUNGLE)) 助攻 (Varus (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 502 秒時，(Hecarim (JUNGLE)) 助攻 (Ezreal (UTILITY)) 擊殺了 (Khazix (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Brand (MIDDLE)
+終場表現: - 擊殺數: 3, 死亡數: 2, 助攻數: 0 - 獲得金錢: 6098 - 經驗值: 8587, 等级: 12 - 小兵擊殺數: 142, 野怪擊殺數: 0 關鍵事件:
+- 在 346 秒時，(Brand (MIDDLE)) 擊殺了 (Cassiopeia (MIDDLE))
+- 在 347 秒時，(Brand (MIDDLE)) 被 (Khazix (JUNGLE)) 擊殺
+- 在 460 秒時，(Brand (MIDDLE)) 擊殺了 (Cassiopeia (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Varus (BOTTOM)
+終場表現: - 擊殺數: 1, 死亡數: 3, 助攻數: 3 - 獲得金錢: 6040 - 經驗值: 5704, 等级: 9 - 小兵擊殺數: 132, 野怪擊殺數: 0 關鍵事件:
+- 在 478 秒時，(Varus (BOTTOM)) 助攻 (Ezreal (UTILITY)) 擊殺了 (Ashe (BOTTOM))
+- 在 495 秒時，(Varus (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 502 秒時，(Varus (BOTTOM)) 助攻 (Ezreal (UTILITY)) 擊殺了 (Khazix (JUNGLE))
+- 在 535 秒時，(Varus (BOTTOM)) 被 (Ashe (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ezreal (UTILITY)
+終場表現: - 擊殺數: 4, 死亡數: 3, 助攻數: 1 - 獲得金錢: 5037 - 經驗值: 5277, 等级: 9 - 小兵擊殺數: 26, 野怪擊殺數: 0 關鍵事件:
+- 在 478 秒時，(Ezreal (UTILITY)) 擊殺了 (Ashe (BOTTOM))
+- 在 495 秒時，(Ezreal (UTILITY)) 助攻 (Varus (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 502 秒時，(Ezreal (UTILITY)) 擊殺了 (Khazix (JUNGLE))
+- 在 531 秒時，(Ezreal (UTILITY)) 被 (Ashe (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Cassiopeia (MIDDLE)
+終場表現: - 擊殺數: 0, 死亡數: 4, 助攻數: 4 - 獲得金錢: 5074 - 經驗值: 7016, 等级: 10 - 小兵擊殺數: 120, 野怪擊殺數: 0 關鍵事件:
+- 在 346 秒時，(Cassiopeia (MIDDLE)) 被 (Brand (MIDDLE)) 擊殺
+- 在 347 秒時，(Cassiopeia (MIDDLE)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Brand (MIDDLE))
+- 在 399 秒時，(Cassiopeia (MIDDLE)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Hecarim (JUNGLE))
+- 在 400 秒時，(Cassiopeia (MIDDLE)) 助攻 (Khazix (JUNGLE)) 擊殺了 (TwistedFate (TOP))
+- 在 460 秒時，(Cassiopeia (MIDDLE)) 被 (Brand (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Khazix (JUNGLE)
+終場表現: - 擊殺數: 9, 死亡數: 1, 助攻數: 2 - 獲得金錢: 7721 - 經驗值: 6650, 等级: 10 - 小兵擊殺數: 9, 野怪擊殺數: 86 關鍵事件:
+- 在 347 秒時，(Khazix (JUNGLE)) 擊殺了 (Brand (MIDDLE))
+- 在 399 秒時，(Khazix (JUNGLE)) 擊殺了 (Hecarim (JUNGLE))
+- 在 400 秒時，(Khazix (JUNGLE)) 擊殺了 (TwistedFate (TOP))
+- 在 502 秒時，(Khazix (JUNGLE)) 被 (Ezreal (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Rumble (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 0, 助攻數: 5 - 獲得金錢: 6853 - 經驗值: 9096, 等级: 12 - 小兵擊殺數: 121, 野怪擊殺數: 2 關鍵事件:
+- 在 248 秒時，(Rumble (TOP)) 擊殺了 (TwistedFate (TOP))
+- 在 399 秒時，(Rumble (TOP)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Hecarim (JUNGLE))
+- 在 400 秒時，(Rumble (TOP)) 助攻 (Khazix (JUNGLE)) 擊殺了 (TwistedFate (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ashe (BOTTOM)
+終場表現: - 擊殺數: 4, 死亡數: 2, 助攻數: 0 - 獲得金錢: 5821 - 經驗值: 5786, 等级: 9 - 小兵擊殺數: 110, 野怪擊殺數: 0 關鍵事件:
+- 在 478 秒時，(Ashe (BOTTOM)) 被 (Ezreal (UTILITY)) 擊殺
+- 在 531 秒時，(Ashe (BOTTOM)) 擊殺了 (Ezreal (UTILITY))
+- 在 535 秒時，(Ashe (BOTTOM)) 擊殺了 (Varus (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Lulu (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 1, 助攻數: 4 - 獲得金錢: 3995 - 經驗值: 4675, 等级: 8 - 小兵擊殺數: 19, 野怪擊殺數: 0 關鍵事件:
+- 在 495 秒時，(Lulu (UTILITY)) 被 (Varus (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Shaco (UTILITY)
+終場表現: - 擊殺數: 5, 死亡數: 4, 助攻數: 7 - 獲得金錢: 7690 - 經驗值: 7885, 等级: 11 - 小兵擊殺數: 30, 野怪擊殺數: 0 關鍵事件:
+- 在 203 秒時，(Shaco (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (RekSai (JUNGLE))
+- 在 210 秒時，(Shaco (UTILITY)) 擊殺了 (Draven (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Udyr (JUNGLE)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 9 - 獲得金錢: 7095 - 經驗值: 7886, 等级: 11 - 小兵擊殺數: 16, 野怪擊殺數: 82 關鍵事件:
+- 在 497 秒時，(Udyr (JUNGLE)) 擊殺了 小龍
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zed (MIDDLE)
+終場表現: - 擊殺數: 4, 死亡數: 8, 助攻數: 6 - 獲得金錢: 8509 - 經驗值: 10078, 等级: 13 - 小兵擊殺數: 150, 野怪擊殺數: 0 關鍵事件:
+- 在 220 秒時，(Zed (MIDDLE)) 擊殺了 (Soraka (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Corki (BOTTOM)
+終場表現: - 擊殺數: 8, 死亡數: 7, 助攻數: 9 - 獲得金錢: 10521 - 經驗值: 9118, 等级: 12 - 小兵擊殺數: 137, 野怪擊殺數: 4 關鍵事件:
+- 在 203 秒時，(Corki (BOTTOM)) 擊殺了 (RekSai (JUNGLE))
+- 在 206 秒時，(Corki (BOTTOM)) 被 (Draven (BOTTOM)) 擊殺
+- 在 210 秒時，(Corki (BOTTOM)) 助攻 (Shaco (UTILITY)) 擊殺了 (Draven (BOTTOM))
+- 在 220 秒時，(Corki (BOTTOM)) 助攻 (Zed (MIDDLE)) 擊殺了 (Soraka (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Vayne (TOP)
+終場表現: - 擊殺數: 0, 死亡數: 6, 助攻數: 2 - 獲得金錢: 5800 - 經驗值: 8998, 等级: 12 - 小兵擊殺數: 123, 野怪擊殺數: 0 關鍵事件:
+- 在 531 秒時，(Vayne (TOP)) 被 (DrMundo (TOP)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Kassadin (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 3, 助攻數: 13 - 獲得金錢: 12982 - 經驗值: 14242, 等级: 15 - 小兵擊殺數: 177, 野怪擊殺數: 0 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Soraka (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 5, 助攻數: 20 - 獲得金錢: 6626 - 經驗值: 7586, 等级: 11 - 小兵擊殺數: 17, 野怪擊殺數: 0 關鍵事件:
+- 在 220 秒時，(Soraka (UTILITY)) 被 (Zed (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: DrMundo (TOP)
+終場表現: - 擊殺數: 5, 死亡數: 2, 助攻數: 6 - 獲得金錢: 10978 - 經驗值: 13576, 等级: 15 - 小兵擊殺數: 186, 野怪擊殺數: 4 關鍵事件:
+- 在 531 秒時，(DrMundo (TOP)) 擊殺了 (Vayne (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: RekSai (JUNGLE)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 9 - 獲得金錢: 8675 - 經驗值: 9224, 等级: 12 - 小兵擊殺數: 13, 野怪擊殺數: 88 關鍵事件:
+- 在 203 秒時，(RekSai (JUNGLE)) 被 (Corki (BOTTOM)) 擊殺
+- 在 206 秒時，(RekSai (JUNGLE)) 助攻 (Draven (BOTTOM)) 擊殺了 (Corki (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Draven (BOTTOM)
+終場表現: - 擊殺數: 17, 死亡數: 3, 助攻數: 3 - 獲得金錢: 14071 - 經驗值: 11130, 等级: 13 - 小兵擊殺數: 141, 野怪擊殺數: 18 關鍵事件:
+- 在 206 秒時，(Draven (BOTTOM)) 擊殺了 (Corki (BOTTOM))
+- 在 210 秒時，(Draven (BOTTOM)) 被 (Shaco (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 11, 助攻數: 18 - 獲得金錢: 10123 - 經驗值: 15873, 等级: 16 - 小兵擊殺數: 126, 野怪擊殺數: 4 關鍵事件:
+- 在 212 秒時，(Skarner (TOP)) 被 (Rengar (JUNGLE)) 擊殺
+- 在 504 秒時，(Skarner (TOP)) 擊殺了 (Zed (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Corki (BOTTOM)
+終場表現: - 擊殺數: 24, 死亡數: 7, 助攻數: 4 - 獲得金錢: 21444 - 經驗值: 17414, 等级: 17 - 小兵擊殺數: 228, 野怪擊殺數: 4 關鍵事件:
+- 在 145 秒時，(Corki (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+- 在 249 秒時，(Corki (BOTTOM)) 助攻 (Diana (JUNGLE)) 擊殺了 (Lucian (BOTTOM))
+- 在 266 秒時，(Corki (BOTTOM)) 擊殺了 (Yuumi (UTILITY))
+- 在 440 秒時，(Corki (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+- 在 443 秒時，(Corki (BOTTOM)) 被 (Yuumi (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Tryndamere (MIDDLE)
+終場表現: - 擊殺數: 9, 死亡數: 3, 助攻數: 2 - 獲得金錢: 16834 - 經驗值: 20017, 等级: 18 - 小兵擊殺數: 255, 野怪擊殺數: 34 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Diana (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 6, 助攻數: 11 - 獲得金錢: 12243 - 經驗值: 17328, 等级: 17 - 小兵擊殺數: 27, 野怪擊殺數: 188 關鍵事件:
+- 在 249 秒時，(Diana (JUNGLE)) 擊殺了 (Lucian (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nautilus (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 9, 助攻數: 27 - 獲得金錢: 9521 - 經驗值: 13419, 等级: 15 - 小兵擊殺數: 28, 野怪擊殺數: 0 關鍵事件:
+- 在 145 秒時，(Nautilus (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+- 在 249 秒時，(Nautilus (UTILITY)) 助攻 (Diana (JUNGLE)) 擊殺了 (Lucian (BOTTOM))
+- 在 266 秒時，(Nautilus (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (Yuumi (UTILITY))
+- 在 271 秒時，(Nautilus (UTILITY)) 被 (Yuumi (UTILITY)) 擊殺
+- 在 440 秒時，(Nautilus (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (Lucian (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Zed (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 10, 助攻數: 15 - 獲得金錢: 11147 - 經驗值: 14416, 等级: 15 - 小兵擊殺數: 183, 野怪擊殺數: 0 關鍵事件:
+- 在 212 秒時，(Zed (TOP)) 助攻 (Rengar (JUNGLE)) 擊殺了 (Skarner (TOP))
+- 在 504 秒時，(Zed (TOP)) 被 (Skarner (TOP)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Rengar (JUNGLE)
+終場表現: - 擊殺數: 9, 死亡數: 10, 助攻數: 12 - 獲得金錢: 14077 - 經驗值: 15976, 等级: 16 - 小兵擊殺數: 89, 野怪擊殺數: 125 關鍵事件:
+- 在 212 秒時，(Rengar (JUNGLE)) 擊殺了 (Skarner (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lux (MIDDLE)
+終場表現: - 擊殺數: 16, 死亡數: 5, 助攻數: 11 - 獲得金錢: 17211 - 經驗值: 19167, 等级: 18 - 小兵擊殺數: 263, 野怪擊殺數: 0 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lucian (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 8, 助攻數: 8 - 獲得金錢: 13343 - 經驗值: 13104, 等级: 15 - 小兵擊殺數: 216, 野怪擊殺數: 4 關鍵事件:
+- 在 145 秒時，(Lucian (BOTTOM)) 被 (Corki (BOTTOM)) 擊殺
+- 在 249 秒時，(Lucian (BOTTOM)) 被 (Diana (JUNGLE)) 擊殺
+- 在 440 秒時，(Lucian (BOTTOM)) 被 (Corki (BOTTOM)) 擊殺
+- 在 443 秒時，(Lucian (BOTTOM)) 助攻 (Yuumi (UTILITY)) 擊殺了 (Corki (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yuumi (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 5, 助攻數: 18 - 獲得金錢: 7879 - 經驗值: 12664, 等级: 14 - 小兵擊殺數: 19, 野怪擊殺數: 0 關鍵事件:
+- 在 266 秒時，(Yuumi (UTILITY)) 被 (Corki (BOTTOM)) 擊殺
+- 在 271 秒時，(Yuumi (UTILITY)) 擊殺了 (Nautilus (UTILITY))
+- 在 443 秒時，(Yuumi (UTILITY)) 擊殺了 (Corki (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yuumi (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 7, 助攻數: 10 - 獲得金錢: 5845 - 經驗值: 7062, 等级: 10 - 小兵擊殺數: 4, 野怪擊殺數: 0 關鍵事件:
+- 在 230 秒時，(Yuumi (UTILITY)) 被 (Sivir (BOTTOM)) 擊殺
+- 在 340 秒時，(Yuumi (UTILITY)) 助攻 (Warwick (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 391 秒時，(Yuumi (UTILITY)) 助攻 (Warwick (JUNGLE)) 擊殺了 (Milio (UTILITY))
+- 在 515 秒時，(Yuumi (UTILITY)) 助攻 (Zeri (BOTTOM)) 擊殺了 (Sivir (BOTTOM))
+- 在 516 秒時，(Yuumi (UTILITY)) 助攻 (Zeri (BOTTOM)) 擊殺了 (Milio (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zeri (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 10, 助攻數: 3 - 獲得金錢: 9494 - 經驗值: 8055, 等级: 11 - 小兵擊殺數: 160, 野怪擊殺數: 1 關鍵事件:
+- 在 251 秒時，(Zeri (BOTTOM)) 被 (Khazix (JUNGLE)) 擊殺
+- 在 340 秒時，(Zeri (BOTTOM)) 助攻 (Warwick (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 342 秒時，(Zeri (BOTTOM)) 被 (Milio (UTILITY)) 擊殺
+- 在 515 秒時，(Zeri (BOTTOM)) 擊殺了 (Sivir (BOTTOM))
+- 在 516 秒時，(Zeri (BOTTOM)) 擊殺了 (Milio (UTILITY))
+- 在 539 秒時，(Zeri (BOTTOM)) 被 (Khazix (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Warwick (JUNGLE)
+終場表現: - 擊殺數: 6, 死亡數: 6, 助攻數: 2 - 獲得金錢: 8557 - 經驗值: 7488, 等级: 11 - 小兵擊殺數: 9, 野怪擊殺數: 92 關鍵事件:
+- 在 340 秒時，(Warwick (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 391 秒時，(Warwick (JUNGLE)) 擊殺了 (Milio (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 5, 助攻數: 3 - 獲得金錢: 7530 - 經驗值: 10460, 等级: 13 - 小兵擊殺數: 149, 野怪擊殺數: 2 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zoe (MIDDLE)
+終場表現: - 擊殺數: 1, 死亡數: 6, 助攻數: 4 - 獲得金錢: 7195 - 經驗值: 9210, 等级: 12 - 小兵擊殺數: 136, 野怪擊殺數: 0 關鍵事件:
+- 在 391 秒時，(Zoe (MIDDLE)) 助攻 (Warwick (JUNGLE)) 擊殺了 (Milio (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Sett (TOP)
+終場表現: - 擊殺數: 7, 死亡數: 2, 助攻數: 5 - 獲得金錢: 10434 - 經驗值: 12329, 等级: 14 - 小兵擊殺數: 161, 野怪擊殺數: 4 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Khazix (JUNGLE)
+終場表現: - 擊殺數: 9, 死亡數: 3, 助攻數: 8 - 獲得金錢: 11315 - 經驗值: 12179, 等级: 14 - 小兵擊殺數: 14, 野怪擊殺數: 140 關鍵事件:
+- 在 251 秒時，(Khazix (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+- 在 340 秒時，(Khazix (JUNGLE)) 被 (Warwick (JUNGLE)) 擊殺
+- 在 342 秒時，(Khazix (JUNGLE)) 助攻 (Milio (UTILITY)) 擊殺了 (Zeri (BOTTOM))
+- 在 522 秒時，(Khazix (JUNGLE)) 擊殺了 小龍
+- 在 539 秒時，(Khazix (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Syndra (MIDDLE)
+終場表現: - 擊殺數: 13, 死亡數: 1, 助攻數: 11 - 獲得金錢: 14446 - 經驗值: 14436, 等级: 15 - 小兵擊殺數: 175, 野怪擊殺數: 0 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Sivir (BOTTOM)
+終場表現: - 擊殺數: 3, 死亡數: 4, 助攻數: 14 - 獲得金錢: 10982 - 經驗值: 9440, 等级: 12 - 小兵擊殺數: 185, 野怪擊殺數: 0 關鍵事件:
+- 在 230 秒時，(Sivir (BOTTOM)) 擊殺了 (Yuumi (UTILITY))
+- 在 251 秒時，(Sivir (BOTTOM)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+- 在 342 秒時，(Sivir (BOTTOM)) 助攻 (Milio (UTILITY)) 擊殺了 (Zeri (BOTTOM))
+- 在 515 秒時，(Sivir (BOTTOM)) 被 (Zeri (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Milio (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 17 - 獲得金錢: 7005 - 經驗值: 8556, 等级: 11 - 小兵擊殺數: 20, 野怪擊殺數: 0 關鍵事件:
+- 在 230 秒時，(Milio (UTILITY)) 助攻 (Sivir (BOTTOM)) 擊殺了 (Yuumi (UTILITY))
+- 在 251 秒時，(Milio (UTILITY)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Zeri (BOTTOM))
+- 在 342 秒時，(Milio (UTILITY)) 擊殺了 (Zeri (BOTTOM))
+- 在 391 秒時，(Milio (UTILITY)) 被 (Warwick (JUNGLE)) 擊殺
+- 在 516 秒時，(Milio (UTILITY)) 被 (Zeri (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 5, 死亡數: 8, 助攻數: 6 - 獲得金錢: 11014 - 經驗值: 13509, 等级: 15 - 小兵擊殺數: 208, 野怪擊殺數: 4 關鍵事件:
+- 在 229 秒時，(Singed (TOP)) 被 (Vayne (TOP)) 擊殺
+- 在 232 秒時，(Singed (TOP)) 擊殺了 (Vayne (TOP))
+- 在 297 秒時，(Singed (TOP)) 被 (Vayne (TOP)) 擊殺
+- 在 490 秒時，(Singed (TOP)) 助攻 (Milio (UTILITY)) 擊殺了 (LeeSin (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: RekSai (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 10, 助攻數: 7 - 獲得金錢: 8950 - 經驗值: 9544, 等级: 12 - 小兵擊殺數: 11, 野怪擊殺數: 103 關鍵事件:
+- 在 182 秒時，(RekSai (JUNGLE)) 擊殺了 (LeeSin (JUNGLE))
+- 在 235 秒時，(RekSai (JUNGLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 487 秒時，(RekSai (JUNGLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 490 秒時，(RekSai (JUNGLE)) 助攻 (Milio (UTILITY)) 擊殺了 (LeeSin (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Hwei (MIDDLE)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 12 - 獲得金錢: 10941 - 經驗值: 13873, 等级: 15 - 小兵擊殺數: 204, 野怪擊殺數: 4 關鍵事件:
+- 在 173 秒時，(Hwei (MIDDLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 258 秒時，(Hwei (MIDDLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 490 秒時，(Hwei (MIDDLE)) 助攻 (Milio (UTILITY)) 擊殺了 (LeeSin (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jinx (BOTTOM)
+終場表現: - 擊殺數: 6, 死亡數: 5, 助攻數: 8 - 獲得金錢: 10978 - 經驗值: 11227, 等级: 13 - 小兵擊殺數: 191, 野怪擊殺數: 2 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Milio (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 3, 助攻數: 13 - 獲得金錢: 7434 - 經驗值: 9136, 等级: 12 - 小兵擊殺數: 20, 野怪擊殺數: 0 關鍵事件:
+- 在 490 秒時，(Milio (UTILITY)) 擊殺了 (LeeSin (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Vayne (TOP)
+終場表現: - 擊殺數: 5, 死亡數: 5, 助攻數: 5 - 獲得金錢: 13061 - 經驗值: 14810, 等级: 16 - 小兵擊殺數: 204, 野怪擊殺數: 25 關鍵事件:
+- 在 229 秒時，(Vayne (TOP)) 擊殺了 (Singed (TOP))
+- 在 232 秒時，(Vayne (TOP)) 被 (Singed (TOP)) 擊殺
+- 在 235 秒時，(Vayne (TOP)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (RekSai (JUNGLE))
+- 在 297 秒時，(Vayne (TOP)) 擊殺了 (Singed (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: LeeSin (JUNGLE)
+終場表現: - 擊殺數: 10, 死亡數: 5, 助攻數: 12 - 獲得金錢: 13445 - 經驗值: 15279, 等级: 16 - 小兵擊殺數: 15, 野怪擊殺數: 177 關鍵事件:
+- 在 173 秒時，(LeeSin (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 182 秒時，(LeeSin (JUNGLE)) 被 (RekSai (JUNGLE)) 擊殺
+- 在 235 秒時，(LeeSin (JUNGLE)) 擊殺了 (RekSai (JUNGLE))
+- 在 258 秒時，(LeeSin (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 487 秒時，(LeeSin (JUNGLE)) 擊殺了 (RekSai (JUNGLE))
+- 在 490 秒時，(LeeSin (JUNGLE)) 被 (Milio (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Lissandra (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 3, 助攻數: 10 - 獲得金錢: 11575 - 經驗值: 13881, 等级: 15 - 小兵擊殺數: 178, 野怪擊殺數: 0 關鍵事件:
+- 在 173 秒時，(Lissandra (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 258 秒時，(Lissandra (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 487 秒時，(Lissandra (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (RekSai (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ashe (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 4, 助攻數: 6 - 獲得金錢: 12575 - 經驗值: 14242, 等级: 15 - 小兵擊殺數: 214, 野怪擊殺數: 4 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: Lulu (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 1, 助攻數: 16 - 獲得金錢: 8808 - 經驗值: 12106, 等级: 14 - 小兵擊殺數: 18, 野怪擊殺數: 0 關鍵事件:
+",Win
+"比賽模式: CLASSIC
+使用英雄: DrMundo (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 2, 助攻數: 3 - 獲得金錢: 7721 - 經驗值: 8592, 等级: 12 - 小兵擊殺數: 143, 野怪擊殺數: 0 關鍵事件:
+- 在 205 秒時，(DrMundo (TOP)) 被 (Camille (UTILITY)) 擊殺
+- 在 209 秒時，(DrMundo (TOP)) 擊殺了 (Camille (UTILITY))
+- 在 346 秒時，(DrMundo (TOP)) 助攻 (Viego (JUNGLE)) 擊殺了 (Singed (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Viego (JUNGLE)
+終場表現: - 擊殺數: 8, 死亡數: 1, 助攻數: 3 - 獲得金錢: 8422 - 經驗值: 6533, 等级: 10 - 小兵擊殺數: 22, 野怪擊殺數: 90 關鍵事件:
+- 在 238 秒時，(Viego (JUNGLE)) 擊殺了 (Draven (BOTTOM))
+- 在 246 秒時，(Viego (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 253 秒時，(Viego (JUNGLE)) 助攻 (Nilah (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 346 秒時，(Viego (JUNGLE)) 擊殺了 (Singed (TOP))
+- 在 419 秒時，(Viego (JUNGLE)) 擊殺了 (Sylas (MIDDLE))
+- 在 422 秒時，(Viego (JUNGLE)) 助攻 (Lux (MIDDLE)) 擊殺了 (Draven (BOTTOM))
+- 在 430 秒時，(Viego (JUNGLE)) 助攻 (Lux (MIDDLE)) 擊殺了 (Camille (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Lux (MIDDLE)
+終場表現: - 擊殺數: 9, 死亡數: 1, 助攻數: 6 - 獲得金錢: 7120 - 經驗值: 7533, 等级: 11 - 小兵擊殺數: 92, 野怪擊殺數: 0 關鍵事件:
+- 在 162 秒時，(Lux (MIDDLE)) 擊殺了 (Sylas (MIDDLE))
+- 在 319 秒時，(Lux (MIDDLE)) 擊殺了 (Sylas (MIDDLE))
+- 在 332 秒時，(Lux (MIDDLE)) 被 (Khazix (JUNGLE)) 擊殺
+- 在 422 秒時，(Lux (MIDDLE)) 擊殺了 (Draven (BOTTOM))
+- 在 430 秒時，(Lux (MIDDLE)) 擊殺了 (Camille (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nilah (BOTTOM)
+終場表現: - 擊殺數: 5, 死亡數: 2, 助攻數: 4 - 獲得金錢: 7434 - 經驗值: 6951, 等级: 10 - 小兵擊殺數: 132, 野怪擊殺數: 0 關鍵事件:
+- 在 157 秒時，(Nilah (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 157 秒時，(Nilah (BOTTOM)) 被 (Draven (BOTTOM)) 擊殺
+- 在 238 秒時，(Nilah (BOTTOM)) 助攻 (Viego (JUNGLE)) 擊殺了 (Draven (BOTTOM))
+- 在 246 秒時，(Nilah (BOTTOM)) 助攻 (Viego (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 253 秒時，(Nilah (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 414 秒時，(Nilah (BOTTOM)) 被 (Khazix (JUNGLE)) 擊殺
+- 在 419 秒時，(Nilah (BOTTOM)) 助攻 (Viego (JUNGLE)) 擊殺了 (Sylas (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Braum (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 2, 助攻數: 9 - 獲得金錢: 4554 - 經驗值: 5903, 等级: 9 - 小兵擊殺數: 24, 野怪擊殺數: 0 關鍵事件:
+- 在 156 秒時，(Braum (UTILITY)) 被 (Camille (UTILITY)) 擊殺
+- 在 157 秒時，(Braum (UTILITY)) 助攻 (Nilah (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 238 秒時，(Braum (UTILITY)) 助攻 (Viego (JUNGLE)) 擊殺了 (Draven (BOTTOM))
+- 在 246 秒時，(Braum (UTILITY)) 助攻 (Viego (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 253 秒時，(Braum (UTILITY)) 助攻 (Nilah (BOTTOM)) 擊殺了 (Camille (UTILITY))
+- 在 416 秒時，(Braum (UTILITY)) 被 (Sylas (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 4, 助攻數: 1 - 獲得金錢: 4968 - 經驗值: 6380, 等级: 10 - 小兵擊殺數: 105, 野怪擊殺數: 0 關鍵事件:
+- 在 205 秒時，(Singed (TOP)) 助攻 (Camille (UTILITY)) 擊殺了 (DrMundo (TOP))
+- 在 346 秒時，(Singed (TOP)) 被 (Viego (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Khazix (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 4, 助攻數: 2 - 獲得金錢: 6893 - 經驗值: 5728, 等级: 9 - 小兵擊殺數: 6, 野怪擊殺數: 75 關鍵事件:
+- 在 246 秒時，(Khazix (JUNGLE)) 被 (Viego (JUNGLE)) 擊殺
+- 在 332 秒時，(Khazix (JUNGLE)) 擊殺了 (Lux (MIDDLE))
+- 在 414 秒時，(Khazix (JUNGLE)) 擊殺了 (Nilah (BOTTOM))
+- 在 416 秒時，(Khazix (JUNGLE)) 助攻 (Sylas (MIDDLE)) 擊殺了 (Braum (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Camille (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 6, 助攻數: 4 - 獲得金錢: 4448 - 經驗值: 3247, 等级: 7 - 小兵擊殺數: 11, 野怪擊殺數: 4 關鍵事件:
+- 在 156 秒時，(Camille (UTILITY)) 擊殺了 (Braum (UTILITY))
+- 在 157 秒時，(Camille (UTILITY)) 被 (Nilah (BOTTOM)) 擊殺
+- 在 157 秒時，(Camille (UTILITY)) 助攻 (Draven (BOTTOM)) 擊殺了 (Nilah (BOTTOM))
+- 在 205 秒時，(Camille (UTILITY)) 擊殺了 (DrMundo (TOP))
+- 在 209 秒時，(Camille (UTILITY)) 被 (DrMundo (TOP)) 擊殺
+- 在 253 秒時，(Camille (UTILITY)) 被 (Nilah (BOTTOM)) 擊殺
+- 在 414 秒時，(Camille (UTILITY)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Nilah (BOTTOM))
+- 在 416 秒時，(Camille (UTILITY)) 助攻 (Sylas (MIDDLE)) 擊殺了 (Braum (UTILITY))
+- 在 430 秒時，(Camille (UTILITY)) 被 (Lux (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Draven (BOTTOM)
+終場表現: - 擊殺數: 1, 死亡數: 4, 助攻數: 2 - 獲得金錢: 4777 - 經驗值: 4987, 等级: 8 - 小兵擊殺數: 85, 野怪擊殺數: 0 關鍵事件:
+- 在 156 秒時，(Draven (BOTTOM)) 助攻 (Camille (UTILITY)) 擊殺了 (Braum (UTILITY))
+- 在 157 秒時，(Draven (BOTTOM)) 擊殺了 (Nilah (BOTTOM))
+- 在 238 秒時，(Draven (BOTTOM)) 被 (Viego (JUNGLE)) 擊殺
+- 在 414 秒時，(Draven (BOTTOM)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Nilah (BOTTOM))
+- 在 422 秒時，(Draven (BOTTOM)) 被 (Lux (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Sylas (MIDDLE)
+終場表現: - 擊殺數: 1, 死亡數: 7, 助攻數: 2 - 獲得金錢: 4763 - 經驗值: 5915, 等级: 9 - 小兵擊殺數: 86, 野怪擊殺數: 0 關鍵事件:
+- 在 162 秒時，(Sylas (MIDDLE)) 被 (Lux (MIDDLE)) 擊殺
+- 在 319 秒時，(Sylas (MIDDLE)) 被 (Lux (MIDDLE)) 擊殺
+- 在 332 秒時，(Sylas (MIDDLE)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Lux (MIDDLE))
+- 在 414 秒時，(Sylas (MIDDLE)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Nilah (BOTTOM))
+- 在 416 秒時，(Sylas (MIDDLE)) 擊殺了 (Braum (UTILITY))
+- 在 419 秒時，(Sylas (MIDDLE)) 被 (Viego (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: TwistedFate (TOP)
+終場表現: - 擊殺數: 4, 死亡數: 9, 助攻數: 1 - 獲得金錢: 11248 - 經驗值: 13999, 等级: 15 - 小兵擊殺數: 185, 野怪擊殺數: 16 關鍵事件:
+- 在 201 秒時，(TwistedFate (TOP)) 被 (Malphite (TOP)) 擊殺
+- 在 386 秒時，(TwistedFate (TOP)) 被 (Malphite (TOP)) 擊殺
+- 在 486 秒時，(TwistedFate (TOP)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Malphite (TOP))
+- 在 502 秒時，(TwistedFate (TOP)) 助攻 (Katarina (MIDDLE)) 擊殺了 (Graves (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: LeeSin (JUNGLE)
+終場表現: - 擊殺數: 7, 死亡數: 4, 助攻數: 5 - 獲得金錢: 10721 - 經驗值: 12807, 等级: 14 - 小兵擊殺數: 11, 野怪擊殺數: 133 關鍵事件:
+- 在 181 秒時，(LeeSin (JUNGLE)) 擊殺了 (Karma (UTILITY))
+- 在 341 秒時，(LeeSin (JUNGLE)) 助攻 (Katarina (MIDDLE)) 擊殺了 (Graves (JUNGLE))
+- 在 448 秒時，(LeeSin (JUNGLE)) 擊殺了 小龍
+- 在 486 秒時，(LeeSin (JUNGLE)) 擊殺了 (Malphite (TOP))
+- 在 502 秒時，(LeeSin (JUNGLE)) 助攻 (Katarina (MIDDLE)) 擊殺了 (Graves (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Katarina (MIDDLE)
+終場表現: - 擊殺數: 8, 死亡數: 10, 助攻數: 2 - 獲得金錢: 12229 - 經驗值: 13858, 等级: 15 - 小兵擊殺數: 182, 野怪擊殺數: 0 關鍵事件:
+- 在 204 秒時，(Katarina (MIDDLE)) 被 (Vladimir (MIDDLE)) 擊殺
+- 在 341 秒時，(Katarina (MIDDLE)) 擊殺了 (Graves (JUNGLE))
+- 在 439 秒時，(Katarina (MIDDLE)) 擊殺了 (Vladimir (MIDDLE))
+- 在 440 秒時，(Katarina (MIDDLE)) 被 (Vladimir (MIDDLE)) 擊殺
+- 在 502 秒時，(Katarina (MIDDLE)) 擊殺了 (Graves (JUNGLE))
+- 在 538 秒時，(Katarina (MIDDLE)) 被 (Vladimir (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jinx (BOTTOM)
+終場表現: - 擊殺數: 8, 死亡數: 5, 助攻數: 8 - 獲得金錢: 12651 - 經驗值: 12065, 等级: 14 - 小兵擊殺數: 194, 野怪擊殺數: 20 關鍵事件:
+- 在 181 秒時，(Jinx (BOTTOM)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Karma (UTILITY))
+- 在 401 秒時，(Jinx (BOTTOM)) 擊殺了 (Karma (UTILITY))
+- 在 532 秒時，(Jinx (BOTTOM)) 助攻 (Xerath (UTILITY)) 擊殺了 (Corki (BOTTOM))
+- 在 538 秒時，(Jinx (BOTTOM)) 助攻 (Xerath (UTILITY)) 擊殺了 (Karma (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Xerath (UTILITY)
+終場表現: - 擊殺數: 5, 死亡數: 5, 助攻數: 12 - 獲得金錢: 9639 - 經驗值: 10232, 等级: 13 - 小兵擊殺數: 50, 野怪擊殺數: 0 關鍵事件:
+- 在 181 秒時，(Xerath (UTILITY)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Karma (UTILITY))
+- 在 401 秒時，(Xerath (UTILITY)) 助攻 (Jinx (BOTTOM)) 擊殺了 (Karma (UTILITY))
+- 在 532 秒時，(Xerath (UTILITY)) 擊殺了 (Corki (BOTTOM))
+- 在 538 秒時，(Xerath (UTILITY)) 擊殺了 (Karma (UTILITY))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Malphite (TOP)
+終場表現: - 擊殺數: 8, 死亡數: 5, 助攻數: 6 - 獲得金錢: 11029 - 經驗值: 17485, 等级: 17 - 小兵擊殺數: 181, 野怪擊殺數: 0 關鍵事件:
+- 在 201 秒時，(Malphite (TOP)) 擊殺了 (TwistedFate (TOP))
+- 在 386 秒時，(Malphite (TOP)) 擊殺了 (TwistedFate (TOP))
+- 在 486 秒時，(Malphite (TOP)) 被 (LeeSin (JUNGLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Graves (JUNGLE)
+終場表現: - 擊殺數: 6, 死亡數: 8, 助攻數: 4 - 獲得金錢: 11803 - 經驗值: 13961, 等级: 15 - 小兵擊殺數: 35, 野怪擊殺數: 125 關鍵事件:
+- 在 201 秒時，(Graves (JUNGLE)) 助攻 (Malphite (TOP)) 擊殺了 (TwistedFate (TOP))
+- 在 341 秒時，(Graves (JUNGLE)) 被 (Katarina (MIDDLE)) 擊殺
+- 在 439 秒時，(Graves (JUNGLE)) 助攻 (Katarina (MIDDLE)) 擊殺了 (Vladimir (MIDDLE))
+- 在 440 秒時，(Graves (JUNGLE)) 助攻 (Vladimir (MIDDLE)) 擊殺了 (Katarina (MIDDLE))
+- 在 502 秒時，(Graves (JUNGLE)) 被 (Katarina (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Vladimir (MIDDLE)
+終場表現: - 擊殺數: 13, 死亡數: 2, 助攻數: 3 - 獲得金錢: 16321 - 經驗值: 18332, 等级: 17 - 小兵擊殺數: 222, 野怪擊殺數: 13 關鍵事件:
+- 在 204 秒時，(Vladimir (MIDDLE)) 擊殺了 (Katarina (MIDDLE))
+- 在 439 秒時，(Vladimir (MIDDLE)) 被 (Katarina (MIDDLE)) 擊殺
+- 在 440 秒時，(Vladimir (MIDDLE)) 擊殺了 (Katarina (MIDDLE))
+- 在 538 秒時，(Vladimir (MIDDLE)) 擊殺了 (Katarina (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Corki (BOTTOM)
+終場表現: - 擊殺數: 6, 死亡數: 10, 助攻數: 3 - 獲得金錢: 12277 - 經驗值: 12420, 等级: 14 - 小兵擊殺數: 193, 野怪擊殺數: 0 關鍵事件:
+- 在 532 秒時，(Corki (BOTTOM)) 被 (Xerath (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Karma (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 8, 助攻數: 11 - 獲得金錢: 8080 - 經驗值: 11142, 等级: 13 - 小兵擊殺數: 41, 野怪擊殺數: 0 關鍵事件:
+- 在 181 秒時，(Karma (UTILITY)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 401 秒時，(Karma (UTILITY)) 被 (Jinx (BOTTOM)) 擊殺
+- 在 538 秒時，(Karma (UTILITY)) 被 (Xerath (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Heimerdinger (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 11, 助攻數: 4 - 獲得金錢: 11566 - 經驗值: 15001, 等级: 16 - 小兵擊殺數: 206, 野怪擊殺數: 0 關鍵事件:
+- 在 196 秒時，(Heimerdinger (TOP)) 被 (AurelionSol (TOP)) 擊殺
+- 在 474 秒時，(Heimerdinger (TOP)) 被 (AurelionSol (TOP)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Orianna (MIDDLE)
+終場表現: - 擊殺數: 12, 死亡數: 8, 助攻數: 24 - 獲得金錢: 18186 - 經驗值: 21433, 等级: 18 - 小兵擊殺數: 249, 野怪擊殺數: 21 關鍵事件:
+- 在 352 秒時，(Orianna (MIDDLE)) 擊殺了 (Diana (MIDDLE))
+- 在 359 秒時，(Orianna (MIDDLE)) 被 (XinZhao (JUNGLE)) 擊殺
+- 在 362 秒時，(Orianna (MIDDLE)) 助攻 (Khazix (JUNGLE)) 擊殺了 (XinZhao (JUNGLE))
+- 在 432 秒時，(Orianna (MIDDLE)) 助攻 (Khazix (JUNGLE)) 擊殺了 (Diana (MIDDLE))
+- 在 508 秒時，(Orianna (MIDDLE)) 擊殺了 (XinZhao (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Khazix (JUNGLE)
+終場表現: - 擊殺數: 23, 死亡數: 5, 助攻數: 6 - 獲得金錢: 19872 - 經驗值: 21229, 等级: 18 - 小兵擊殺數: 38, 野怪擊殺數: 205 關鍵事件:
+- 在 362 秒時，(Khazix (JUNGLE)) 擊殺了 (XinZhao (JUNGLE))
+- 在 432 秒時，(Khazix (JUNGLE)) 擊殺了 (Diana (MIDDLE))
+- 在 499 秒時，(Khazix (JUNGLE)) 被 (Sivir (BOTTOM)) 擊殺
+- 在 508 秒時，(Khazix (JUNGLE)) 助攻 (Orianna (MIDDLE)) 擊殺了 (XinZhao (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Varus (BOTTOM)
+終場表現: - 擊殺數: 6, 死亡數: 10, 助攻數: 13 - 獲得金錢: 15038 - 經驗值: 16235, 等级: 16 - 小兵擊殺數: 217, 野怪擊殺數: 4 關鍵事件:
+- 在 496 秒時，(Varus (BOTTOM)) 被 (XinZhao (JUNGLE)) 擊殺
+- 在 508 秒時，(Varus (BOTTOM)) 助攻 (Orianna (MIDDLE)) 擊殺了 (XinZhao (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Nasus (UTILITY)
+終場表現: - 擊殺數: 3, 死亡數: 9, 助攻數: 14 - 獲得金錢: 11699 - 經驗值: 12579, 等级: 14 - 小兵擊殺數: 60, 野怪擊殺數: 0 關鍵事件:
+- 在 507 秒時，(Nasus (UTILITY)) 被 (XinZhao (JUNGLE)) 擊殺
+- 在 508 秒時，(Nasus (UTILITY)) 助攻 (Orianna (MIDDLE)) 擊殺了 (XinZhao (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: AurelionSol (TOP)
+終場表現: - 擊殺數: 12, 死亡數: 9, 助攻數: 14 - 獲得金錢: 17636 - 經驗值: 21224, 等级: 18 - 小兵擊殺數: 256, 野怪擊殺數: 11 關鍵事件:
+- 在 196 秒時，(AurelionSol (TOP)) 擊殺了 (Heimerdinger (TOP))
+- 在 474 秒時，(AurelionSol (TOP)) 擊殺了 (Heimerdinger (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: XinZhao (JUNGLE)
+終場表現: - 擊殺數: 7, 死亡數: 8, 助攻數: 14 - 獲得金錢: 14701 - 經驗值: 18050, 等级: 17 - 小兵擊殺數: 19, 野怪擊殺數: 147 關鍵事件:
+- 在 196 秒時，(XinZhao (JUNGLE)) 助攻 (AurelionSol (TOP)) 擊殺了 (Heimerdinger (TOP))
+- 在 359 秒時，(XinZhao (JUNGLE)) 擊殺了 (Orianna (MIDDLE))
+- 在 362 秒時，(XinZhao (JUNGLE)) 被 (Khazix (JUNGLE)) 擊殺
+- 在 496 秒時，(XinZhao (JUNGLE)) 擊殺了 (Varus (BOTTOM))
+- 在 499 秒時，(XinZhao (JUNGLE)) 助攻 (Sivir (BOTTOM)) 擊殺了 (Khazix (JUNGLE))
+- 在 507 秒時，(XinZhao (JUNGLE)) 擊殺了 (Nasus (UTILITY))
+- 在 508 秒時，(XinZhao (JUNGLE)) 被 (Orianna (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Diana (MIDDLE)
+終場表現: - 擊殺數: 15, 死亡數: 12, 助攻數: 7 - 獲得金錢: 18295 - 經驗值: 21694, 等级: 18 - 小兵擊殺數: 204, 野怪擊殺數: 20 關鍵事件:
+- 在 352 秒時，(Diana (MIDDLE)) 被 (Orianna (MIDDLE)) 擊殺
+- 在 359 秒時，(Diana (MIDDLE)) 助攻 (XinZhao (JUNGLE)) 擊殺了 (Orianna (MIDDLE))
+- 在 432 秒時，(Diana (MIDDLE)) 被 (Khazix (JUNGLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Sivir (BOTTOM)
+終場表現: - 擊殺數: 9, 死亡數: 6, 助攻數: 21 - 獲得金錢: 18872 - 經驗值: 20555, 等级: 18 - 小兵擊殺數: 292, 野怪擊殺數: 24 關鍵事件:
+- 在 496 秒時，(Sivir (BOTTOM)) 助攻 (XinZhao (JUNGLE)) 擊殺了 (Varus (BOTTOM))
+- 在 499 秒時，(Sivir (BOTTOM)) 擊殺了 (Khazix (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nami (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 10, 助攻數: 26 - 獲得金錢: 10378 - 經驗值: 15517, 等级: 16 - 小兵擊殺數: 27, 野怪擊殺數: 0 關鍵事件:
+- 在 496 秒時，(Nami (UTILITY)) 助攻 (XinZhao (JUNGLE)) 擊殺了 (Varus (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Poppy (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 7, 助攻數: 6 - 獲得金錢: 8157 - 經驗值: 10683, 等级: 13 - 小兵擊殺數: 161, 野怪擊殺數: 0 關鍵事件:
+- 在 183 秒時，(Poppy (TOP)) 被 (Aatrox (TOP)) 擊殺
+- 在 343 秒時，(Poppy (TOP)) 擊殺了 (Aatrox (TOP))
+- 在 405 秒時，(Poppy (TOP)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 420 秒時，(Poppy (TOP)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 430 秒時，(Poppy (TOP)) 助攻 (Viktor (MIDDLE)) 擊殺了 (Aatrox (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: LeeSin (JUNGLE)
+終場表現: - 擊殺數: 9, 死亡數: 7, 助攻數: 4 - 獲得金錢: 10940 - 經驗值: 10455, 等级: 13 - 小兵擊殺數: 21, 野怪擊殺數: 122 關鍵事件:
+- 在 230 秒時，(LeeSin (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 259 秒時，(LeeSin (JUNGLE)) 擊殺了 (Kaisa (BOTTOM))
+- 在 262 秒時，(LeeSin (JUNGLE)) 擊殺了 (Leona (UTILITY))
+- 在 343 秒時，(LeeSin (JUNGLE)) 助攻 (Poppy (TOP)) 擊殺了 (Aatrox (TOP))
+- 在 405 秒時，(LeeSin (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 420 秒時，(LeeSin (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 422 秒時，(LeeSin (JUNGLE)) 被 (Aatrox (TOP)) 擊殺
+- 在 430 秒時，(LeeSin (JUNGLE)) 助攻 (Viktor (MIDDLE)) 擊殺了 (Aatrox (TOP))
+- 在 482 秒時，(LeeSin (JUNGLE)) 擊殺了 小龍
+- 在 527 秒時，(LeeSin (JUNGLE)) 助攻 (Jhin (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Viktor (MIDDLE)
+終場表現: - 擊殺數: 3, 死亡數: 9, 助攻數: 3 - 獲得金錢: 9465 - 經驗值: 11553, 等级: 14 - 小兵擊殺數: 172, 野怪擊殺數: 0 關鍵事件:
+- 在 373 秒時，(Viktor (MIDDLE)) 被 (Ahri (MIDDLE)) 擊殺
+- 在 420 秒時，(Viktor (MIDDLE)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 430 秒時，(Viktor (MIDDLE)) 擊殺了 (Aatrox (TOP))
+- 在 492 秒時，(Viktor (MIDDLE)) 被 (Ahri (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jhin (BOTTOM)
+終場表現: - 擊殺數: 5, 死亡數: 7, 助攻數: 4 - 獲得金錢: 10006 - 經驗值: 9049, 等级: 12 - 小兵擊殺數: 174, 野怪擊殺數: 0 關鍵事件:
+- 在 200 秒時，(Jhin (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 230 秒時，(Jhin (BOTTOM)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 251 秒時，(Jhin (BOTTOM)) 被 (Kaisa (BOTTOM)) 擊殺
+- 在 259 秒時，(Jhin (BOTTOM)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Kaisa (BOTTOM))
+- 在 377 秒時，(Jhin (BOTTOM)) 擊殺了 (Leona (UTILITY))
+- 在 490 秒時，(Jhin (BOTTOM)) 擊殺了 (Leona (UTILITY))
+- 在 527 秒時，(Jhin (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Heimerdinger (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 5, 助攻數: 10 - 獲得金錢: 8011 - 經驗值: 8741, 等级: 12 - 小兵擊殺數: 46, 野怪擊殺數: 3 關鍵事件:
+- 在 200 秒時，(Heimerdinger (UTILITY)) 助攻 (Jhin (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 230 秒時，(Heimerdinger (UTILITY)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Khazix (JUNGLE))
+- 在 258 秒時，(Heimerdinger (UTILITY)) 被 (Kaisa (BOTTOM)) 擊殺
+- 在 259 秒時，(Heimerdinger (UTILITY)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Kaisa (BOTTOM))
+- 在 262 秒時，(Heimerdinger (UTILITY)) 助攻 (LeeSin (JUNGLE)) 擊殺了 (Leona (UTILITY))
+- 在 377 秒時，(Heimerdinger (UTILITY)) 助攻 (Jhin (BOTTOM)) 擊殺了 (Leona (UTILITY))
+- 在 413 秒時，(Heimerdinger (UTILITY)) 擊殺了 (Kaisa (BOTTOM))
+- 在 490 秒時，(Heimerdinger (UTILITY)) 助攻 (Jhin (BOTTOM)) 擊殺了 (Leona (UTILITY))
+- 在 527 秒時，(Heimerdinger (UTILITY)) 助攻 (Jhin (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Aatrox (TOP)
+終場表現: - 擊殺數: 8, 死亡數: 5, 助攻數: 5 - 獲得金錢: 11613 - 經驗值: 14214, 等级: 15 - 小兵擊殺數: 194, 野怪擊殺數: 12 關鍵事件:
+- 在 183 秒時，(Aatrox (TOP)) 擊殺了 (Poppy (TOP))
+- 在 343 秒時，(Aatrox (TOP)) 被 (Poppy (TOP)) 擊殺
+- 在 422 秒時，(Aatrox (TOP)) 擊殺了 (LeeSin (JUNGLE))
+- 在 430 秒時，(Aatrox (TOP)) 被 (Viktor (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Khazix (JUNGLE)
+終場表現: - 擊殺數: 7, 死亡數: 5, 助攻數: 6 - 獲得金錢: 11101 - 經驗值: 13129, 等级: 15 - 小兵擊殺數: 12, 野怪擊殺數: 150 關鍵事件:
+- 在 230 秒時，(Khazix (JUNGLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 405 秒時，(Khazix (JUNGLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 422 秒時，(Khazix (JUNGLE)) 助攻 (Aatrox (TOP)) 擊殺了 (LeeSin (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ahri (MIDDLE)
+終場表現: - 擊殺數: 13, 死亡數: 2, 助攻數: 11 - 獲得金錢: 13479 - 經驗值: 14999, 等级: 16 - 小兵擊殺數: 204, 野怪擊殺數: 0 關鍵事件:
+- 在 373 秒時，(Ahri (MIDDLE)) 擊殺了 (Viktor (MIDDLE))
+- 在 420 秒時，(Ahri (MIDDLE)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 422 秒時，(Ahri (MIDDLE)) 助攻 (Aatrox (TOP)) 擊殺了 (LeeSin (JUNGLE))
+- 在 492 秒時，(Ahri (MIDDLE)) 擊殺了 (Viktor (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kaisa (BOTTOM)
+終場表現: - 擊殺數: 6, 死亡數: 5, 助攻數: 11 - 獲得金錢: 11646 - 經驗值: 12805, 等级: 14 - 小兵擊殺數: 195, 野怪擊殺數: 19 關鍵事件:
+- 在 200 秒時，(Kaisa (BOTTOM)) 被 (Jhin (BOTTOM)) 擊殺
+- 在 251 秒時，(Kaisa (BOTTOM)) 擊殺了 (Jhin (BOTTOM))
+- 在 258 秒時，(Kaisa (BOTTOM)) 擊殺了 (Heimerdinger (UTILITY))
+- 在 259 秒時，(Kaisa (BOTTOM)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 413 秒時，(Kaisa (BOTTOM)) 被 (Heimerdinger (UTILITY)) 擊殺
+- 在 527 秒時，(Kaisa (BOTTOM)) 被 (Jhin (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Leona (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 3, 助攻數: 18 - 獲得金錢: 7388 - 經驗值: 9787, 等级: 12 - 小兵擊殺數: 33, 野怪擊殺數: 0 關鍵事件:
+- 在 251 秒時，(Leona (UTILITY)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Jhin (BOTTOM))
+- 在 262 秒時，(Leona (UTILITY)) 被 (LeeSin (JUNGLE)) 擊殺
+- 在 377 秒時，(Leona (UTILITY)) 被 (Jhin (BOTTOM)) 擊殺
+- 在 490 秒時，(Leona (UTILITY)) 被 (Jhin (BOTTOM)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Darius (TOP)
+終場表現: - 擊殺數: 4, 死亡數: 3, 助攻數: 2 - 獲得金錢: 8892 - 經驗值: 11504, 等级: 14 - 小兵擊殺數: 167, 野怪擊殺數: 4 關鍵事件:
+- 在 212 秒時，(Darius (TOP)) 擊殺了 (Ekko (JUNGLE))
+- 在 219 秒時，(Darius (TOP)) 擊殺了 (DrMundo (TOP))
+- 在 219 秒時，(Darius (TOP)) 被 (Neeko (MIDDLE)) 擊殺
+- 在 420 秒時，(Darius (TOP)) 擊殺了 (Neeko (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kindred (JUNGLE)
+終場表現: - 擊殺數: 2, 死亡數: 3, 助攻數: 11 - 獲得金錢: 9651 - 經驗值: 11554, 等级: 14 - 小兵擊殺數: 7, 野怪擊殺數: 154 關鍵事件:
+- 在 207 秒時，(Kindred (JUNGLE)) 被 (DrMundo (TOP)) 擊殺
+- 在 212 秒時，(Kindred (JUNGLE)) 助攻 (Darius (TOP)) 擊殺了 (Ekko (JUNGLE))
+- 在 219 秒時，(Kindred (JUNGLE)) 助攻 (Darius (TOP)) 擊殺了 (DrMundo (TOP))
+- 在 219 秒時，(Kindred (JUNGLE)) 助攻 (Neeko (MIDDLE)) 擊殺了 (Darius (TOP))
+- 在 271 秒時，(Kindred (JUNGLE)) 助攻 (Corki (BOTTOM)) 擊殺了 (Ekko (JUNGLE))
+- 在 412 秒時，(Kindred (JUNGLE)) 助攻 (AurelionSol (MIDDLE)) 擊殺了 (Ekko (JUNGLE))
+- 在 420 秒時，(Kindred (JUNGLE)) 助攻 (Darius (TOP)) 擊殺了 (Neeko (MIDDLE))
+- 在 424 秒時，(Kindred (JUNGLE)) 助攻 (AurelionSol (MIDDLE)) 擊殺了 (DrMundo (TOP))
+- 在 512 秒時，(Kindred (JUNGLE)) 被 (Neeko (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: AurelionSol (MIDDLE)
+終場表現: - 擊殺數: 14, 死亡數: 0, 助攻數: 5 - 獲得金錢: 13402 - 經驗值: 13431, 等级: 15 - 小兵擊殺數: 169, 野怪擊殺數: 10 關鍵事件:
+- 在 219 秒時，(AurelionSol (MIDDLE)) 助攻 (Darius (TOP)) 擊殺了 (DrMundo (TOP))
+- 在 412 秒時，(AurelionSol (MIDDLE)) 擊殺了 (Ekko (JUNGLE))
+- 在 420 秒時，(AurelionSol (MIDDLE)) 助攻 (Darius (TOP)) 擊殺了 (Neeko (MIDDLE))
+- 在 424 秒時，(AurelionSol (MIDDLE)) 擊殺了 (DrMundo (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Corki (BOTTOM)
+終場表現: - 擊殺數: 5, 死亡數: 1, 助攻數: 10 - 獲得金錢: 10915 - 經驗值: 11001, 等级: 13 - 小兵擊殺數: 174, 野怪擊殺數: 8 關鍵事件:
+- 在 146 秒時，(Corki (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 271 秒時，(Corki (BOTTOM)) 擊殺了 (Ekko (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nami (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 2, 助攻數: 11 - 獲得金錢: 7685 - 經驗值: 8553, 等级: 11 - 小兵擊殺數: 41, 野怪擊殺數: 0 關鍵事件:
+- 在 146 秒時，(Nami (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 271 秒時，(Nami (UTILITY)) 助攻 (Corki (BOTTOM)) 擊殺了 (Ekko (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Thresh (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 6, 助攻數: 1 - 獲得金錢: 4877 - 經驗值: 6616, 等级: 10 - 小兵擊殺數: 26, 野怪擊殺數: 0 關鍵事件:
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ekko (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 7, 助攻數: 3 - 獲得金錢: 8523 - 經驗值: 9596, 等级: 12 - 小兵擊殺數: 25, 野怪擊殺數: 124 關鍵事件:
+- 在 207 秒時，(Ekko (JUNGLE)) 助攻 (DrMundo (TOP)) 擊殺了 (Kindred (JUNGLE))
+- 在 212 秒時，(Ekko (JUNGLE)) 被 (Darius (TOP)) 擊殺
+- 在 219 秒時，(Ekko (JUNGLE)) 助攻 (Darius (TOP)) 擊殺了 (DrMundo (TOP))
+- 在 219 秒時，(Ekko (JUNGLE)) 助攻 (Neeko (MIDDLE)) 擊殺了 (Darius (TOP))
+- 在 271 秒時，(Ekko (JUNGLE)) 被 (Corki (BOTTOM)) 擊殺
+- 在 412 秒時，(Ekko (JUNGLE)) 被 (AurelionSol (MIDDLE)) 擊殺
+- 在 512 秒時，(Ekko (JUNGLE)) 助攻 (Neeko (MIDDLE)) 擊殺了 (Kindred (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Neeko (MIDDLE)
+終場表現: - 擊殺數: 5, 死亡數: 5, 助攻數: 0 - 獲得金錢: 8199 - 經驗值: 9570, 等级: 12 - 小兵擊殺數: 148, 野怪擊殺數: 0 關鍵事件:
+- 在 219 秒時，(Neeko (MIDDLE)) 擊殺了 (Darius (TOP))
+- 在 420 秒時，(Neeko (MIDDLE)) 被 (Darius (TOP)) 擊殺
+- 在 512 秒時，(Neeko (MIDDLE)) 擊殺了 (Kindred (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jinx (BOTTOM)
+終場表現: - 擊殺數: 0, 死亡數: 5, 助攻數: 3 - 獲得金錢: 8358 - 經驗值: 9327, 等级: 12 - 小兵擊殺數: 200, 野怪擊殺數: 0 關鍵事件:
+- 在 146 秒時，(Jinx (BOTTOM)) 被 (Corki (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: DrMundo (TOP)
+終場表現: - 擊殺數: 1, 死亡數: 4, 助攻數: 3 - 獲得金錢: 9301 - 經驗值: 11844, 等级: 14 - 小兵擊殺數: 194, 野怪擊殺數: 0 關鍵事件:
+- 在 207 秒時，(DrMundo (TOP)) 擊殺了 (Kindred (JUNGLE))
+- 在 219 秒時，(DrMundo (TOP)) 被 (Darius (TOP)) 擊殺
+- 在 219 秒時，(DrMundo (TOP)) 助攻 (Neeko (MIDDLE)) 擊殺了 (Darius (TOP))
+- 在 424 秒時，(DrMundo (TOP)) 被 (AurelionSol (MIDDLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Mordekaiser (TOP)
+終場表現: - 擊殺數: 8, 死亡數: 5, 助攻數: 9 - 獲得金錢: 13910 - 經驗值: 16282, 等级: 16 - 小兵擊殺數: 186, 野怪擊殺數: 0 關鍵事件:
+- 在 45 秒時，(Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 198 秒時，(Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 415 秒時，(Mordekaiser (TOP)) 被 (Singed (TOP)) 擊殺
+- 在 514 秒時，(Mordekaiser (TOP)) 擊殺了 (Singed (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: MasterYi (JUNGLE)
+終場表現: - 擊殺數: 20, 死亡數: 7, 助攻數: 11 - 獲得金錢: 15937 - 經驗值: 14316, 等级: 15 - 小兵擊殺數: 19, 野怪擊殺數: 120 關鍵事件:
+- 在 45 秒時，(MasterYi (JUNGLE)) 助攻 (Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 194 秒時，(MasterYi (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 198 秒時，(MasterYi (JUNGLE)) 被 (Singed (TOP)) 擊殺
+- 在 198 秒時，(MasterYi (JUNGLE)) 助攻 (Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 381 秒時，(MasterYi (JUNGLE)) 助攻 (Samira (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 384 秒時，(MasterYi (JUNGLE)) 被 (Lulu (UTILITY)) 擊殺
+- 在 385 秒時，(MasterYi (JUNGLE)) 助攻 (Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 429 秒時，(MasterYi (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 519 秒時，(MasterYi (JUNGLE)) 擊殺了 (Graves (JUNGLE))
+- 在 531 秒時，(MasterYi (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ahri (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 7, 助攻數: 17 - 獲得金錢: 12154 - 經驗值: 14626, 等级: 15 - 小兵擊殺數: 148, 野怪擊殺數: 0 關鍵事件:
+- 在 45 秒時，(Ahri (MIDDLE)) 助攻 (Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 191 秒時，(Ahri (MIDDLE)) 被 (Singed (TOP)) 擊殺
+- 在 198 秒時，(Ahri (MIDDLE)) 助攻 (Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 355 秒時，(Ahri (MIDDLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 368 秒時，(Ahri (MIDDLE)) 被 (Graves (JUNGLE)) 擊殺
+- 在 428 秒時，(Ahri (MIDDLE)) 被 (Hwei (MIDDLE)) 擊殺
+- 在 429 秒時，(Ahri (MIDDLE)) 助攻 (MasterYi (JUNGLE)) 擊殺了 (Hwei (MIDDLE))
+- 在 519 秒時，(Ahri (MIDDLE)) 助攻 (MasterYi (JUNGLE)) 擊殺了 (Graves (JUNGLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Samira (BOTTOM)
+終場表現: - 擊殺數: 14, 死亡數: 5, 助攻數: 7 - 獲得金錢: 16656 - 經驗值: 14457, 等级: 15 - 小兵擊殺數: 184, 野怪擊殺數: 45 關鍵事件:
+- 在 218 秒時，(Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 222 秒時，(Samira (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 381 秒時，(Samira (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 385 秒時，(Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nautilus (UTILITY)
+終場表現: - 擊殺數: 0, 死亡數: 5, 助攻數: 21 - 獲得金錢: 8458 - 經驗值: 10538, 等级: 13 - 小兵擊殺數: 44, 野怪擊殺數: 0 關鍵事件:
+- 在 45 秒時，(Nautilus (UTILITY)) 助攻 (Mordekaiser (TOP)) 擊殺了 (Graves (JUNGLE))
+- 在 218 秒時，(Nautilus (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+- 在 222 秒時，(Nautilus (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 381 秒時，(Nautilus (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Jinx (BOTTOM))
+- 在 385 秒時，(Nautilus (UTILITY)) 助攻 (Samira (BOTTOM)) 擊殺了 (Lulu (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Singed (TOP)
+終場表現: - 擊殺數: 11, 死亡數: 8, 助攻數: 10 - 獲得金錢: 13503 - 經驗值: 13595, 等级: 15 - 小兵擊殺數: 170, 野怪擊殺數: 0 關鍵事件:
+- 在 191 秒時，(Singed (TOP)) 擊殺了 (Ahri (MIDDLE))
+- 在 198 秒時，(Singed (TOP)) 擊殺了 (MasterYi (JUNGLE))
+- 在 415 秒時，(Singed (TOP)) 擊殺了 (Mordekaiser (TOP))
+- 在 514 秒時，(Singed (TOP)) 被 (Mordekaiser (TOP)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Graves (JUNGLE)
+終場表現: - 擊殺數: 9, 死亡數: 12, 助攻數: 15 - 獲得金錢: 12866 - 經驗值: 12423, 等级: 14 - 小兵擊殺數: 26, 野怪擊殺數: 117 關鍵事件:
+- 在 45 秒時，(Graves (JUNGLE)) 被 (Mordekaiser (TOP)) 擊殺
+- 在 191 秒時，(Graves (JUNGLE)) 助攻 (Singed (TOP)) 擊殺了 (Ahri (MIDDLE))
+- 在 198 秒時，(Graves (JUNGLE)) 助攻 (Singed (TOP)) 擊殺了 (MasterYi (JUNGLE))
+- 在 198 秒時，(Graves (JUNGLE)) 被 (Mordekaiser (TOP)) 擊殺
+- 在 368 秒時，(Graves (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 428 秒時，(Graves (JUNGLE)) 助攻 (Hwei (MIDDLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 519 秒時，(Graves (JUNGLE)) 被 (MasterYi (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Hwei (MIDDLE)
+終場表現: - 擊殺數: 3, 死亡數: 12, 助攻數: 16 - 獲得金錢: 9442 - 經驗值: 11617, 等级: 14 - 小兵擊殺數: 149, 野怪擊殺數: 4 關鍵事件:
+- 在 191 秒時，(Hwei (MIDDLE)) 助攻 (Singed (TOP)) 擊殺了 (Ahri (MIDDLE))
+- 在 194 秒時，(Hwei (MIDDLE)) 被 (MasterYi (JUNGLE)) 擊殺
+- 在 198 秒時，(Hwei (MIDDLE)) 助攻 (Singed (TOP)) 擊殺了 (MasterYi (JUNGLE))
+- 在 355 秒時，(Hwei (MIDDLE)) 被 (Ahri (MIDDLE)) 擊殺
+- 在 368 秒時，(Hwei (MIDDLE)) 助攻 (Graves (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 428 秒時，(Hwei (MIDDLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 429 秒時，(Hwei (MIDDLE)) 被 (MasterYi (JUNGLE)) 擊殺
+- 在 531 秒時，(Hwei (MIDDLE)) 被 (MasterYi (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Jinx (BOTTOM)
+終場表現: - 擊殺數: 4, 死亡數: 9, 助攻數: 12 - 獲得金錢: 10639 - 經驗值: 11364, 等级: 13 - 小兵擊殺數: 161, 野怪擊殺數: 9 關鍵事件:
+- 在 222 秒時，(Jinx (BOTTOM)) 被 (Samira (BOTTOM)) 擊殺
+- 在 381 秒時，(Jinx (BOTTOM)) 被 (Samira (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Lulu (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 9, 助攻數: 14 - 獲得金錢: 7077 - 經驗值: 9087, 等级: 12 - 小兵擊殺數: 24, 野怪擊殺數: 0 關鍵事件:
+- 在 218 秒時，(Lulu (UTILITY)) 被 (Samira (BOTTOM)) 擊殺
+- 在 384 秒時，(Lulu (UTILITY)) 擊殺了 (MasterYi (JUNGLE))
+- 在 385 秒時，(Lulu (UTILITY)) 被 (Samira (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Singed (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 7, 助攻數: 10 - 獲得金錢: 10996 - 經驗值: 12553, 等级: 14 - 小兵擊殺數: 159, 野怪擊殺數: 0 關鍵事件:
+- 在 264 秒時，(Singed (BOTTOM)) 擊殺了 (Nami (UTILITY))
+- 在 269 秒時，(Singed (BOTTOM)) 擊殺了 (Ezreal (BOTTOM))
+- 在 269 秒時，(Singed (BOTTOM)) 被 (Ezreal (BOTTOM)) 擊殺
+- 在 478 秒時，(Singed (BOTTOM)) 被 (Ezreal (BOTTOM)) 擊殺
+- 在 478 秒時，(Singed (BOTTOM)) 擊殺了 (Ezreal (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Senna (UTILITY)
+終場表現: - 擊殺數: 6, 死亡數: 5, 助攻數: 15 - 獲得金錢: 10673 - 經驗值: 10579, 等级: 13 - 小兵擊殺數: 24, 野怪擊殺數: 0 關鍵事件:
+- 在 153 秒時，(Senna (UTILITY)) 被 (Nami (UTILITY)) 擊殺
+- 在 264 秒時，(Senna (UTILITY)) 助攻 (Singed (BOTTOM)) 擊殺了 (Nami (UTILITY))
+- 在 269 秒時，(Senna (UTILITY)) 助攻 (Singed (BOTTOM)) 擊殺了 (Ezreal (BOTTOM))
+- 在 478 秒時，(Senna (UTILITY)) 助攻 (Singed (BOTTOM)) 擊殺了 (Ezreal (BOTTOM))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Vi (JUNGLE)
+終場表現: - 擊殺數: 13, 死亡數: 2, 助攻數: 3 - 獲得金錢: 14358 - 經驗值: 15186, 等级: 16 - 小兵擊殺數: 29, 野怪擊殺數: 182 關鍵事件:
+- 在 236 秒時，(Vi (JUNGLE)) 助攻 (Skarner (TOP)) 擊殺了 (Ornn (TOP))
+- 在 384 秒時，(Vi (JUNGLE)) 擊殺了 (Nidalee (JUNGLE))
+- 在 390 秒時，(Vi (JUNGLE)) 擊殺了 (Zed (MIDDLE))
+- 在 405 秒時，(Vi (JUNGLE)) 擊殺了 (Ornn (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ahri (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 6, 助攻數: 10 - 獲得金錢: 11572 - 經驗值: 14198, 等级: 15 - 小兵擊殺數: 167, 野怪擊殺數: 0 關鍵事件:
+- 在 226 秒時，(Ahri (MIDDLE)) 被 (Nidalee (JUNGLE)) 擊殺
+- 在 384 秒時，(Ahri (MIDDLE)) 助攻 (Vi (JUNGLE)) 擊殺了 (Nidalee (JUNGLE))
+- 在 389 秒時，(Ahri (MIDDLE)) 被 (Zed (MIDDLE)) 擊殺
+- 在 390 秒時，(Ahri (MIDDLE)) 助攻 (Vi (JUNGLE)) 擊殺了 (Zed (MIDDLE))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 4, 死亡數: 2, 助攻數: 10 - 獲得金錢: 10449 - 經驗值: 15028, 等级: 16 - 小兵擊殺數: 172, 野怪擊殺數: 8 關鍵事件:
+- 在 236 秒時，(Skarner (TOP)) 擊殺了 (Ornn (TOP))
+- 在 405 秒時，(Skarner (TOP)) 助攻 (Vi (JUNGLE)) 擊殺了 (Ornn (TOP))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Nidalee (JUNGLE)
+終場表現: - 擊殺數: 3, 死亡數: 9, 助攻數: 7 - 獲得金錢: 9149 - 經驗值: 11027, 等级: 13 - 小兵擊殺數: 34, 野怪擊殺數: 112 關鍵事件:
+- 在 226 秒時，(Nidalee (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 384 秒時，(Nidalee (JUNGLE)) 被 (Vi (JUNGLE)) 擊殺
+- 在 389 秒時，(Nidalee (JUNGLE)) 助攻 (Zed (MIDDLE)) 擊殺了 (Ahri (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Zed (MIDDLE)
+終場表現: - 擊殺數: 11, 死亡數: 8, 助攻數: 3 - 獲得金錢: 13914 - 經驗值: 14548, 等级: 15 - 小兵擊殺數: 202, 野怪擊殺數: 0 關鍵事件:
+- 在 226 秒時，(Zed (MIDDLE)) 助攻 (Nidalee (JUNGLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 389 秒時，(Zed (MIDDLE)) 擊殺了 (Ahri (MIDDLE))
+- 在 390 秒時，(Zed (MIDDLE)) 被 (Vi (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ornn (TOP)
+終場表現: - 擊殺數: 0, 死亡數: 6, 助攻數: 5 - 獲得金錢: 7540 - 經驗值: 12033, 等级: 14 - 小兵擊殺數: 160, 野怪擊殺數: 0 關鍵事件:
+- 在 236 秒時，(Ornn (TOP)) 被 (Skarner (TOP)) 擊殺
+- 在 405 秒時，(Ornn (TOP)) 被 (Vi (JUNGLE)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Ezreal (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 9, 助攻數: 5 - 獲得金錢: 10613 - 經驗值: 9766, 等级: 12 - 小兵擊殺數: 151, 野怪擊殺數: 0 關鍵事件:
+- 在 153 秒時，(Ezreal (BOTTOM)) 助攻 (Nami (UTILITY)) 擊殺了 (Senna (UTILITY))
+- 在 269 秒時，(Ezreal (BOTTOM)) 被 (Singed (BOTTOM)) 擊殺
+- 在 269 秒時，(Ezreal (BOTTOM)) 擊殺了 (Singed (BOTTOM))
+- 在 478 秒時，(Ezreal (BOTTOM)) 擊殺了 (Singed (BOTTOM))
+- 在 478 秒時，(Ezreal (BOTTOM)) 被 (Singed (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Nami (UTILITY)
+終場表現: - 擊殺數: 1, 死亡數: 5, 助攻數: 11 - 獲得金錢: 6524 - 經驗值: 9156, 等级: 12 - 小兵擊殺數: 19, 野怪擊殺數: 0 關鍵事件:
+- 在 153 秒時，(Nami (UTILITY)) 擊殺了 (Senna (UTILITY))
+- 在 264 秒時，(Nami (UTILITY)) 被 (Singed (BOTTOM)) 擊殺
+- 在 269 秒時，(Nami (UTILITY)) 助攻 (Ezreal (BOTTOM)) 擊殺了 (Singed (BOTTOM))
+- 在 478 秒時，(Nami (UTILITY)) 助攻 (Ezreal (BOTTOM)) 擊殺了 (Singed (BOTTOM))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Skarner (TOP)
+終場表現: - 擊殺數: 2, 死亡數: 8, 助攻數: 13 - 獲得金錢: 8854 - 經驗值: 13955, 等级: 15 - 小兵擊殺數: 120, 野怪擊殺數: 0 關鍵事件:
+- 在 353 秒時，(Skarner (TOP)) 被 (Yorick (TOP)) 擊殺
+- 在 475 秒時，(Skarner (TOP)) 被 (Yorick (TOP)) 擊殺
+- 在 522 秒時，(Skarner (TOP)) 被 (Yorick (TOP)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Ekko (JUNGLE)
+終場表現: - 擊殺數: 14, 死亡數: 5, 助攻數: 6 - 獲得金錢: 17843 - 經驗值: 17333, 等级: 17 - 小兵擊殺數: 62, 野怪擊殺數: 165 關鍵事件:
+- 在 99 秒時，(Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 182 秒時，(Ekko (JUNGLE)) 助攻 (Soraka (UTILITY)) 擊殺了 (Volibear (JUNGLE))
+- 在 345 秒時，(Ekko (JUNGLE)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Varus (BOTTOM))
+- 在 351 秒時，(Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 352 秒時，(Ekko (JUNGLE)) 被 (Yuumi (UTILITY)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Soraka (UTILITY)
+終場表現: - 擊殺數: 2, 死亡數: 4, 助攻數: 31 - 獲得金錢: 9692 - 經驗值: 11794, 等级: 14 - 小兵擊殺數: 24, 野怪擊殺數: 0 關鍵事件:
+- 在 99 秒時，(Soraka (UTILITY)) 助攻 (Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 182 秒時，(Soraka (UTILITY)) 擊殺了 (Volibear (JUNGLE))
+- 在 241 秒時，(Soraka (UTILITY)) 擊殺了 (Varus (BOTTOM))
+- 在 255 秒時，(Soraka (UTILITY)) 被 (Yuumi (UTILITY)) 擊殺
+- 在 345 秒時，(Soraka (UTILITY)) 助攻 (Kaisa (BOTTOM)) 擊殺了 (Varus (BOTTOM))
+- 在 351 秒時，(Soraka (UTILITY)) 助攻 (Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Kaisa (BOTTOM)
+終場表現: - 擊殺數: 23, 死亡數: 5, 助攻數: 12 - 獲得金錢: 18491 - 經驗值: 14950, 等级: 16 - 小兵擊殺數: 204, 野怪擊殺數: 26 關鍵事件:
+- 在 99 秒時，(Kaisa (BOTTOM)) 助攻 (Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 238 秒時，(Kaisa (BOTTOM)) 被 (Varus (BOTTOM)) 擊殺
+- 在 241 秒時，(Kaisa (BOTTOM)) 助攻 (Soraka (UTILITY)) 擊殺了 (Varus (BOTTOM))
+- 在 345 秒時，(Kaisa (BOTTOM)) 擊殺了 (Varus (BOTTOM))
+- 在 351 秒時，(Kaisa (BOTTOM)) 助攻 (Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+",Win
+"比賽模式: CLASSIC
+使用英雄: Diana (MIDDLE)
+終場表現: - 擊殺數: 3, 死亡數: 7, 助攻數: 15 - 獲得金錢: 10728 - 經驗值: 14579, 等级: 15 - 小兵擊殺數: 171, 野怪擊殺數: 2 關鍵事件:
+- 在 99 秒時，(Diana (MIDDLE)) 助攻 (Ekko (JUNGLE)) 擊殺了 (Yuumi (UTILITY))
+- 在 379 秒時，(Diana (MIDDLE)) 被 (Vex (MIDDLE)) 擊殺
+- 在 471 秒時，(Diana (MIDDLE)) 被 (Vex (MIDDLE)) 擊殺
+",Win
+"比賽模式: CLASSIC
+使用英雄: Yuumi (UTILITY)
+終場表現: - 擊殺數: 4, 死亡數: 7, 助攻數: 14 - 獲得金錢: 9439 - 經驗值: 11230, 等级: 13 - 小兵擊殺數: 8, 野怪擊殺數: 0 關鍵事件:
+- 在 99 秒時，(Yuumi (UTILITY)) 被 (Ekko (JUNGLE)) 擊殺
+- 在 238 秒時，(Yuumi (UTILITY)) 助攻 (Varus (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 255 秒時，(Yuumi (UTILITY)) 擊殺了 (Soraka (UTILITY))
+- 在 351 秒時，(Yuumi (UTILITY)) 被 (Ekko (JUNGLE)) 擊殺
+- 在 352 秒時，(Yuumi (UTILITY)) 擊殺了 (Ekko (JUNGLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Volibear (JUNGLE)
+終場表現: - 擊殺數: 2, 死亡數: 10, 助攻數: 11 - 獲得金錢: 10073 - 經驗值: 13534, 等级: 15 - 小兵擊殺數: 32, 野怪擊殺數: 123 關鍵事件:
+- 在 182 秒時，(Volibear (JUNGLE)) 被 (Soraka (UTILITY)) 擊殺
+- 在 353 秒時，(Volibear (JUNGLE)) 助攻 (Yorick (TOP)) 擊殺了 (Skarner (TOP))
+- 在 471 秒時，(Volibear (JUNGLE)) 助攻 (Vex (MIDDLE)) 擊殺了 (Diana (MIDDLE))
+- 在 522 秒時，(Volibear (JUNGLE)) 助攻 (Yorick (TOP)) 擊殺了 (Skarner (TOP))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Vex (MIDDLE)
+終場表現: - 擊殺數: 7, 死亡數: 9, 助攻數: 7 - 獲得金錢: 11023 - 經驗值: 12741, 等级: 14 - 小兵擊殺數: 171, 野怪擊殺數: 0 關鍵事件:
+- 在 379 秒時，(Vex (MIDDLE)) 擊殺了 (Diana (MIDDLE))
+- 在 471 秒時，(Vex (MIDDLE)) 擊殺了 (Diana (MIDDLE))
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Varus (BOTTOM)
+終場表現: - 擊殺數: 7, 死亡數: 10, 助攻數: 9 - 獲得金錢: 13012 - 經驗值: 11275, 等级: 13 - 小兵擊殺數: 176, 野怪擊殺數: 0 關鍵事件:
+- 在 238 秒時，(Varus (BOTTOM)) 擊殺了 (Kaisa (BOTTOM))
+- 在 241 秒時，(Varus (BOTTOM)) 被 (Soraka (UTILITY)) 擊殺
+- 在 255 秒時，(Varus (BOTTOM)) 助攻 (Yuumi (UTILITY)) 擊殺了 (Soraka (UTILITY))
+- 在 345 秒時，(Varus (BOTTOM)) 被 (Kaisa (BOTTOM)) 擊殺
+",Lose
+"比賽模式: CLASSIC
+使用英雄: Yorick (TOP)
+終場表現: - 擊殺數: 9, 死亡數: 8, 助攻數: 3 - 獲得金錢: 17157 - 經驗值: 16675, 等级: 17 - 小兵擊殺數: 230, 野怪擊殺數: 8 關鍵事件:
+- 在 353 秒時，(Yorick (TOP)) 擊殺了 (Skarner (TOP))
+- 在 475 秒時，(Yorick (TOP)) 擊殺了 (Skarner (TOP))
+- 在 522 秒時，(Yorick (TOP)) 擊殺了 (Skarner (TOP))
+- 在 533 秒時，(Yorick (TOP)) 擊毀了一座TOWER_BUILDING
+",Lose
